@@ -102,12 +102,12 @@
         <section>
           <h2>Images</h2>
           <div class="gallery">
-            <a href="assets/room.jpg"><img src="assets/room.jpg" alt="Exploring a room in Modern Mud"></a>
-            <a href="assets/combat.jpg"><img src="assets/combat.jpg" alt="Tactical combat system"></a>
-            <a href="assets/talking.jpg"><img src="assets/talking.jpg" alt="NPC conversation"></a>
-            <a href="assets/examine.jpg"><img src="assets/examine.jpg" alt="Examining the world"></a>
-            <a href="assets/questlog.jpg"><img src="assets/questlog.jpg" alt="Quest log"></a>
-            <a href="assets/languagues.jpg"><img src="assets/languagues.jpg" alt="Multiple language support"></a>
+            <a href="assets/room.jpg" data-lightbox><img src="assets/room.jpg" alt="Exploring a room in Modern Mud"></a>
+            <a href="assets/combat.jpg" data-lightbox><img src="assets/combat.jpg" alt="Tactical combat system"></a>
+            <a href="assets/talking.jpg" data-lightbox><img src="assets/talking.jpg" alt="NPC conversation"></a>
+            <a href="assets/examine.jpg" data-lightbox><img src="assets/examine.jpg" alt="Examining the world"></a>
+            <a href="assets/questlog.jpg" data-lightbox><img src="assets/questlog.jpg" alt="Quest log"></a>
+            <a href="assets/languagues.jpg" data-lightbox><img src="assets/languagues.jpg" alt="Multiple language support"></a>
           </div>
         </section>
 
@@ -200,6 +200,80 @@
     </footer>
 
   </div>
+
+  <!-- Lightbox -->
+  <div class="lightbox" id="lightbox">
+    <div class="lightbox-backdrop"></div>
+    <button class="lightbox-close" aria-label="Close">&times;</button>
+    <button class="lightbox-nav lightbox-prev" aria-label="Previous">&#8249;</button>
+    <button class="lightbox-nav lightbox-next" aria-label="Next">&#8250;</button>
+    <div class="lightbox-content">
+      <img class="lightbox-img" id="lightbox-img" src="" alt="">
+      <p class="lightbox-caption" id="lightbox-caption"></p>
+      <p class="lightbox-counter" id="lightbox-counter"></p>
+    </div>
+  </div>
+
+  <script>
+    (function() {
+      const lightbox = document.getElementById('lightbox');
+      const lbImg = document.getElementById('lightbox-img');
+      const lbCaption = document.getElementById('lightbox-caption');
+      const lbCounter = document.getElementById('lightbox-counter');
+      const items = document.querySelectorAll('[data-lightbox]');
+      let current = 0;
+
+      function open(index) {
+        current = index;
+        const item = items[index];
+        const img = item.querySelector('img');
+        lbImg.src = item.href;
+        lbImg.alt = img.alt;
+        lbCaption.textContent = img.alt;
+        lbCounter.textContent = (index + 1) + ' / ' + items.length;
+        lightbox.classList.add('active');
+        document.body.style.overflow = 'hidden';
+      }
+
+      function close() {
+        lightbox.classList.remove('active');
+        document.body.style.overflow = '';
+      }
+
+      function navigate(dir) {
+        current = (current + dir + items.length) % items.length;
+        const item = items[current];
+        const img = item.querySelector('img');
+        lbImg.classList.add('lightbox-img--switching');
+        setTimeout(function() {
+          lbImg.src = item.href;
+          lbImg.alt = img.alt;
+          lbCaption.textContent = img.alt;
+          lbCounter.textContent = (current + 1) + ' / ' + items.length;
+          lbImg.classList.remove('lightbox-img--switching');
+        }, 200);
+      }
+
+      items.forEach(function(item, i) {
+        item.addEventListener('click', function(e) {
+          e.preventDefault();
+          open(i);
+        });
+      });
+
+      lightbox.querySelector('.lightbox-close').addEventListener('click', close);
+      lightbox.querySelector('.lightbox-backdrop').addEventListener('click', close);
+      lightbox.querySelector('.lightbox-prev').addEventListener('click', function() { navigate(-1); });
+      lightbox.querySelector('.lightbox-next').addEventListener('click', function() { navigate(1); });
+
+      document.addEventListener('keydown', function(e) {
+        if (!lightbox.classList.contains('active')) return;
+        if (e.key === 'Escape') close();
+        if (e.key === 'ArrowLeft') navigate(-1);
+        if (e.key === 'ArrowRight') navigate(1);
+      });
+    })();
+  </script>
 
 </body>
 </html>

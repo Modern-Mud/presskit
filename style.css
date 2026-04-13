@@ -504,7 +504,9 @@ section a:hover {
 }
 
 .quote-block {
-  background: linear-gradient(145deg, rgba(139, 0, 0, 0.15) 0%, rgba(15, 15, 21, 0.95) 100%);
+  background:
+    linear-gradient(145deg, rgba(139, 0, 0, 0.15) 0%, rgba(15, 15, 21, 0.95) 100%),
+    var(--bg-stone);
   border-left: 3px solid var(--blood);
 }
 

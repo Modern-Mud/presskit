@@ -193,10 +193,14 @@
 
     <!-- ============ GALLERY ============ -->
     <section class="gallery-band" aria-labelledby="gallery-title">
-      <div class="wrap">
+      <div class="wrap gallery-head">
         <h2 id="gallery-title" class="reveal">Images</h2>
+        <div class="strip-nav reveal">
+          <button class="strip-btn" type="button" data-dir="-1" aria-label="Previous images">&#8249;</button>
+          <button class="strip-btn" type="button" data-dir="1" aria-label="Next images">&#8250;</button>
+        </div>
       </div>
-      <div class="filmstrip" tabindex="0" aria-label="Screenshots, scroll sideways">
+      <div class="filmstrip" tabindex="0" aria-label="Screenshots: drag, swipe or use the arrows">
         <a href="assets/shots/market.jpg" data-lightbox><img src="assets/shots/market.jpg" alt="The Moon Market in Shadi Vanam" loading="lazy"></a>
         <a href="assets/shots/shell-game.jpg" data-lightbox><img src="assets/shots/shell-game.jpg" alt="Shell game against One-Eyed Tovar" loading="lazy"></a>
         <a href="assets/shots/tovar.jpg" data-lightbox><img src="assets/shots/tovar.jpg" alt="Conversation with One-Eyed Tovar" loading="lazy"></a>
@@ -208,6 +212,7 @@
         <a href="assets/shots/creation.jpg" data-lightbox><img src="assets/shots/creation.jpg" alt="Character creation" loading="lazy"></a>
         <a href="assets/room-art.jpg" data-lightbox><img src="assets/room-art.jpg" alt="Room artwork: a glowing underground grove" loading="lazy"></a>
       </div>
+      <div class="strip-progress" aria-hidden="true"><span></span></div>
     </section>
 
     <!-- ============ ROADMAP ============ -->

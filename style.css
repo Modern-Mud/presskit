@@ -743,21 +743,47 @@ p { text-wrap: pretty; }
   .num { font-size: 1.25rem; }
 }
 
-/* ---------- Gallery filmstrip ---------- */
-.gallery-band { padding: clamp(4rem, 8vw, 6rem) 0 clamp(5rem, 9vw, 7rem); }
+/* ---------- Gallery carousel ----------
+   Drag it with the mouse (with momentum), swipe it on touch, or use the
+   arrows. It runs edge to edge; the ends fade out instead of leaving a gap. */
+.gallery-band { padding: clamp(3rem, 6vw, 4.5rem) 0 clamp(4rem, 8vw, 6rem); }
+.gallery-head { display: flex; align-items: end; justify-content: space-between; gap: 1rem; }
+.strip-nav { display: flex; gap: 0.6rem; margin-bottom: 1.6rem; }
+.strip-btn {
+  width: 48px;
+  height: 48px;
+  display: grid;
+  place-items: center;
+  font-size: 1.8rem;
+  line-height: 1;
+  color: var(--bone-dim);
+  background: transparent;
+  border: 1px solid var(--line);
+  cursor: pointer;
+  transition: color 200ms ease, border-color 200ms ease, opacity 200ms ease, transform 120ms var(--ease-out);
+}
+.strip-btn:hover { color: var(--gold-pale); border-color: var(--gold); }
+.strip-btn:active { transform: scale(0.95); }
+.strip-btn:disabled { opacity: 0.3; cursor: default; }
+
 .filmstrip {
   display: grid;
   grid-auto-flow: column;
-  grid-auto-columns: min(560px, 78vw);
+  grid-auto-columns: min(620px, 82vw);
   gap: 1.2rem;
   overflow-x: auto;
   overscroll-behavior-x: contain;
   scroll-snap-type: x mandatory;
-  padding: 0.5rem max(1.5rem, (100vw - var(--wrap)) / 2) 1.5rem;
-  scroll-padding-inline: max(1.5rem, (100vw - var(--wrap)) / 2);
-  scrollbar-width: thin;
-  scrollbar-color: var(--gold-deep) transparent;
+  scroll-padding-inline: 1.5rem;
+  padding: 0.5rem 1.5rem 0.5rem;
+  scrollbar-width: none;
+  cursor: grab;
+  -webkit-mask-image: linear-gradient(90deg, transparent 0, #000 1.5rem, #000 calc(100% - 4rem), transparent 100%);
+  mask-image: linear-gradient(90deg, transparent 0, #000 1.5rem, #000 calc(100% - 4rem), transparent 100%);
 }
+.filmstrip::-webkit-scrollbar { display: none; }
+.filmstrip.is-dragging { cursor: grabbing; scroll-snap-type: none; user-select: none; }
+.filmstrip.is-dragging a { pointer-events: none; }
 .filmstrip a {
   scroll-snap-align: start;
   display: block;
@@ -765,9 +791,16 @@ p { text-wrap: pretty; }
   border: 1px solid var(--line);
   aspect-ratio: 16 / 9;
   transition: transform 160ms var(--ease-out), border-color 200ms ease;
+  -webkit-user-drag: none;
 }
+.filmstrip img { width: 100%; height: 100%; object-fit: cover; transition: transform 400ms var(--ease-out); -webkit-user-drag: none; pointer-events: none; }
 .filmstrip a:active { transform: scale(0.98); }
-.filmstrip img { width: 100%; height: 100%; object-fit: cover; transition: transform 400ms var(--ease-out); }
+
+/* A thin progress line under the strip instead of a scrollbar. */
+.strip-progress { width: min(var(--wrap), 100% - 3rem); margin: 1.4rem auto 0; height: 1px; background: var(--line); position: relative; overflow: hidden; }
+.strip-progress span { position: absolute; inset: 0 auto 0 0; width: 100%; background: var(--gold); transform-origin: left; transform: scaleX(var(--p, 0.2)); transition: transform 120ms linear; }
+
+@media (hover: none) { .strip-nav { display: none; } }
 
 /* ---------- Roadmap ----------
    A path down the page: one gold line, a node per stage, the items as an
@@ -981,8 +1014,8 @@ p { text-wrap: pretty; }
   .sigils li:hover img { transform: translateY(-6px); }
   .trailer:hover img { transform: scale(1.03); }
   .trailer:hover .play { transform: scale(1.08); background: rgba(201, 164, 92, 0.35); }
-  .filmstrip a:hover { border-color: var(--gold); }
-  .filmstrip a:hover img { transform: scale(1.04); }
+  .filmstrip:not(.is-dragging) a:hover { border-color: var(--gold); }
+  .filmstrip:not(.is-dragging) a:hover img { transform: scale(1.04); }
   .feature-list li:hover::before { opacity: 1; }
   .feature-list li:hover .num { color: var(--gold); }
 }

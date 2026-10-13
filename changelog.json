@@ -1,5 +1,77 @@
 [
  {
+  "version": "0.0.2.18",
+  "date": "2026-10-13",
+  "notes": {
+   "es": {
+    "highlight": "Opciones y Reportar un problema",
+    "sections": [
+     {
+      "title": "Correcciones",
+      "items": [
+       "Opciones y Reportar un problema vuelven a abrirse, y las ventanas recuperan su tamaño."
+      ]
+     }
+    ]
+   },
+   "en": {
+    "highlight": "Options and Report a problem",
+    "sections": [
+     {
+      "title": "Fixes",
+      "items": [
+       "Options and Report a problem open again, and windows are back to their proper size."
+      ]
+     }
+    ]
+   },
+   "fr": {
+    "highlight": "Options et Signaler un problème",
+    "sections": [
+     {
+      "title": "Corrections",
+      "items": [
+       "Options et Signaler un problème s'ouvrent de nouveau, et les fenêtres retrouvent leur taille."
+      ]
+     }
+    ]
+   },
+   "de": {
+    "highlight": "Optionen und Problem melden",
+    "sections": [
+     {
+      "title": "Fehlerbehebungen",
+      "items": [
+       "Optionen und Problem melden öffnen sich wieder, und die Fenster haben wieder ihre richtige Größe."
+      ]
+     }
+    ]
+   },
+   "it": {
+    "highlight": "Opzioni e Segnala un problema",
+    "sections": [
+     {
+      "title": "Correzioni",
+      "items": [
+       "Opzioni e Segnala un problema si aprono di nuovo, e le finestre tornano alla loro dimensione."
+      ]
+     }
+    ]
+   },
+   "pt": {
+    "highlight": "Opções e Reportar um problema",
+    "sections": [
+     {
+      "title": "Correções",
+      "items": [
+       "As Opções e Reportar um problema voltam a abrir-se, e as janelas recuperam o seu tamanho."
+      ]
+     }
+    ]
+   }
+  }
+ },
+ {
   "version": "0.0.2.17",
   "date": "2026-10-13",
   "notes": {

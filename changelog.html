@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Modern Mud — Changelog</title>
+  <meta name="description" content="Every Modern Mud patch, as it reached the game, in six languages.">
+  <meta property="og:title" content="Modern Mud — Changelog">
+  <meta property="og:description" content="Every patch, as it reached the game.">
+  <meta property="og:image" content="assets/cover.png">
+  <meta name="theme-color" content="#0c0a0b">
+  <link rel="icon" href="assets/gods/sigil_aelis.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700;900&family=Cinzel:wght@500;600;700&family=IM+Fell+English:ital@0;1&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="changelog.css">
+  <script>document.documentElement.classList.add('js');</script>
+</head>
+<body class="changelog-page">
+  <a class="skip-link" href="#main" data-i18n="skip">Skip to content</a>
+  <div class="grain" aria-hidden="true"></div>
+
+  <nav class="topbar is-shown" aria-label="Sections">
+    <a class="topbar-brand" href="index.html">Modern Mud</a>
+    <ul>
+      <li><a href="index.html" data-i18n="back">Press kit</a></li>
+      <li><a href="index.html#roadmap" data-i18n="roadmap">Roadmap</a></li>
+    </ul>
+    <a class="btn btn-gold btn-sm" href="https://store.steampowered.com/app/3513750/Modern_Mud/" target="_blank" rel="noopener" data-i18n="play">Play free</a>
+  </nav>
+
+  <main id="main">
+    <header class="cl-head">
+      <div class="chapter-art" style="--art: url('assets/art/sv_pueblo_14.jpg')" aria-hidden="true"></div>
+      <div class="wrap cl-head-inner">
+        <p class="chapter-num" data-i18n="kicker">Patch notes</p>
+        <h1 class="cl-title" data-i18n="title">Changelog</h1>
+        <p class="cl-lead" data-i18n="lead">Every patch, as it reached the game.</p>
+        <div class="cl-langs" role="group" aria-label="Language" id="langs"></div>
+      </div>
+    </header>
+
+    <section class="wrap cl-body" aria-live="polite">
+      <ol class="cl-log" id="log"></ol>
+      <p class="cl-empty" id="empty" hidden></p>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>&copy; 2024&ndash;2026 Jacobo Caraballo. All rights reserved.</p>
+  </footer>
+
+  <script src="changelog.js"></script>
+</body>
+</html>

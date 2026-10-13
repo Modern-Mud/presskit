@@ -1,0 +1,2642 @@
+[
+ {
+  "version": "0.0.2.17",
+  "date": "2026-10-13",
+  "notes": {
+   "es": {
+    "highlight": "Peletería, Sastrería y nuevos platos",
+    "sections": [
+     {
+      "title": "Novedades",
+      "items": [
+       "Martha enseña tres platos nuevos a quien ya domina el fogón.",
+       "Robar a quien duerme es más fácil... y despertarlo sale caro.",
+       "Nuevos oficios: {up:Peletería} y {up:Sastrería}.",
+       "Las piezas de cuero se cosen a mano en la mesa del peletero.",
+       "Las prendas de tela se tejen a mano en el telar del Tejedor.",
+       "{up:Bolsas} para llevar más cosas."
+      ]
+     },
+     {
+      "title": "Cambios",
+      "items": [
+       "Los PNJ ya no tienen botón de atacar en la ventana de la sala; si quieres hacerlo, escribe {up:atacar <nombre>}.",
+       "El Pliego del arquero de los pinos ya no depende solo del Rey de los Osos.",
+       "El Pliego del pocero y el Pliego de la Guardia Hueca caen más a menudo.",
+       "La Cocina ya no da reputación de artesano: solo la dan los oficios principales.",
+       "Ahora se ve y se oye cuando un enemigo se une al combate.",
+       "Los guanteletes y corazas de bronce y hierro aceptan {up:cuero curtido} como forro, además de la piel de ciervo.",
+       "La cuerda de tripa también se hace con {up:correas de cuero}, además de piel de ciervo y de lobo.",
+       "Minería ahora da {up:Constitución}, Herrería y Desollar dan {up:Fuerza}."
+      ]
+     },
+     {
+      "title": "Correcciones",
+      "items": [
+       "El tipo de daño de las armas y el material de las piezas salen ya en tu idioma.",
+       "La trucha a la brasa y el guiso de pescado ya tienen su propio dibujo.",
+       "Examinar la columna de la Cámara del Eco ya no muestra la veta de hierro.",
+       "En «La vigilia de las campanas sin cuerda», el diario ya dice a quién llevar el aceite y la mecha.",
+       "El lobo alfa ya no deja carne de oso.",
+       "La brújula ya no salta cuando cambia la línea de jugadores de la sala.",
+       "La llegada de los elfos ya no repite su recuerdo al despertar.",
+       "En la barra y las mesas de la taberna ya puedes elegir en qué lengua hablas.",
+       "Ya se pueden llevar dos anillos a la vez y en cualquiera de los dos huecos.",
+       "Tras ponerte o quitarte algo, las armas, armaduras y accesorios de la mochila ya se pueden equipar sin cerrar la ventana.",
+       "El texto ya se lee nítido con la ventana a cualquier tamaño.",
+       "En «La vigilia de las campanas sin cuerda», Pireo ya atiende a quien terminó la historia de Shadi.",
+       "En «El cubo que devuelve la mirada», Coj ya atiende a quien terminó la historia de Shadi.",
+       "La vigilia de las campanas ya recuerda cómo acabó la historia de Shadi Vanam.",
+       "Traicionar a Zyra ya no tiene vuelta atrás."
+      ]
+     }
+    ]
+   },
+   "en": {
+    "highlight": "Leatherworking, Tailoring and new dishes",
+    "sections": [
+     {
+      "title": "New",
+      "items": [
+       "Cook Martha teaches three new dishes to anyone who has already mastered the stove.",
+       "Robbing someone asleep is easier... and waking them costs dearly.",
+       "New trades: {up:Leatherworking} and {up:Tailoring}.",
+       "Leather pieces are stitched by hand at the furrier's table.",
+       "Cloth garments are woven by hand at the Weaver's loom.",
+       "{up:Bags} to carry more."
+      ]
+     },
+     {
+      "title": "Changes",
+      "items": [
+       "NPCs no longer have an attack button in the room window; to attack one, type {up:attack <name>}.",
+       "Folio of the Pine Archer no longer depends only on the Bear King.",
+       "The Well-Digger's Folio and Folio of the Hollow Guard drop more often.",
+       "Cooking no longer earns crafter reputation: only main professions do.",
+       "You now see and hear it when an enemy joins the fight.",
+       "Bronze and iron gauntlets and cuirasses accept {up:tanned leather} as lining, as well as deer hide.",
+       "The gut bowstring can also be made with {up:leather strips}, as well as deer and wolf hide.",
+       "Mining now gives {up:Constitution}, Blacksmithing and Skinning give {up:Strength}."
+      ]
+     },
+     {
+      "title": "Fixes",
+      "items": [
+       "Weapon damage types and item materials now show in your language.",
+       "Grilled trout and fish stew now have their own picture.",
+       "Examining the column in the Echo Chamber no longer shows the iron vein.",
+       "In \"The Vigil of the Cordless Bells,\" the diary now says who to bring the oil and the wick to.",
+       "The alpha wolf no longer drops bear meat.",
+       "The compass no longer jumps when the room's players line changes.",
+       "The elves' arrival no longer repeats its memory upon waking.",
+       "At the tavern's bar and tables you can now choose which tongue you speak.",
+       "You can now wear two rings at once, in either of the two ring slots.",
+       "After putting something on or taking it off, the weapons, armour and accessories in your backpack can be equipped again without closing the window.",
+       "Chat text now stays crisp with the window at any size.",
+       "In \"The Vigil of the Cordless Bells,\" Pireo now attends to whoever finished Shadi's story.",
+       "In \"The Bucket That Returns Your Gaze,\" Coj now attends to whoever finished Shadi's story.",
+       "The bell vigil now remembers how the story of Shadi Vanam ended.",
+       "Betraying Zyra can no longer be undone."
+      ]
+     }
+    ]
+   },
+   "fr": {
+    "highlight": "Pelleterie, Couture et nouveaux plats",
+    "sections": [
+     {
+      "title": "Nouveautés",
+      "items": [
+       "Cuisinière Martha enseigne trois nouveaux plats à qui maîtrise déjà le fourneau.",
+       "Voler quelqu'un qui dort est plus facile... et le réveiller coûte cher.",
+       "Nouveaux métiers : {up:Pelleterie} et {up:Couture}.",
+       "Les pièces de cuir se cousent à la main à la table du pelletier.",
+       "Les vêtements de tissu se tissent à la main au métier du Tisserand.",
+       "Des {up:sacs} pour en porter plus."
+      ]
+     },
+     {
+      "title": "Changements",
+      "items": [
+       "Les PNJ n'ont plus de bouton d'attaque dans la fenêtre de la salle ; pour en attaquer un, tape {up:attaquer <nom>}.",
+       "Le Feuillet de l'archer des pins ne dépend plus seulement du Roi des Ours.",
+       "Le Feuillet du puisatier et le Feuillet de la Garde Creuse tombent plus souvent.",
+       "La Cuisine ne donne plus de réputation d'artisan : seuls les métiers principaux en donnent.",
+       "Tu vois et entends désormais quand un ennemi rejoint le combat.",
+       "Les gantelets et cuirasses en bronze et en fer acceptent le {up:cuir tanné} comme doublure, en plus de la peau de cerf.",
+       "La corde de boyau se fait aussi avec des {up:lanières de cuir}, en plus de la peau de cerf et de loup.",
+       "Le Minage donne désormais la {up:Constitution}, la Forge et le Dépeçage donnent la {up:Force}."
+      ]
+     },
+     {
+      "title": "Corrections",
+      "items": [
+       "Le type de dégâts des armes et le matériau des pièces s'affichent désormais dans ta langue.",
+       "La truite grillée et le ragoût de poisson ont désormais leur propre dessin.",
+       "Examiner la colonne de la Chambre de l'Écho n'affiche plus la veine de fer.",
+       "Dans « La Veillée des Cloches Sans Corde », le journal dit désormais à qui apporter l'huile et la mèche.",
+       "Le loup alpha ne laisse plus de viande d'ours.",
+       "La boussole ne saute plus quand la ligne des joueurs de la salle change.",
+       "L'arrivée des elfes ne répète plus son souvenir au réveil.",
+       "Au comptoir et aux tables de la taverne, tu peux désormais choisir la langue dans laquelle tu parles.",
+       "Tu peux désormais porter deux anneaux à la fois, dans l'un ou l'autre des deux emplacements d'anneau.",
+       "Après avoir mis ou enlevé quelque chose, les armes, armures et accessoires de ton sac à dos peuvent de nouveau être équipés sans fermer la fenêtre.",
+       "Le texte du chat se lit désormais net, quelle que soit la taille de la fenêtre.",
+       "Dans « La Veillée des Cloches Sans Corde », Pireo s'occupe désormais de quiconque a terminé l'histoire de Shadi.",
+       "Dans « Le Seau qui Renvoie le Regard », Coj s'occupe désormais de quiconque a terminé l'histoire de Shadi.",
+       "La veillée des cloches se souvient désormais de la fin de l'histoire de Shadi Vanam.",
+       "Trahir Zyra ne peut plus être défait."
+      ]
+     }
+    ]
+   },
+   "de": {
+    "highlight": "Lederverarbeitung, Schneiderei und neue Gerichte",
+    "sections": [
+     {
+      "title": "Neu",
+      "items": [
+       "Köchin Martha bringt drei neue Gerichte jedem bei, der den Herd schon meistert.",
+       "Wer schläft, ist leichter zu bestehlen... und ihn zu wecken kommt teuer.",
+       "Neue Handwerke: {up:Lederverarbeitung} und {up:Schneiderei}.",
+       "Lederstücke werden von Hand am Kürschnertisch genäht.",
+       "Stoffkleidung wird von Hand am Webstuhl des Webers gewebt.",
+       "{up:Taschen}, um mehr zu tragen."
+      ]
+     },
+     {
+      "title": "Änderungen",
+      "items": [
+       "NSCs haben im Raumfenster keinen Angriffsknopf mehr; wer einen angreifen will, tippt {up:angreifen <Name>}.",
+       "Das Blatt des Kiefernschützen hängt nicht mehr nur vom Bärenkönig ab.",
+       "Das Blatt des Brunnengräbers und das Blatt der Hohlen Wache fallen jetzt häufiger.",
+       "Kochen bringt keinen Handwerkerruf mehr: Nur Hauptberufe tun das.",
+       "Du siehst und hörst jetzt, wenn sich ein Gegner dem Kampf anschließt.",
+       "Bronze- und Eisenhandschuhe und -kürasse nehmen jetzt auch {up:gegerbtes Leder} als Futter, neben Hirschleder.",
+       "Die Darmsehne lässt sich auch aus {up:Lederriemen} herstellen, neben Hirsch- und Wolfsfell.",
+       "Bergbau gibt jetzt {up:Konstitution}, Schmiedekunst und Häuten geben {up:Stärke}."
+      ]
+     },
+     {
+      "title": "Fehlerbehebungen",
+      "items": [
+       "Schadensart von Waffen und Material von Ausrüstung erscheinen jetzt in deiner Sprache.",
+       "Gegrillte Forelle und Fischeintopf haben jetzt ein eigenes Bild.",
+       "Die Säule in der Echokammer zu untersuchen zeigt nicht mehr die Eisenader.",
+       "In „Die Wache der seilosen Glocken“ sagt das Tagebuch jetzt, wem du das Öl und den Docht bringen musst.",
+       "Der Alpha-Wolf lässt kein Bärenfleisch mehr fallen.",
+       "Der Kompass springt nicht mehr, wenn sich die Spielerzeile des Raums ändert.",
+       "Die Ankunft der Elfen wiederholt die Erinnerung beim Erwachen nicht mehr.",
+       "Am Tresen und an den Tischen der Taverne kannst du jetzt wählen, in welcher Sprache du sprichst.",
+       "Du kannst jetzt zwei Ringe gleichzeitig tragen, in einem der beiden Ringplätze.",
+       "Nachdem du etwas an- oder abgelegt hast, lassen sich Waffen, Rüstungen und Zubehör im Rucksack wieder ausrüsten, ohne das Fenster zu schließen.",
+       "Der Chattext wird jetzt bei jeder Fenstergröße scharf dargestellt.",
+       "In „Die Wache der seilosen Glocken“ kümmert sich Pireo jetzt auch um alle, die Shadis Geschichte beendet haben.",
+       "In „Der Eimer, der den Blick erwidert“ kümmert sich Coj jetzt auch um alle, die Shadis Geschichte beendet haben.",
+       "Die Glockenwache erinnert sich jetzt daran, wie die Geschichte von Shadi Vanam endete.",
+       "Zyra zu verraten lässt sich nun nicht mehr rückgängig machen."
+      ]
+     }
+    ]
+   },
+   "it": {
+    "highlight": "Pelletteria, Sartoria e nuovi piatti",
+    "sections": [
+     {
+      "title": "Novità",
+      "items": [
+       "Cuoca Martha insegna tre nuovi piatti a chi già domina il fornello.",
+       "Derubare chi dorme è più facile... e svegliarlo costa caro.",
+       "Nuovi mestieri: {up:Pelletteria} e {up:Sartoria}.",
+       "I pezzi di cuoio si cuciono a mano al banco del pellicciaio.",
+       "Gli indumenti di stoffa si tessono a mano al telaio del Tessitore.",
+       "{up:Borse} per portare più roba."
+      ]
+     },
+     {
+      "title": "Modifiche",
+      "items": [
+       "I PNG non hanno più il pulsante di attacco nella finestra della stanza; per attaccarne uno, scrivi {up:attaccare <nome>}.",
+       "Il Foglio dell'arciere dei pini non dipende più solo dal Re degli Orsi.",
+       "Il Foglio del pozzaio e il Foglio della Guardia Cava cadono più spesso.",
+       "La Cucina non dà più reputazione da artigiano: la danno solo i mestieri principali.",
+       "Ora vedi e senti quando un nemico si unisce al combattimento.",
+       "I guanti e le corazze di bronzo e ferro accettano il {up:cuoio conciato} come fodera, oltre al cuoio di cervo.",
+       "La corda di budello si fa anche con le {up:strisce di cuoio}, oltre alla pelle di cervo e di lupo.",
+       "L'Estrazione mineraria ora dà {up:Costituzione}, la Forgiatura e la Scuoiatura danno {up:Forza}."
+      ]
+     },
+     {
+      "title": "Correzioni",
+      "items": [
+       "Il tipo di danno delle armi e il materiale dei pezzi ora appaiono nella tua lingua.",
+       "La trota alla brace e lo stufato di pesce ora hanno il loro disegno.",
+       "Esaminare la colonna della Camera dell'Eco non mostra più la vena di ferro.",
+       "In «La veglia delle campane senza corda», il diario ora dice a chi portare l'olio e lo stoppino.",
+       "Il lupo alfa non lascia più carne d'orso.",
+       "La bussola non salta più quando cambia la riga dei giocatori della stanza.",
+       "L'arrivo degli elfi non ripete più il ricordo al risveglio.",
+       "Al bancone e ai tavoli della taverna puoi ora scegliere in quale lingua parlare.",
+       "Ora puoi indossare due anelli insieme, in uno qualsiasi dei due slot per anelli.",
+       "Dopo aver indossato o tolto qualcosa, le armi, le armature e gli accessori nello zaino si possono di nuovo equipaggiare senza chiudere la finestra.",
+       "Il testo della chat ora si legge nitido con la finestra a qualsiasi dimensione.",
+       "In «La veglia delle campane senza corda», ora Pireo si occupa anche di chi ha finito la storia di Shadi.",
+       "In «Il secchio che ricambia lo sguardo», ora Coj si occupa anche di chi ha finito la storia di Shadi.",
+       "La veglia delle campane ora ricorda come è finita la storia di Shadi Vanam.",
+       "Tradire Zyra non si può più disfare."
+      ]
+     }
+    ]
+   },
+   "pt": {
+    "highlight": "Peleteria, Alfaiataria e novos pratos",
+    "sections": [
+     {
+      "title": "Novidades",
+      "items": [
+       "Cozinheira Martha ensina três pratos novos a quem já domina o fogão.",
+       "Roubar quem dorme é mais fácil... e acordá-lo sai caro.",
+       "Novos ofícios: {up:Peleteria} e {up:Alfaiataria}.",
+       "As peças de couro cosem-se à mão na bancada do peleiro.",
+       "As roupas de tecido tecem-se à mão no tear do Tecelão.",
+       "{up:Bolsas} para levar mais coisas."
+      ]
+     },
+     {
+      "title": "Alterações",
+      "items": [
+       "Os PNJ já não têm botão de atacar na janela da sala; para atacar um, escreve {up:atacar <nome>}.",
+       "A Folha do arqueiro dos pinheiros já não depende só do Rei dos Ursos.",
+       "A Folha do poceiro e a Folha da Guarda Oca caem com mais frequência.",
+       "A Cozinha já não dá reputação de artesão: só os ofícios principais a dão.",
+       "Agora vês e ouves quando um inimigo se junta ao combate.",
+       "As manoplas e couraças de bronze e ferro aceitam {up:couro curtido} como forro, além do couro de veado.",
+       "A corda de tripa também se faz com {up:tiras de couro}, além de couro de veado e de lobo.",
+       "A Mineração agora dá {up:Constituição}, a Ferraria e a Esfola dão {up:Força}."
+      ]
+     },
+     {
+      "title": "Correções",
+      "items": [
+       "O tipo de dano das armas e o material das peças aparecem agora na tua língua.",
+       "A truta na brasa e o guisado de peixe já têm o seu próprio desenho.",
+       "Examinar a coluna da Câmara do Eco já não mostra o veio de ferro.",
+       "Em «A vigília dos sinos sem corda», o diário já diz a quem levar o óleo e o pavio.",
+       "O lobo alfa já não deixa carne de urso.",
+       "A bússola já não salta quando a linha de jogadores da sala muda.",
+       "A chegada dos elfos já não repete a memória ao despertar.",
+       "No balcão e nas mesas da taberna já podes escolher em que língua falas.",
+       "Já podes usar dois anéis ao mesmo tempo, em qualquer um dos dois encaixes de anel.",
+       "Depois de vestires ou tirares algo, as armas, armaduras e acessórios da mochila já se podem equipar sem fechar a janela.",
+       "O texto do chat já aparece nítido com a janela em qualquer tamanho.",
+       "Em «A vigília dos sinos sem corda», agora Pireo atende também quem terminou a história de Shadi.",
+       "Em «O balde que devolve o olhar», agora Coj atende também quem terminou a história de Shadi.",
+       "A vigília dos sinos já se lembra de como acabou a história de Shadi Vanam.",
+       "Trair Zyra já não tem volta atrás."
+      ]
+     }
+    ]
+   }
+  }
+ },
+ {
+  "version": "0.0.2.16",
+  "date": "2026-10-12",
+  "notes": {
+   "es": {
+    "highlight": "Herboristería, Alquimia y nuevas escenas",
+    "sections": [
+     {
+      "title": "Novedades",
+      "items": [
+       "Nuevo oficio: la {up:Herboristería}. Habla con Xaina la Buscadora.",
+       "Nuevo oficio: la {up:Alquimia}. Habla con Odalia «Rótulo» en el taller de Xaina.",
+       "Las pociones y los elixires se destilan a mano en el alambique.",
+       "Hay una flor que solo se abre bajo la luna.",
+       "Los oficios principales ahora te dan un atributo extra.",
+       "Nueva escena en la Plaza del Pozo y la Luna para quien lleve los tapones de Galo.",
+       "«El pollo perdido» ahora se juega con escenas, de Polli a Rod.",
+       "Subir el cubo del pozo ahora es una escena. Mira dentro.",
+       "Cinemática para la misión de Sivra cuando, por cómo avanza la historia, no puedes terminar su último paso como antes.",
+       "{up:Detectar vida} ahora siente la vida a tu alrededor y la muestra en el minimapa."
+      ]
+     },
+     {
+      "title": "Cambios",
+      "items": [
+       "Solo los humanoides sueltan oro al morir: se acabaron los animales soltando oro, ahora te tocará ganarte la vida de otra manera.",
+       "Los animales ya no sueltan equipo.",
+       "Las pociones de vida cuestan el doble.",
+       "{up:Cocina} y {up:Pesca} pasan a ser oficios {up:secundarios}: no ocupan hueco.",
+       "Las escenas se leen con más calma, y tu retrato acompaña los pensamientos de tu personaje.",
+       "Tu barra de maná ahora se actualiza correctamente.",
+       "El {up:conjunto de aprendiz arcano} ahora abarata el maná.",
+       "Ya no puedes usar {up:Detectar vida} en las zonas seguras.",
+       "Las misiones del rastreador se pliegan y una puede fijarse arriba.",
+       "Puedes desollar desde el resumen del combate y desde la ventana de la sala.",
+       "Los cadáveres de la sala se agrupan por especie.",
+       "Al destruir una pila eliges cuántas unidades.",
+       "Las recetas que no puedes hacer te dicen qué te falta.",
+       "En la caza de conejos, «Ignorar» dura hasta que cambias de sala.",
+       "Sin cebo, la caña ya no hace el amago.",
+       "La arqueta de Dámaso «Lacre» pasa de 30 a {up:60} huecos y se puede ordenar arrastrando o con «Ordenar»."
+      ]
+     },
+     {
+      "title": "Correcciones",
+      "items": [
+       "Ya no te quedas atrapado en el ayuntamiento tras hablar con Rod.",
+       "Una vez vencido, el Guardián del Pozo ya no vuelve a molestarte.",
+       "Martha y Ulda ya muestran bien el nombre de su oficio.",
+       "Las armas ligeras forjadas ya no muestran Destreza de más.",
+       "Ya no puedes destruir un objeto de misión que todavía te hará falta.",
+       "Desconectarse en la Plaza del Pozo ya no deja al personaje inmóvil.",
+       "Los consejos ya no aparecen encima de las escenas.",
+       "La escena de llegada ya no vuelve a aparecer al entrar con un personaje que ya la vio.",
+       "Las criaturas de la historia de otro jugador ya no aparecen en tu sala, y sus restos tampoco se quedan.",
+       "Ya puedes llevar una daga en cada mano aunque no sean las del equipo inicial.",
+       "Buscar a Xaina ya no te lleva a la taberna.",
+       "«La llave que no abre» y «La vigilia de las campanas sin cuerda» podían quedarse paradas en su último paso. Si te pasó, al moverte se arregla solo.",
+       "Las cabezas cortadas muestran su propio dibujo.",
+       "Abrir un comercio ya no te saca de la conversación de la mesa.",
+       "Los rótulos del mapa ya no tapan otras calles.",
+       "«Recordar la llegada» funciona también con los personajes creados antes de que existiera."
+      ]
+     }
+    ]
+   },
+   "en": {
+    "highlight": "Herbalism, Alchemy and new scenes",
+    "sections": [
+     {
+      "title": "New",
+      "items": [
+       "New profession: {up:Herbalism}. Talk to Xaina the Seeker.",
+       "New profession: {up:Alchemy}. Talk to Odalia «Rótulo» in Xaina's workshop.",
+       "Potions and elixirs are distilled by hand at the alembic.",
+       "One flower only opens under the moon.",
+       "Main professions now give you an extra attribute.",
+       "A new scene in Well and Moon Square for anyone wearing Galo's earplugs.",
+       "«The Lost Chicken» now plays out in scenes, from Polli to Rod.",
+       "Hauling up the well's bucket is now a scene. Look inside.",
+       "A cinematic for Sivra's quest when, because of how the story has gone, you can't finish its last step the usual way.",
+       "{up:Detect Life} now senses the life around you and shows it on your minimap."
+      ]
+     },
+     {
+      "title": "Changes",
+      "items": [
+       "Only humanoids drop gold when they die: no more animals dropping gold, now you'll have to earn your living some other way.",
+       "Animals no longer drop equipment.",
+       "Health potions now cost twice as much.",
+       "{up:Cooking} and {up:Fishing} become {up:secondary} professions: they take no slot.",
+       "Scenes read at a calmer pace, and your portrait accompanies your character's thoughts.",
+       "Your mana bar now updates correctly.",
+       "The {up:apprentice arcane set} now lowers mana costs.",
+       "You can no longer use {up:Detect Life} in safe zones.",
+       "Quests in the tracker fold, and one can be pinned on top.",
+       "You can skin from the combat summary and from the room window.",
+       "Bodies in a room are grouped by species.",
+       "When destroying a stack you choose how many.",
+       "Recipes you can't make now tell you what you're missing.",
+       "During the rabbit hunt, «Ignore» lasts until you change room.",
+       "Without bait, the rod no longer half-casts.",
+       "Dámaso «Lacre»'s strongbox grows from 30 to {up:60} spaces and can be arranged by dragging or with «Sort»."
+      ]
+     },
+     {
+      "title": "Fixes",
+      "items": [
+       "You no longer get stuck in the town hall after talking to Rod.",
+       "Once defeated, the Guardian of the Well no longer troubles you.",
+       "Martha and Ulda now show their profession's name correctly.",
+       "Forged light weapons no longer show extra Dexterity.",
+       "You can no longer destroy a quest item you will still need.",
+       "Disconnecting in Well and Moon Square no longer leaves your character stuck.",
+       "Tips no longer appear on top of scenes.",
+       "The arrival scene no longer plays again when you log in with a character who has seen it.",
+       "Creatures from another player's story no longer show up in your room, nor do their remains linger.",
+       "You can wield a dagger in each hand again, not just the starting pair.",
+       "Looking for Xaina no longer leads you into the tavern.",
+       "«The Key That Won't Open» and «The Vigil of the Cordless Bells» could get stuck on their last step. If it happened to you, it fixes itself when you move.",
+       "Severed heads show their own picture.",
+       "Opening a trade no longer pulls you out of the table conversation.",
+       "Map labels no longer cover other streets.",
+       "«Remember the arrival» now also works for characters created before it existed."
+      ]
+     }
+    ]
+   },
+   "fr": {
+    "highlight": "Herboristerie, alchimie et nouvelles scènes",
+    "sections": [
+     {
+      "title": "Nouveautés",
+      "items": [
+       "Nouveau métier : l'{up:Herboristerie}. Parle à Xaina la Chercheuse.",
+       "Nouveau métier : l'{up:Alchimie}. Parle à Odalia «Rótulo» dans l'atelier de Xaina.",
+       "Les potions et les élixirs se distillent à la main à l'alambic.",
+       "Une fleur ne s'ouvre que sous la lune.",
+       "Les métiers principaux te donnent désormais un attribut supplémentaire.",
+       "Nouvelle scène sur la Place du Puits et de la Lune pour qui porte les bouchons de Galo.",
+       "« Le poulet perdu » se joue désormais en scènes, de Polli à Rod.",
+       "Remonter le seau du puits est désormais une scène. Regarde dedans.",
+       "Une cinématique pour la quête de Sivra quand, à cause de la tournure de l'histoire, tu ne peux plus finir sa dernière étape comme avant.",
+       "{up:Détection de la vie} perçoit désormais la vie autour de toi et l'affiche sur ta minicarte."
+      ]
+     },
+     {
+      "title": "Changements",
+      "items": [
+       "Seuls les humanoïdes lâchent de l'or en mourant : fini les animaux qui lâchent de l'or, il va falloir gagner ta vie autrement.",
+       "Les animaux ne lâchent plus d'équipement.",
+       "Les potions de vie coûtent deux fois plus cher.",
+       "La {up:Cuisine} et la {up:Pêche} deviennent des métiers {up:secondaires} : elles ne prennent pas de place.",
+       "Les scènes se lisent plus posément, et ton portrait accompagne les pensées de ton personnage.",
+       "Ta barre de mana se met désormais à jour correctement.",
+       "L'{up:ensemble d'apprenti arcaniste} réduit désormais le coût en mana.",
+       "Tu ne peux plus utiliser {up:Détection de la vie} dans les zones sûres.",
+       "Les quêtes du suivi se replient et l'une peut être épinglée en haut.",
+       "Tu peux dépecer depuis le résumé du combat et depuis la fenêtre de la salle.",
+       "Les cadavres de la salle sont regroupés par espèce.",
+       "En détruisant une pile, tu choisis combien.",
+       "Les recettes que tu ne peux pas faire indiquent ce qui te manque.",
+       "Pendant la chasse aux lapins, « Ignorer » dure jusqu'à ce que tu changes de salle.",
+       "Sans appât, la canne ne fait plus mine de lancer.",
+       "Le coffret de Dámaso «Lacre» passe de 30 à {up:60} places et se range par glisser-déposer ou avec « Trier »."
+      ]
+     },
+     {
+      "title": "Corrections",
+      "items": [
+       "Tu ne restes plus coincé à la mairie après avoir parlé à Rod.",
+       "Une fois vaincu, le Gardien du Puits ne vient plus t'importuner.",
+       "Martha et Ulda affichent désormais correctement le nom de leur métier.",
+       "Les armes légères forgées n'affichent plus de Dextérité en trop.",
+       "Tu ne peux plus détruire un objet de quête dont tu auras encore besoin.",
+       "Se déconnecter sur la Place du Puits ne bloque plus le personnage.",
+       "Les conseils n'apparaissent plus par-dessus les scènes.",
+       "La scène d'arrivée ne se rejoue plus quand tu te connectes avec un personnage qui l'a déjà vue.",
+       "Les créatures de l'histoire d'un autre joueur n'apparaissent plus dans ta salle, et leurs restes ne traînent plus.",
+       "Tu peux tenir une dague dans chaque main, même hors de l'équipement de départ.",
+       "Chercher Xaina ne te mène plus à la taverne.",
+       "« La Clé qui N'Ouvre Pas » et « La Veillée des Cloches Sans Corde » pouvaient rester bloquées à leur dernière étape. Si ça t'est arrivé, ça se règle tout seul quand tu te déplaces.",
+       "Les têtes tranchées ont leur propre image.",
+       "Ouvrir un échange ne te fait plus quitter la conversation de la table.",
+       "Les étiquettes de la carte ne cachent plus d'autres rues.",
+       "« Se souvenir de l'arrivée » fonctionne aussi pour les personnages créés avant son existence."
+      ]
+     }
+    ]
+   },
+   "de": {
+    "highlight": "Kräuterkunde, Alchemie und neue Szenen",
+    "sections": [
+     {
+      "title": "Neu",
+      "items": [
+       "Neuer Beruf: {up:Kräuterkunde}. Sprich mit Xaina der Sucherin.",
+       "Neuer Beruf: {up:Alchemie}. Sprich mit Odalia «Rótulo» in Xainas Werkstatt.",
+       "Tränke und Elixiere werden von Hand am Destillierkolben gebrannt.",
+       "Eine Blume öffnet sich nur unter dem Mond.",
+       "Hauptberufe geben dir jetzt ein zusätzliches Attribut.",
+       "Eine neue Szene auf dem Platz des Brunnens und des Mondes für alle, die Galos Ohrstöpsel tragen.",
+       "„Das verlorene Huhn“ spielt sich jetzt in Szenen ab, von Polli bis Rod.",
+       "Den Eimer aus dem Brunnen zu ziehen ist jetzt eine Szene. Schau hinein.",
+       "Eine Zwischensequenz für Sivras Quest, wenn du ihren letzten Schritt wegen des Verlaufs der Geschichte nicht mehr wie gewohnt abschließen kannst.",
+       "{up:Leben aufspüren} spürt jetzt das Leben um dich herum und zeigt es auf deiner Minimap."
+      ]
+     },
+     {
+      "title": "Änderungen",
+      "items": [
+       "Nur Humanoide lassen beim Tod Gold fallen: Schluss mit Tieren, die Gold fallen lassen – jetzt musst du dir deinen Lebensunterhalt anders verdienen.",
+       "Tiere lassen keine Ausrüstung mehr fallen.",
+       "Heiltränke kosten jetzt das Doppelte.",
+       "{up:Kochen} und {up:Angeln} werden {up:Nebenberufe}: Sie belegen keinen Platz.",
+       "Szenen lesen sich ruhiger, und dein Porträt begleitet die Gedanken deines Charakters.",
+       "Deine Manaleiste aktualisiert sich jetzt richtig.",
+       "Das {up:Set des arkanen Lehrlings} senkt jetzt die Manakosten.",
+       "{up:Leben aufspüren} lässt sich in sicheren Zonen nicht mehr einsetzen.",
+       "Quests im Tracker lassen sich einklappen, eine lässt sich oben anheften.",
+       "Du kannst aus der Kampfübersicht und dem Raumfenster häuten.",
+       "Leichen im Raum werden nach Art gruppiert.",
+       "Beim Zerstören eines Stapels wählst du die Anzahl.",
+       "Rezepte, die du nicht herstellen kannst, zeigen, was dir fehlt.",
+       "Bei der Kaninchenjagd gilt „Ignorieren“, bis du den Raum wechselst.",
+       "Ohne Köder täuscht die Rute keinen Wurf mehr an.",
+       "Das Kästchen von Dámaso «Lacre» wächst von 30 auf {up:60} Plätze und lässt sich per Ziehen oder mit «Sortieren» ordnen."
+      ]
+     },
+     {
+      "title": "Fehlerbehebungen",
+      "items": [
+       "Nach dem Gespräch mit Rod sitzt du nicht mehr im Rathaus fest.",
+       "Einmal besiegt, behelligt dich der Wächter des Brunnens nicht mehr.",
+       "Martha und Ulda zeigen den Namen ihres Handwerks jetzt richtig an.",
+       "Geschmiedete leichte Waffen zeigen keine zusätzliche Geschicklichkeit mehr.",
+       "Du kannst keinen Questgegenstand mehr zerstören, den du noch brauchst.",
+       "Ein Verbindungsabbruch auf dem Platz des Brunnens lässt die Figur nicht mehr feststecken.",
+       "Tipps erscheinen nicht mehr über Szenen.",
+       "Die Ankunftsszene läuft nicht mehr erneut, wenn du dich mit einer Figur einloggst, die sie schon gesehen hat.",
+       "Kreaturen aus der Geschichte eines anderen Spielers erscheinen nicht mehr in deinem Raum, und ihre Überreste bleiben nicht liegen.",
+       "Du kannst wieder in jeder Hand einen Dolch führen, nicht nur die aus der Startausrüstung.",
+       "Die Suche nach Xaina führt dich nicht mehr in die Taverne.",
+       "«Der Schlüssel, der nicht öffnet» und «Die Wache der seillosen Glocken» konnten beim letzten Schritt hängen bleiben. Falls dir das passiert ist, behebt es sich von selbst, sobald du dich bewegst.",
+       "Abgetrennte Köpfe haben ihr eigenes Bild.",
+       "Ein Handel holt dich nicht mehr aus dem Tischgespräch.",
+       "Kartenbeschriftungen verdecken keine anderen Straßen mehr.",
+       "«An die Ankunft denken» funktioniert jetzt auch für Figuren, die davor erstellt wurden."
+      ]
+     }
+    ]
+   },
+   "it": {
+    "highlight": "Erboristeria, alchimia e nuove scene",
+    "sections": [
+     {
+      "title": "Novità",
+      "items": [
+       "Nuovo mestiere: l'{up:Erboristeria}. Parla con Xaina la Cercatrice.",
+       "Nuovo mestiere: l'{up:Alchimia}. Parla con Odalia «Rótulo» nella bottega di Xaina.",
+       "Pozioni ed elisir si distillano a mano all'alambicco.",
+       "C'è un fiore che si apre solo sotto la luna.",
+       "I mestieri principali ora ti danno un attributo extra.",
+       "Una nuova scena nella Piazza del Pozzo e della Luna per chi porta i tappi di Galo.",
+       "«Il pollo smarrito» ora si gioca in scene, da Polli a Rod.",
+       "Tirare su il secchio del pozzo ora è una scena. Guarda dentro.",
+       "Una cinematica per la missione di Sivra quando, per come è andata la storia, non puoi più finire il suo ultimo passo come prima.",
+       "{up:Percepire vita} ora sente la vita intorno a te e la mostra sulla minimappa."
+      ]
+     },
+     {
+      "title": "Modifiche",
+      "items": [
+       "Solo gli umanoidi lasciano oro quando muoiono: basta animali che lasciano oro, ora dovrai guadagnarti da vivere in un altro modo.",
+       "Gli animali non lasciano più equipaggiamento.",
+       "Le pozioni di vita costano il doppio.",
+       "{up:Cucina} e {up:Pesca} diventano mestieri {up:secondari}: non occupano un posto.",
+       "Le scene si leggono con più calma, e il tuo ritratto accompagna i pensieri del tuo personaggio.",
+       "La tua barra del mana ora si aggiorna correttamente.",
+       "Il {up:set dell'apprendista arcano} ora riduce il costo di mana.",
+       "Non puoi più usare {up:Percepire vita} nelle zone sicure.",
+       "Le missioni del tracker si chiudono e una si può fissare in alto.",
+       "Puoi scuoiare dal riepilogo del combattimento e dalla finestra della stanza.",
+       "I cadaveri nella stanza sono raggruppati per specie.",
+       "Distruggendo una pila scegli quante unità.",
+       "Le ricette che non puoi fare ti dicono cosa ti manca.",
+       "Durante la caccia ai conigli, «Ignora» vale finché non cambi stanza.",
+       "Senza esca, la canna non accenna più il lancio.",
+       "La cassetta di Dámaso «Lacre» passa da 30 a {up:60} posti e si riordina trascinando o con «Ordina»."
+      ]
+     },
+     {
+      "title": "Correzioni",
+      "items": [
+       "Non resti più bloccato nel municipio dopo aver parlato con Rod.",
+       "Una volta sconfitto, il Guardiano del Pozzo non torna più a disturbarti.",
+       "Martha e Ulda ora mostrano correttamente il nome del loro mestiere.",
+       "Le armi leggere forgiate non mostrano più Destrezza in eccesso.",
+       "Non puoi più distruggere un oggetto di missione che ti servirà ancora.",
+       "Disconnettersi nella Piazza del Pozzo non blocca più il personaggio.",
+       "I consigli non compaiono più sopra le scene.",
+       "La scena d'arrivo non si ripete più quando entri con un personaggio che l'ha già vista.",
+       "Le creature della storia di un altro giocatore non compaiono più nella tua stanza, né restano i loro resti.",
+       "Puoi impugnare un pugnale in ogni mano, non solo quelli iniziali.",
+       "Cercare Xaina non ti porta più nella taverna.",
+       "«La chiave che non apre» e «La veglia delle campane senza corda» potevano bloccarsi all'ultimo passo. Se ti è successo, si sistema da solo appena ti muovi.",
+       "Le teste mozzate hanno la loro immagine.",
+       "Aprire uno scambio non ti fa più uscire dalla conversazione al tavolo.",
+       "Le etichette della mappa non coprono più altre strade.",
+       "«Ricorda l'arrivo» funziona anche per i personaggi creati prima che esistesse."
+      ]
+     }
+    ]
+   },
+   "pt": {
+    "highlight": "Herbalismo, alquimia e novas cenas",
+    "sections": [
+     {
+      "title": "Novidades",
+      "items": [
+       "Novo ofício: o {up:Herbalismo}. Fala com a Xaina, a Buscadora.",
+       "Novo ofício: a {up:Alquimia}. Fala com a Odalia «Rótulo» na oficina da Xaina.",
+       "As poções e os elixires destilam-se à mão no alambique.",
+       "Há uma flor que só se abre sob a lua.",
+       "Os ofícios principais agora dão-te um atributo extra.",
+       "Uma nova cena na Praça do Poço e da Lua para quem usa os tampões do Galo.",
+       "«O frango perdido» agora joga-se em cenas, do Polli ao Rod.",
+       "Puxar o balde do poço é agora uma cena. Olha lá para dentro.",
+       "Uma cinemática para a missão da Sivra quando, pela forma como a história avançou, já não podes terminar o último passo como antes.",
+       "{up:Detetar vida} sente agora a vida à tua volta e mostra-a no minimapa."
+      ]
+     },
+     {
+      "title": "Alterações",
+      "items": [
+       "Só os humanoides deixam ouro ao morrer: acabaram-se os animais a deixar ouro, agora vais ter de ganhar a vida de outra maneira.",
+       "Os animais já não deixam equipamento.",
+       "As poções de vida custam o dobro.",
+       "A {up:Culinária} e a {up:Pesca} passam a ser ofícios {up:secundários}: não ocupam lugar.",
+       "As cenas leem-se com mais calma, e o teu retrato acompanha os pensamentos da tua personagem.",
+       "A tua barra de mana agora atualiza-se corretamente.",
+       "O {up:conjunto de aprendiz arcano} reduz agora o custo de mana.",
+       "Já não podes usar {up:Detetar vida} nas zonas seguras.",
+       "As missões do rastreador recolhem-se e uma pode ficar fixa no topo.",
+       "Podes esfolar a partir do resumo do combate e da janela da sala.",
+       "Os cadáveres da sala agrupam-se por espécie.",
+       "Ao destruir uma pilha escolhes quantas unidades.",
+       "As receitas que não podes fazer dizem-te o que te falta.",
+       "Na caça aos coelhos, «Ignorar» dura até mudares de sala.",
+       "Sem isco, a cana já não faz menção de lançar.",
+       "A arca do Dámaso «Lacre» passa de 30 para {up:60} espaços e arruma-se a arrastar ou com «Ordenar»."
+      ]
+     },
+     {
+      "title": "Correções",
+      "items": [
+       "Já não ficas preso na câmara municipal depois de falares com o Rod.",
+       "Depois de vencido, o Guardião do Poço já não volta a incomodar-te.",
+       "A Martha e a Ulda já mostram bem o nome do seu ofício.",
+       "As armas leves forjadas já não mostram Destreza a mais.",
+       "Já não podes destruir um objeto de missão de que ainda vais precisar.",
+       "Desligar-se na Praça do Poço já não deixa a personagem presa.",
+       "As dicas já não aparecem por cima das cenas.",
+       "A cena de chegada já não se repete ao entrares com uma personagem que já a viu.",
+       "As criaturas da história de outro jogador já não aparecem na tua sala, nem ficam os seus restos.",
+       "Já podes empunhar uma adaga em cada mão, não só as do equipamento inicial.",
+       "Procurar a Xaina já não te leva à taberna.",
+       "«A chave que não abre» e «A vigília dos sinos sem corda» podiam ficar paradas no último passo. Se te aconteceu, resolve-se sozinho quando te moves.",
+       "As cabeças decepadas têm a sua própria imagem.",
+       "Abrir uma troca já não te tira da conversa da mesa.",
+       "Os rótulos do mapa já não tapam outras ruas.",
+       "«Recordar a chegada» funciona também com as personagens criadas antes de existir."
+      ]
+     }
+    ]
+   }
+  }
+ },
+ {
+  "version": "0.0.2.15",
+  "date": "2026-10-11",
+  "notes": {
+   "es": {
+    "highlight": "Pesca, Cocina y nuevas cinemáticas",
+    "sections": [
+     {
+      "title": "Novedades",
+      "items": [
+       "Nuevo oficio: la Pesca. Habla con Eloy «Corcho» en el Cruce del Pueblo.",
+       "Nuevo oficio: la Cocina. Habla con Martha en la cocina de la taberna.",
+       "Cinemática para la misión de Bubo.",
+       "Cinemática para el puzle de la casa del bosque.",
+       "Al crear un personaje nuevo, llegarás con una cinemática según tu dios y tu raza.",
+       "En la taberna, al sentarte tienes un chat solo para los que están en tu mismo sitio (la barra, una mesa o la chimenea): escribe «mesa <mensaje>» o usa el chat de la pestaña Mobiliario.",
+       "Ahora se leen las acciones de profesión en el chat de sala.",
+       "Nueva opción en Opciones ▸ Pantalla: intercambiar el minimapa y la brújula."
+      ]
+     },
+     {
+      "title": "Cambios",
+      "items": [
+       "El combate va más pausado: menos golpes, pero más fuertes.",
+       "Las habilidades fuertes tardan un momento en prepararse, y hay una pausa corta entre una habilidad y la siguiente.",
+       "Descansar en una silla, un taburete o un sillón cura ahora {up:5} puntos de vida cada 30 segundos (antes, {down:1}).",
+       "En el bosque, cierta emboscada entre espinas ya no te mete en combate antes de que termines de leer.",
+       "Mientras ves una escena nadie puede atacarte; mantén Esc para saltarla.",
+       "Para huir, muévete a otra sala.",
+       "La rareza se ve en el color del nombre: {junk:gris}, {common:blanco}, {uncommon:verde}, {rare:azul}, {epic:morado} y {legendary:naranja}; lo que fabricas lleva tu firma.",
+       "Ya no quedan objetos {legendary:legendarios}: lo legendario está por llegar.",
+       "La Herrería, la Carpintería y la Cocina tienen cada una su propia fama de artesano.",
+       "Masio, Teo y Ulda venden materiales básicos de forja y carpintería.",
+       "Al talar, picar o desollar, la herramienta se equipa sola.",
+       "Fuera del pueblo, todas las criaturas agresivas rematan a quien dejan inconsciente, y los jabalíes salvajes ahora son agresivos."
+      ]
+     },
+     {
+      "title": "Correcciones",
+      "items": [
+       "Si la guardia te echa de un local, el panel de la sala se actualiza.",
+       "Los objetos de misión que ya no sirven desaparecen al entregar la misión.",
+       "La luz de la antorcha ya se ve bien en pantallas ultrapanorámicas.",
+       "Comer o beber ya no cuenta como inactividad.",
+       "La brújula ya no se mueve cuando aparecen los botones de talar o picar.",
+       "Junto a la cabaña del Cojo ya no hay una puerta de más.",
+       "La ventana de talar sin el oficio ya no sale cortada.",
+       "El Guardián del Pozo ya no reaparece a los pocos minutos.",
+       "Los objetivos de misión del HUD muestran ya sus colores.",
+       "Chat: la sugerencia ya no se queda tras enviar, y las *acciones* salen en azul claro."
+      ]
+     }
+    ]
+   },
+   "en": {
+    "highlight": "Fishing, Cooking and new cinematics",
+    "sections": [
+     {
+      "title": "New",
+      "items": [
+       "New profession: Fishing. Talk to Eloy «Corcho» at the Village Crossroads.",
+       "New profession: Cooking. Talk to Martha in the tavern kitchen.",
+       "A cinematic for Bubo's quest.",
+       "A cinematic for the forest house puzzle.",
+       "New characters arrive with a cinematic shaped by their god and race.",
+       "In the tavern, when you sit down you get a chat just for the people at the same spot (the bar, a table or the fireplace): type “table <message>” or use the chat in the Furniture tab.",
+       "Profession actions can now be read in the room chat.",
+       "New option in Options ▸ Display: swap the minimap and the compass."
+      ]
+     },
+     {
+      "title": "Changes",
+      "items": [
+       "Combat is more measured: fewer blows, but heavier ones.",
+       "Strong skills take a moment to prepare, and there is a short pause between one skill and the next.",
+       "Resting on a chair, stool or armchair now heals {up:5} health every 30 seconds (was {down:1}).",
+       "In the forest, a certain ambush among the thorns no longer drops you into combat before you finish reading.",
+       "No one can attack you while you watch a scene; hold Esc to skip it.",
+       "To flee, move to another room.",
+       "Rarity shows in the colour of the name: {junk:grey}, {common:white}, {uncommon:green}, {rare:blue}, {epic:purple} and {legendary:orange}; what you craft carries your signature.",
+       "There are no {legendary:legendary} items left: the legendary is yet to come.",
+       "Blacksmithing, Carpentry and Cooking each have their own crafter's renown.",
+       "Masio, Teo and Ulda sell basic forge and carpentry materials.",
+       "When chopping, mining or skinning, your tool equips itself.",
+       "Outside the village, every aggressive creature finishes off whoever it knocks out, and wild boars are now aggressive."
+      ]
+     },
+     {
+      "title": "Fixes",
+      "items": [
+       "If the guards throw you out of a building, the room panel now updates.",
+       "Quest items you no longer need disappear when you hand the quest in.",
+       "Torchlight now looks right on ultrawide screens.",
+       "Eating or drinking no longer counts as being idle.",
+       "The compass no longer moves when the chopping or mining buttons appear.",
+       "The extra door by the Cripple's cabin is gone.",
+       "The chopping window without the profession is no longer cut off.",
+       "The Guardian of the Well no longer comes back within minutes.",
+       "Quest objectives on the HUD now show their colours.",
+       "Chat: the suggestion no longer lingers after sending, and *actions* show in light blue."
+      ]
+     }
+    ]
+   },
+   "fr": {
+    "highlight": "Pêche, cuisine et nouvelles cinématiques",
+    "sections": [
+     {
+      "title": "Nouveautés",
+      "items": [
+       "Nouveau métier : la Pêche. Parle à Eloy « Corcho » au Carrefour du Village.",
+       "Nouveau métier : la Cuisine. Parle à Martha dans la cuisine de la taverne.",
+       "Une cinématique pour la quête de Bubo.",
+       "Une cinématique pour l'énigme de la maison de la forêt.",
+       "En créant un nouveau personnage, tu arriveras avec une cinématique selon ton dieu et ta race.",
+       "À la taverne, quand tu t'assieds, tu as un chat réservé à ceux qui sont au même endroit (le comptoir, une table ou la cheminée) : écris « table <message> » ou utilise le chat de l'onglet Mobilier.",
+       "Les actions de métier se lisent maintenant dans le chat de la salle.",
+       "Nouvelle option dans Options ▸ Affichage : échanger la minicarte et la boussole."
+      ]
+     },
+     {
+      "title": "Changements",
+      "items": [
+       "Le combat est plus posé : moins de coups, mais plus lourds.",
+       "Les compétences puissantes demandent un instant de préparation, et une courte pause sépare deux compétences.",
+       "Se reposer sur une chaise, un tabouret ou un fauteuil rend désormais {up:5} points de vie toutes les 30 secondes (avant : {down:1}).",
+       "Dans la forêt, une certaine embuscade entre les ronces ne te jette plus au combat avant la fin de ta lecture.",
+       "Personne ne peut t'attaquer pendant que tu regardes une scène ; maintiens Échap pour la passer.",
+       "Pour fuir, passe dans une autre salle.",
+       "La rareté se voit à la couleur du nom : {junk:gris}, {common:blanc}, {uncommon:vert}, {rare:bleu}, {epic:violet} et {legendary:orange} ; ce que tu fabriques porte ta signature.",
+       "Il n'y a plus d'objets {legendary:légendaires} : le légendaire reste à venir.",
+       "La Forge, la Menuiserie et la Cuisine ont chacune leur propre renommée d'artisan.",
+       "Masio, Teo et Ulda vendent des matériaux de base pour la forge et la menuiserie.",
+       "Pour abattre, miner ou dépecer, l'outil s'équipe tout seul.",
+       "Hors du village, toutes les créatures agressives achèvent ceux qu'elles assomment, et les sangliers sauvages sont désormais agressifs."
+      ]
+     },
+     {
+      "title": "Corrections",
+      "items": [
+       "Si la garde te met dehors, le panneau de la salle se met à jour.",
+       "Les objets de quête devenus inutiles disparaissent quand tu rends la quête.",
+       "La lumière de la torche s'affiche bien sur les écrans ultralarges.",
+       "Manger ou boire ne compte plus comme de l'inactivité.",
+       "La boussole ne bouge plus quand les boutons d'abattage ou de minage apparaissent.",
+       "La porte en trop près de la cabane du Boiteux a disparu.",
+       "La fenêtre d'abattage sans le métier n'est plus coupée.",
+       "Le Gardien du Puits ne réapparaît plus au bout de quelques minutes.",
+       "Les objectifs de quête du HUD affichent maintenant leurs couleurs.",
+       "Chat : la suggestion ne reste plus après l'envoi, et les *actions* s'affichent en bleu clair."
+      ]
+     }
+    ]
+   },
+   "de": {
+    "highlight": "Angeln, Kochen und neue Zwischensequenzen",
+    "sections": [
+     {
+      "title": "Neu",
+      "items": [
+       "Neuer Beruf: Angeln. Sprich mit Eloy „Corcho“ an der Dorfkreuzung.",
+       "Neuer Beruf: Kochen. Sprich mit Martha in der Tavernenküche.",
+       "Eine Zwischensequenz für Bubos Quest.",
+       "Eine Zwischensequenz für das Rätsel im Haus im Wald.",
+       "Neue Charaktere kommen mit einer Zwischensequenz an, die von ihrem Gott und ihrem Volk abhängt.",
+       "In der Taverne hast du im Sitzen einen Chat nur für die, die am selben Platz sitzen (Tresen, Tisch oder Kamin): schreib „tisch <Nachricht>“ oder nutze den Chat im Reiter Mobiliar.",
+       "Berufsaktionen sind jetzt im Raum-Chat zu lesen.",
+       "Neue Option unter Optionen ▸ Anzeige: Minimap und Kompass tauschen."
+      ]
+     },
+     {
+      "title": "Änderungen",
+      "items": [
+       "Der Kampf ist bedächtiger: weniger Schläge, dafür härtere.",
+       "Starke Fähigkeiten brauchen einen Moment Vorbereitung, und zwischen zwei Fähigkeiten liegt eine kurze Pause.",
+       "Wer auf einem Stuhl, Hocker oder Sessel rastet, heilt jetzt alle 30 Sekunden {up:5} Lebenspunkte (bisher {down:1}).",
+       "Im Wald stürzt dich ein gewisser Hinterhalt zwischen den Dornen nicht mehr in den Kampf, bevor du fertig gelesen hast.",
+       "Während du eine Szene ansiehst, kann dich niemand angreifen; halte Esc, um sie zu überspringen.",
+       "Wer fliehen will, geht in einen anderen Raum.",
+       "Die Seltenheit zeigt sich an der Farbe des Namens: {junk:grau}, {common:weiß}, {uncommon:grün}, {rare:blau}, {epic:lila} und {legendary:orange}; was du herstellst, trägt deine Signatur.",
+       "Es gibt keine {legendary:legendären} Gegenstände mehr: Das Legendäre kommt erst noch.",
+       "Schmiedekunst, Schreinerei und Kochen haben jeweils ihren eigenen Ruf als Handwerker.",
+       "Masio, Teo und Ulda verkaufen einfache Materialien für Schmiede und Schreinerei.",
+       "Beim Fällen, Abbauen oder Häuten wird das Werkzeug von selbst angelegt.",
+       "Außerhalb des Dorfes geben alle angriffslustigen Kreaturen jedem den Gnadenstoß, den sie niederstrecken, und Wildschweine sind jetzt angriffslustig."
+      ]
+     },
+     {
+      "title": "Fehlerbehebungen",
+      "items": [
+       "Wirft dich die Wache aus einem Gebäude, aktualisiert sich das Raumfenster.",
+       "Questgegenstände, die du nicht mehr brauchst, verschwinden bei der Abgabe der Quest.",
+       "Das Fackellicht passt jetzt auf Ultrawide-Bildschirmen.",
+       "Essen oder Trinken zählt nicht mehr als Untätigkeit.",
+       "Der Kompass verschiebt sich nicht mehr, wenn die Knöpfe zum Fällen oder Abbauen erscheinen.",
+       "Die überzählige Tür an der Hütte des Hinkenden ist weg.",
+       "Das Fenster zum Holzfällen ohne das Handwerk wird nicht mehr abgeschnitten.",
+       "Der Wächter des Brunnens kehrt nicht mehr nach wenigen Minuten zurück.",
+       "Questziele im HUD zeigen jetzt ihre Farben.",
+       "Chat: Der Vorschlag bleibt nach dem Senden nicht mehr stehen, und *Aktionen* erscheinen hellblau."
+      ]
+     }
+    ]
+   },
+   "it": {
+    "highlight": "Pesca, cucina e nuove cinematiche",
+    "sections": [
+     {
+      "title": "Novità",
+      "items": [
+       "Nuovo mestiere: la Pesca. Parla con Eloy «Corcho» al Crocevia del Villaggio.",
+       "Nuovo mestiere: la Cucina. Parla con Martha nella cucina della taverna.",
+       "Una cinematica per la missione di Bubo.",
+       "Una cinematica per l'enigma della casa nel bosco.",
+       "Creando un nuovo personaggio, arriverai con una cinematica secondo il tuo dio e la tua razza.",
+       "Nella taverna, quando ti siedi hai una chat solo per chi è nello stesso posto (il bancone, un tavolo o il camino): scrivi «tavolo <messaggio>» o usa la chat della scheda Arredi.",
+       "Ora le azioni dei mestieri si leggono nella chat della stanza.",
+       "Nuova opzione in Opzioni ▸ Schermo: scambiare minimappa e bussola."
+      ]
+     },
+     {
+      "title": "Modifiche",
+      "items": [
+       "Il combattimento è più cadenzato: meno colpi, ma più pesanti.",
+       "Le abilità potenti richiedono un momento di preparazione, e tra un'abilità e l'altra c'è una breve pausa.",
+       "Riposare su una sedia, uno sgabello o una poltrona ora cura {up:5} punti vita ogni 30 secondi (prima {down:1}).",
+       "Nel bosco, una certa imboscata tra i rovi non ti getta più in combattimento prima che tu abbia finito di leggere.",
+       "Mentre guardi una scena nessuno può attaccarti; tieni premuto Esc per saltarla.",
+       "Per fuggire, spostati in un'altra stanza.",
+       "La rarità si vede dal colore del nome: {junk:grigio}, {common:bianco}, {uncommon:verde}, {rare:blu}, {epic:viola} e {legendary:arancione}; ciò che fabbrichi porta la tua firma.",
+       "Non ci sono più oggetti {legendary:leggendari}: il leggendario deve ancora arrivare.",
+       "Forgiatura, Falegnameria e Cucina hanno ciascuna la propria fama di artigiano.",
+       "Masio, Teo e Ulda vendono materiali di base per la forgia e la falegnameria.",
+       "Quando tagli, estrai o scuoi, l'attrezzo si equipaggia da solo.",
+       "Fuori dal villaggio tutte le creature aggressive finiscono chi mettono a terra, e i cinghiali selvatici ora sono aggressivi."
+      ]
+     },
+     {
+      "title": "Correzioni",
+      "items": [
+       "Se le guardie ti cacciano da un locale, il pannello della stanza si aggiorna.",
+       "Gli oggetti di missione ormai inutili spariscono quando consegni la missione.",
+       "La luce della torcia ora si vede bene sugli schermi ultrawide.",
+       "Mangiare o bere non conta più come inattività.",
+       "La bussola non si sposta più quando compaiono i pulsanti per tagliare o estrarre.",
+       "La porta di troppo vicino alla capanna dello Zoppo non c'è più.",
+       "La finestra del taglio senza il mestiere non è più tagliata.",
+       "Il Guardiano del Pozzo non ricompare più dopo pochi minuti.",
+       "Gli obiettivi delle missioni nell'HUD ora mostrano i loro colori.",
+       "Chat: il suggerimento non resta più dopo l'invio, e le *azioni* appaiono in azzurro."
+      ]
+     }
+    ]
+   },
+   "pt": {
+    "highlight": "Pesca, culinária e novas cinemáticas",
+    "sections": [
+     {
+      "title": "Novidades",
+      "items": [
+       "Novo ofício: a Pesca. Fala com o Eloy «Corcho» no Cruzamento da Vila.",
+       "Novo ofício: a Culinária. Fala com a Martha na Cozinha da Taverna.",
+       "Uma cinemática para a missão do Bubo.",
+       "Uma cinemática para o enigma da casa da floresta.",
+       "Ao criares uma personagem nova, chegarás com uma cinemática conforme o teu deus e a tua raça.",
+       "Na taberna, ao sentares-te tens um chat só para quem está no mesmo sítio (o balcão, uma mesa ou a lareira): escreve «mesa <mensagem>» ou usa o chat do separador Mobília.",
+       "As ações de ofício leem-se agora no chat da sala.",
+       "Nova opção em Opções ▸ Ecrã: trocar o minimapa e a bússola."
+      ]
+     },
+     {
+      "title": "Alterações",
+      "items": [
+       "O combate está mais pausado: menos golpes, mas mais fortes.",
+       "As habilidades fortes demoram um momento a preparar, e há uma pausa curta entre uma habilidade e a seguinte.",
+       "Descansar numa cadeira, num banco ou numa poltrona cura agora {up:5} pontos de vida a cada 30 segundos (antes, {down:1}).",
+       "Na floresta, uma certa emboscada entre os espinhos já não te atira para o combate antes de acabares de ler.",
+       "Enquanto vês uma cena ninguém te pode atacar; mantém Esc premido para a saltar.",
+       "Para fugir, muda de sala.",
+       "A raridade vê-se na cor do nome: {junk:cinzento}, {common:branco}, {uncommon:verde}, {rare:azul}, {epic:roxo} e {legendary:laranja}; o que fabricas leva a tua assinatura.",
+       "Já não há objetos {legendary:lendários}: o lendário ainda está para vir.",
+       "A Ferraria, a Carpintaria e a Culinária têm cada uma a sua própria reputação de artesão.",
+       "O Masio, o Teo e a Ulda vendem materiais básicos de forja e carpintaria.",
+       "Ao abater, minerar ou esfolar, a ferramenta equipa-se sozinha.",
+       "Fora da vila, todas as criaturas agressivas acabam com quem deixam inconsciente, e os javalis selvagens são agora agressivos."
+      ]
+     },
+     {
+      "title": "Correções",
+      "items": [
+       "Se a guarda te expulsar de um local, o painel da sala atualiza-se.",
+       "Os objetos de missão que já não servem desaparecem ao entregares a missão.",
+       "A luz da tocha já se vê bem em ecrãs ultralargos.",
+       "Comer ou beber já não conta como inatividade.",
+       "A bússola já não se mexe quando aparecem os botões de cortar ou minerar.",
+       "A porta a mais junto à cabana do Coxo desapareceu.",
+       "A janela de abater sem o ofício já não aparece cortada.",
+       "O Guardião do Poço já não reaparece passados poucos minutos.",
+       "Os objetivos de missão no HUD mostram agora as suas cores.",
+       "Chat: a sugestão já não fica depois de enviar, e as *ações* aparecem a azul-claro."
+      ]
+     }
+    ]
+   }
+  }
+ },
+ {
+  "version": "0.0.2.14",
+  "date": "2026-10-10",
+  "notes": {
+   "es": {
+    "highlight": "Comercio entre jugadores, el banquero de Shadi Vanam y un oficio nuevo: la Carpintería",
+    "sections": [
+     {
+      "title": "Novedades",
+      "items": [
+       "Ya puedes comerciar con otros jugadores: «comerciar <nombre>» (o «Comerciar» en el menú de su nombre) con alguien de tu sala. Cada uno pone hasta 6 objetos y oro, pulsa Listo y cerráis el trato; si alguien cambia su oferta, las dos confirmaciones se anulan. El cambio es todo o nada, y se cancela si alguien se va, entra en combate, pierde el conocimiento o se desconecta. Los objetos de misión, ligados, trofeos únicos y recuerdos no se intercambian, y lo robado sigue siendo robado.",
+       "En Personaje › Oficios, la Herrería tiene ahora su libro de recetas: las que sabes hacer con su color, las que te faltan y dónde se aprende cada una (con Masio y su precio, con más nivel, con fama en Shadi Vanam, de un plano o en el yunque de Alcaraz). Se agrupan por cobre, bronce, hierro y acero y se pueden filtrar.",
+       "En Shadi Vanam hay ahora un depositario: Dámaso «Lacre», en el vestíbulo del ayuntamiento. Por 50 monedas, una sola vez, te abre una arqueta de 30 huecos donde guardar objetos (no monedas). Lo que guardas solo se abre en Shadi Vanam: para llevarlo a otra isla, sácalo y llévalo encima. Los objetos de misión no se guardan, y lo robado sigue siendo robado.",
+       "Nuevo oficio: Carpintería. Te lo enseña Ulda, la leñadora, que guarda las herramientas del Cojo: te da su gubia, que va en el hueco de herramienta, y se trabaja en el banco del taller del Cojo, en su cabaña del bosque. Del 1 al 75 haces mangos, astiles, tablas, clavijas, cuerdas, flechas y virotes, garrotes, bastones, escudos de tablas, arcos y ballestas. Las piezas clave salen del banco con calidad; lo repetitivo, con barra. El Arco largo de los pinos se aprende de un plano que a veces guarda el Rey de los Osos.",
+       "El banco de carpintería tiene su propio juego, «Al hilo»: la tabla pasa bajo el cepillo y tú lees la veta. Mantén pulsado (clic o Espacio) donde va a favor para sacar virutas limpias y suelta en lo oscuro, a contrapelo, y en los nudos, que astillan la madera y mellan el filo. El filo se gasta mientras cepillas; «Afilar» lo deja como nuevo, pero la tabla sigue corriendo. Tres pasadas, cada una más rápida, y el remate: tensar el arco hasta la franja (si te pasas, se raja) o dar tres capas de aceite cuando la madera brilla. De ahí sale la calidad, de tosca a obra maestra.",
+       "Nuevo árbol: el tejo (Talar 50, con hacha de metal), en el Calvero del Tejo, al fondo del camposanto y en el bosque. Su madera es la de los mejores arcos.",
+       "Antes de cada actualización, el juego avisa a todos los que están dentro con una cuenta atrás de 60 segundos que no se puede pasar por alto, en tu idioma: un aviso con campana a los 60, 30 y 15 segundos, segundo a segundo desde el 10 y, al llegar a 0, se guarda a todos los personajes y el servidor se reinicia con el parche nuevo. En los últimos segundos no se puede entrar; vuelve a intentarlo al poco.",
+       "Las bestias rematan: si un oso, un lobo o un jabalí te deja sin sentido fuera del pueblo, se acerca a acabar contigo. Hay unos segundos para que alguien la hiera o la espante; si nadie lo hace, te remata, te devora y se hace más fuerte (un oso puede convertirse en alfa)."
+      ]
+     },
+     {
+      "title": "Cambios",
+      "items": [
+       "El botón «Abandonar…» de cada oficio es ahora rojo y se ve bien.",
+       "Al fabricar, la cantidad se puede escribir: haz clic en el número, teclea las que quieras y pulsa Intro para empezar (Esc deja la que había). Las flechas y la rueda siguen funcionando. En las tiendas, la ventana «Cantidad» también se abre lista para teclear.",
+       "Los materiales de herrería (remaches, alambre, placas, lingotes, mineral, madera, carbón…) explican ahora para qué sirven en su descripción.",
+       "Una regla para todos los oficios: en algunas recetas puedes elegir con qué pieza cubres un hueco. La pieza de artesano de otro oficio (los mangos, astiles y tablas del carpintero para el herrero; los remaches, el alambre y las placas del herrero, o las pieles del desollador, para el carpintero) te hace subir más deprisa; la pieza improvisada (la nueva empuñadura de alambre del herrero, las clavijas del carpintero, la leña) funciona, pero lo fabricado sale un escalón de calidad peor. La ventana de recetas te deja elegir y te dice qué hace cada una.",
+       "Sin saber talar ya puedes sacar leña de los pinos (sin mejorar), y al picar hierro sale a veces carbón de piedra, que sirve como el carbón vegetal para fundir: un minero herrero ya no depende del roble.",
+       "La comida y la bebida dicen en su descripción lo que curan en cada bocado y lo que curan en total si terminas de comer.",
+       "Las reacciones al silbato y a los otros objetos de uso se escriben como acciones, entre asteriscos, y lo que dice cada vecino va aparte.",
+       "El diario de la misión del Rey de la Ruina ya no te dice el nombre que abre el Panteón: tendrás que buscar pistas de él."
+      ]
+     },
+     {
+      "title": "Correcciones",
+      "items": [
+       "En «La sombra de Shadi Vanam», si no sigues a Aelis, Vermido no te decía nada y la misión te dejaba sin pista. Ahora te habla (a su manera, según a quién sirvas) y te dice adónde ir, y el diario te guía hasta allí.",
+       "Al luchar contra otro jugador (o junto a él), la ventana de combate táctico mostraba su inicial en lugar de su retrato. Ahora se ve su retrato, en el radar y en las fichas, también el de los compañeros de grupo.",
+       "Los animales salvajes ya no se curan en mitad de un combate: un oso pardo al que dejabas a media vida recuperaba de golpe buena parte de ella, una y otra vez. Ahora el oso, el lobo y el jabalí conservan sus heridas y solo se reponen comiendo, fuera de combate. Tampoco les cura una presa que acababan de cazar justo antes de lanzarse sobre ti.",
+       "Si borrabas un personaje que estaba en un grupo, seguía en él como «sin conexión» y el personaje nuevo entraba viendo ese grupo. Ahora, al borrarlo, sale del grupo en el acto: los demás reciben un aviso, el liderazgo pasa a otro si lo tenía y, si sólo queda uno, el grupo se disuelve. El personaje nuevo empieza sin grupo.",
+       "En «El pollo perdido», si aceptabas la misión desde la lista de Polli, Polli desaparecía para ti en mitad de la conversación y «¿No llevas el pollo encima ya?» respondía «Error procesando diálogo» una y otra vez. Ahora Polli sigue en su granja hasta que sale a buscarte, y cuando una opción de diálogo no se puede elegir, la ventana dice por qué. Y cuando Polli te da la bolsa de oro, se ve en la ventana de la escena, como cuando los guardias te la quitan.",
+       "En «El turno de los que no parpadean», el botón de guardia, la cuerda mojada y la pluma rota que hay por el pueblo no se podían coger aunque la misión te pedía reunir un botón, una cuerda y una pluma. Ahora, cuando Lena te manda a buscarlas, cogerlas cuenta como encontrar esa prueba (también las del bosque, junto a su puesto; cada una se encuentra una sola vez). Antes de eso, siguen donde están.",
+       "Al caer a 0 PV por las zarzas, el fuego, el veneno, el ácido o el frío ya no te curabas del todo al dar el siguiente paso: ahora caes inconsciente, como en un combate.",
+       "Al ocultarte o salir de las sombras, la lista de jugadores de la sala ya se actualiza para los demás: antes, quien tuviera abierta la ventana de Examinar te seguía viendo.",
+       "«Dónde buscar» en el diario ya no muestra pistas de objetivos que ya has cumplido.",
+       "En «El calderero que vende silencios», coger la caja de clavos del establo de Polli no contaba para «Consigue clavos de la granja» y ya no dejaba coger los clavos sueltos, así que Galo nunca podía recibirlos. Ahora la caja cuenta, llevas los clavos de dentro y, si ya la tenías, se arregla sola en tu siguiente paso."
+      ]
+     }
+    ]
+   },
+   "en": {
+    "highlight": "Player trading, the Shadi Vanam banker and a new profession: Carpentry",
+    "sections": [
+     {
+      "title": "New",
+      "items": [
+       "You can now trade with other players: «trade <name>» (or «Trade» in the menu on their name) with someone in your room. Each of you puts in up to 6 items and gold, presses Ready and you close the deal; if someone changes their offer, both confirmations are cleared. The exchange is all or nothing, and it is cancelled if someone leaves, enters combat, loses consciousness or disconnects. Quest items, bound items, unique trophies and keepsakes cannot be traded, and stolen goods stay stolen.",
+       "In Character › Professions, Blacksmithing now has its recipe book: the ones you can make with their colour, the ones you are missing and where each is learned (from Masio and its price, at a higher level, with standing in Shadi Vanam, from a plan or at Alcaraz's anvil). They are grouped by copper, bronze, iron and steel and can be filtered.",
+       "Shadi Vanam now has a depositary: Dámaso «Lacre», in the town hall lobby. For 50 coins, only once, he opens you a strongbox with 30 spaces to keep items (not coins). What you store only opens in Shadi Vanam: to take it to another island, take it out and carry it. Quest items can't be stored, and stolen goods stay stolen.",
+       "New profession: Carpentry. Ulda the woodcutter teaches it; she keeps the Limper's tools and gives you his gouge, which goes in the tool slot. You work at the bench in the Limper's workshop, in his cabin in the forest. From 1 to 75 you make handles, shafts, planks, pegs, bowstrings, arrows and bolts, clubs, staves, plank shields, bows and crossbows. Key pieces come off the bench with a quality; repetitive work uses a progress bar. The Longbow of the Pines is learned from a plan that the Bear King sometimes keeps.",
+       "The carpentry bench has its own game, «Al hilo»: the board slides under the plane and you read the grain. Hold (click or Space) where it runs with you for clean shavings and let go on the dark grain and the knots, which tear the wood and chip the edge. The edge wears while you plane; «Sharpen» makes it keen again, but the board keeps sliding. Three passes, each faster, then the finish: draw the bow into the band (go past it and it cracks) or give it three coats of oil when the wood glows. That decides the quality, from rough to masterwork.",
+       "New tree: the yew (Woodcutting 50, with a metal axe), in the Yew Clearing, at the back of the graveyard and in the forest. Its wood makes the best bows.",
+       "Before every update, everyone in the game now gets a 60-second countdown you can't miss, in your own language: a notice with a bell at 60, 30 and 15 seconds, then second by second from 10, and at 0 every character is saved and the server restarts with the new patch. Logging in is closed for those last seconds; try again shortly after.",
+       "Beasts finish you off: if a bear, wolf or boar knocks you out outside the village, it comes to finish the job. There are a few seconds for someone to wound or scare it off; if nobody does, it kills you, feeds on you and grows stronger (a bear can become an alpha)."
+      ]
+     },
+     {
+      "title": "Changes",
+      "items": [
+       "The «Abandon…» button on each profession is now red and easy to see.",
+       "When crafting, you can type the amount: click the number, type how many you want and press Enter to start (Esc keeps the old one). The arrows and the mouse wheel still work. In shops, the «Amount» window also opens ready for typing.",
+       "Blacksmithing materials (rivets, wire, plates, ingots, ore, wood, charcoal…) now say what they are for in their description.",
+       "One rule for every trade: in some recipes you can choose which piece fills a slot. A craftsman's piece from another trade (the carpenter's handles, shafts and planks for the smith; the smith's rivets, wire and plates, or the skinner's hides, for the carpenter) makes you level faster; an improvised piece (the smith's new wire grip, the carpenter's pegs, firewood) works, but what you make comes out one quality step worse. The recipe window lets you choose and tells you what each one does.",
+       "Without woodcutting you can now get firewood from pines (without improving), and mining iron sometimes turns up stone coal, which smelts like charcoal: a mining smith no longer depends on oak.",
+       "Food and drink now say in their description how much they heal per bite and how much in total if you finish eating.",
+       "Reactions to the whistle and the other usable trinkets are written as actions, between asterisks, with what each villager says kept apart.",
+       "The journal for the Ruin King quest no longer tells you the name that opens the Pantheon: you'll have to look for clues to it."
+      ]
+     },
+     {
+      "title": "Fixes",
+      "items": [
+       "In «The Shadow of Shadi Vanam», if you don't follow Aelis, Vermido said nothing to you and the quest left you without a lead. Now he talks to you (in his own way, depending on whom you serve) and tells you where to go, and the journal guides you there.",
+       "When fighting another player (or alongside one), the tactical combat window showed their initial instead of their portrait. Their portrait now shows, on the radar and on the cards, and so do your party members.",
+       "Wild animals no longer heal in the middle of a fight: a brown bear you had brought down to half health would suddenly win much of it back, again and again. Bears, wolves and boars now keep their wounds and only recover by eating, out of combat. Prey they caught just before charging at you no longer heals them either.",
+       "If you deleted a character that was in a group, it stayed there as «offline» and your new character came in still seeing that group. Now deleting it takes it out of the group at once: the others are told, the lead passes on if it had it and, if only one is left, the group disbands. The new character starts with no group.",
+       "In «The Lost Chicken», if you accepted the quest from Polli's list, Polli vanished for you mid-conversation and «Aren't you already holding the chicken?» answered «Error processing dialogue» again and again. Polli now stays on his farm until he sets off to find you, and when a dialogue option can't be chosen, the window says why. And when Polli hands you the pouch of gold, it shows in the scene window, just like when the guards take it from you.",
+       "In «The Shift of Those Who Don't Blink», the guard's button, the wet rope and the broken quill lying around the village could not be taken, even though the quest asked you to gather a button, a rope and a quill. Now, once Lena sends you looking for them, taking one counts as finding that piece of evidence (the ones in the forest by her post still count too; each is found only once). Before that, they stay where they are.",
+       "Dropping to 0 HP from brambles, fire, poison, acid or cold no longer healed you fully on your next step: you now fall unconscious, as in combat.",
+       "Hiding or leaving the shadows now refreshes the room's player list for everyone else: before, anyone with the Examine window open kept seeing you.",
+       "«Where to look» in the journal no longer shows hints for objectives you've already completed.",
+       "In «The Tinker Who Sells Silences», taking the box of nails in Polli's stable didn't count for «Get nails from the farm» and stopped you taking the loose nails, so Galo could never get them. The box now counts, you carry the nails inside it and, if you already had it, it fixes itself on your next step."
+      ]
+     }
+    ]
+   },
+   "fr": {
+    "highlight": "Échanges entre joueurs, le banquier de Shadi Vanam et un nouveau métier : la Menuiserie",
+    "sections": [
+     {
+      "title": "Nouveautés",
+      "items": [
+       "Vous pouvez désormais commercer avec d'autres joueurs : « commercer <nom> » (ou « Commercer » dans le menu de son nom) avec quelqu'un de votre salle. Chacun place jusqu'à 6 objets et de l'or, appuie sur Prêt et vous concluez l'affaire ; si quelqu'un modifie son offre, les deux confirmations sont annulées. L'échange se fait en entier ou pas du tout, et il est annulé si quelqu'un part, entre en combat, perd connaissance ou se déconnecte. Les objets de quête, liés, les trophées uniques et les souvenirs ne s'échangent pas, et ce qui est volé reste volé.",
+       "Dans Personnage › Métiers, la Forge a désormais son livre de recettes : celles que tu sais faire avec leur couleur, celles qui te manquent et où s'apprend chacune (auprès de Masio et son prix, à un niveau plus élevé, avec de la réputation à Shadi Vanam, grâce à un plan ou sur l'enclume d'Alcaraz). Elles sont regroupées par cuivre, bronze, fer et acier et peuvent être filtrées.",
+       "Shadi Vanam a maintenant un dépositaire : Dámaso «Lacre», dans le vestibule de la mairie. Pour 50 pièces, une seule fois, il t'ouvre un coffret de 30 places où garder des objets (pas des pièces). Ce que tu déposes ne s'ouvre qu'à Shadi Vanam : pour l'emporter sur une autre île, retire-le et porte-le sur toi. Les objets de quête ne se déposent pas, et ce qui est volé reste volé.",
+       "Nouveau métier : la Menuiserie. Ulda la bûcheronne l'enseigne ; elle garde les outils du Boiteux et te donne sa gouge, qui va dans l'emplacement d'outil. On travaille à l'établi de l'atelier du Boiteux, dans sa cabane en forêt. De 1 à 75, tu fais des manches, des hampes, des planches, des chevilles, des cordes, des flèches et des carreaux, des gourdins, des bâtons, des boucliers de planches, des arcs et des arbalètes. Les pièces maîtresses sortent de l'établi avec une qualité ; le travail répétitif se fait avec une barre. L'Arc Long des Pins s'apprend dans un plan que garde parfois le Roi des Ours.",
+       "L'établi de menuisier a son propre jeu, « Al hilo » : la planche glisse sous le rabot et tu lis le fil du bois. Maintiens (clic ou Espace) là où il va dans ton sens pour des copeaux nets et relâche sur le bois sombre et les nœuds, qui font éclater le bois et ébrèchent le fil. Le fil s'use pendant que tu rabotes ; « Affûter » le remet à neuf, mais la planche continue de glisser. Trois passes, chacune plus rapide, puis la finition : bander l'arc jusqu'à la bande (au-delà, il se fend) ou passer trois couches d'huile quand le bois brille. C'est ce qui fixe la qualité, de grossière à chef-d'œuvre.",
+       "Nouvel arbre : l'if (Bûcheronnage 50, avec une hache de métal), dans la Clairière de l'If, au fond du cimetière et en forêt. Son bois fait les meilleurs arcs.",
+       "Avant chaque mise à jour, tous les joueurs connectés reçoivent un compte à rebours de 60 secondes impossible à manquer, dans leur langue : un avis avec une cloche à 60, 30 et 15 secondes, puis seconde par seconde à partir de 10, et à 0 tous les personnages sont sauvegardés et le serveur redémarre avec le nouveau correctif. Pendant ces dernières secondes on ne peut pas se connecter ; réessaie peu après.",
+       "Les bêtes achèvent : si un ours, un loup ou un sanglier t'assomme hors du village, il s'approche pour en finir. Il reste quelques secondes pour que quelqu'un le blesse ou l'effraie ; sinon, il t'achève, te dévore et devient plus fort (un ours peut devenir alpha)."
+      ]
+     },
+     {
+      "title": "Changements",
+      "items": [
+       "Le bouton « Abandonner… » de chaque métier est maintenant rouge et bien visible.",
+       "Quand tu fabriques, tu peux taper la quantité : clique sur le nombre, tape combien tu en veux et appuie sur Entrée pour commencer (Échap garde l'ancienne). Les flèches et la molette marchent toujours. Dans les boutiques, la fenêtre « Quantité » s'ouvre aussi prête à la saisie.",
+       "Les matériaux de forge (rivets, fil, plaques, lingots, minerai, bois, charbon…) disent maintenant à quoi ils servent dans leur description.",
+       "Une règle pour tous les métiers : dans certaines recettes, tu peux choisir la pièce qui remplit un emplacement. La pièce d'artisan d'un autre métier (les manches, hampes et planches du menuisier pour le forgeron ; les rivets, le fil et les plaques du forgeron, ou les peaux du dépeceur, pour le menuisier) te fait progresser plus vite ; la pièce de fortune (la nouvelle poignée de fil du forgeron, les chevilles du menuisier, le bois de chauffe) fonctionne, mais ce que tu fabriques sort d'un cran de qualité en dessous. La fenêtre des recettes te laisse choisir et t'indique l'effet de chacune.",
+       "Sans savoir abattre, tu peux désormais tirer du bois de chauffe des pins (sans progresser), et en piochant le fer on trouve parfois du charbon de pierre, qui sert comme le charbon de bois pour fondre : un forgeron mineur ne dépend plus du chêne.",
+       "La nourriture et les boissons indiquent dans leur description ce qu'elles soignent à chaque bouchée et au total si tu finis de manger.",
+       "Les réactions au sifflet et aux autres objets utilisables s'écrivent comme des actions, entre astérisques, et ce que dit chaque villageois est à part.",
+       "Le journal de la quête du Roi de la Ruine ne te donne plus le nom qui ouvre le Panthéon : il faudra en chercher les indices."
+      ]
+     },
+     {
+      "title": "Corrections",
+      "items": [
+       "Dans « L'Ombre de Shadi Vanam », si tu ne suis pas Aelis, Vermido ne te disait rien et la quête te laissait sans piste. Désormais il te parle (à sa manière, selon qui tu sers) et te dit où aller, et le journal t'y guide.",
+       "En combattant un autre joueur (ou à ses côtés), la fenêtre de combat tactique affichait son initiale au lieu de son portrait. Son portrait s’affiche désormais, sur le radar comme sur les fiches, ainsi que ceux des membres de votre groupe.",
+       "Les animaux sauvages ne se soignent plus en plein combat : un ours brun que vous aviez réduit à la moitié de sa vie en regagnait d'un coup une bonne partie, encore et encore. Désormais, l'ours, le loup et le sanglier gardent leurs blessures et ne se rétablissent qu'en mangeant, hors combat. Une proie attrapée juste avant de vous charger ne les soigne plus non plus.",
+       "Si tu supprimais un personnage qui était dans un groupe, il y restait « hors ligne » et ton nouveau personnage arrivait en voyant encore ce groupe. Désormais, le supprimer le retire du groupe aussitôt : les autres sont prévenus, la tête du groupe passe à un autre s'il l'avait et, s'il ne reste qu'un membre, le groupe se dissout. Le nouveau personnage commence sans groupe.",
+       "Dans « Le poulet perdu », si tu acceptais la quête depuis la liste de Polli, Polli disparaissait pour toi en pleine conversation et « Tu ne tiens pas déjà la poule dans tes bras ? » répondait « Erreur lors du traitement du dialogue » encore et encore. Polli reste désormais à sa ferme jusqu'à ce qu'il parte te chercher, et quand une option de dialogue ne peut pas être choisie, la fenêtre dit pourquoi. Et quand Polli te remet la bourse d'or, cela s'affiche dans la fenêtre de la scène, comme quand les gardes te la prennent.",
+       "Dans « Le Tour de Ceux qui Ne Clignent Pas », le bouton de garde, la corde mouillée et la plume brisée qui traînent dans le village ne pouvaient pas être pris, alors que la quête te demandait de réunir un bouton, une corde et une plume. Désormais, quand Lena t'envoie les chercher, les prendre compte comme trouver cette preuve (celles de la forêt, près de son poste, comptent toujours ; chacune ne se trouve qu'une fois). Avant, elles restent où elles sont.",
+       "Tomber à 0 PV à cause des ronces, du feu, du poison, de l'acide ou du froid ne te soignait plus entièrement au pas suivant : tu perds maintenant connaissance, comme en combat.",
+       "Te cacher ou sortir des ombres met désormais à jour la liste des joueurs de la salle pour les autres : avant, quiconque avait la fenêtre Examiner ouverte continuait de te voir.",
+       "« Où chercher » dans le journal n'affiche plus les indices des objectifs déjà accomplis.",
+       "Dans « Le Chaudronnier qui Vend des Silences », prendre la caisse de clous de l'étable de Polli ne comptait pas pour « Obtiens les clous de la ferme » et empêchait de prendre les clous en vrac, si bien que Galo ne pouvait jamais les recevoir. La caisse compte maintenant, tu emportes les clous qu'elle contient et, si tu l'avais déjà, tout se règle à ton prochain pas."
+      ]
+     }
+    ]
+   },
+   "de": {
+    "highlight": "Handel zwischen Spielern, der Bankier von Shadi Vanam und ein neuer Beruf: die Schreinerei",
+    "sections": [
+     {
+      "title": "Neu",
+      "items": [
+       "Du kannst jetzt mit anderen Spielern handeln: „handeln <Name>“ (oder „Handeln“ im Menü des Namens) mit jemandem in deinem Raum. Jede Seite legt bis zu 6 Gegenstände und Gold hinein, drückt Bereit, und ihr schließt den Handel ab; ändert jemand das Angebot, werden beide Bestätigungen aufgehoben. Der Tausch geschieht ganz oder gar nicht und wird abgebrochen, wenn jemand geht, in einen Kampf gerät, das Bewusstsein verliert oder die Verbindung trennt. Questgegenstände, gebundene Gegenstände, einzigartige Trophäen und Andenken lassen sich nicht handeln, und Gestohlenes bleibt gestohlen.",
+       "Unter Charakter › Berufe hat die Schmiedekunst jetzt ihr Rezeptbuch: die Rezepte, die du kannst, mit ihrer Farbe, die, die dir fehlen, und wo du jedes lernst (bei Masio samt Preis, mit höherer Stufe, mit Ansehen in Shadi Vanam, aus einem Plan oder an Alcaraz’ Amboss). Sie sind nach Kupfer, Bronze, Eisen und Stahl gruppiert und lassen sich filtern.",
+       "Shadi Vanam hat jetzt einen Verwahrer: Dámaso «Lacre», in der Eingangshalle des Rathauses. Für 50 Münzen, nur einmal, eröffnet er dir ein Kästchen mit 30 Plätzen für Gegenstände (keine Münzen). Was du einlagerst, öffnet sich nur in Shadi Vanam: Um es auf eine andere Insel zu bringen, nimm es heraus und trag es bei dir. Questgegenstände lassen sich nicht einlagern, und Gestohlenes bleibt gestohlen.",
+       "Neuer Beruf: Schreinerei. Ulda, die Holzfällerin, lehrt ihn; sie hütet das Werkzeug des Hinkenden und gibt dir sein Hohleisen, das in den Werkzeugplatz gehört. Gearbeitet wird an der Hobelbank in der Werkstatt des Hinkenden, in seiner Hütte im Wald. Von 1 bis 75 machst du Stiele, Schäfte, Bretter, Dübel, Sehnen, Pfeile und Bolzen, Knüppel, Stäbe, Bretterschilde, Bögen und Armbrüste. Schlüsselstücke kommen mit einer Qualität von der Bank; wiederkehrende Arbeit geht mit einem Balken. Den Langbogen der Kiefern lernt man aus einem Plan, den manchmal der Bärenkönig hütet.",
+       "Die Hobelbank hat ihr eigenes Spiel, „Al hilo“: Das Brett läuft unter dem Hobel durch, und du liest die Maserung. Halte (Klick oder Leertaste), wo die Faser mit dir läuft, für saubere Späne, und lass los auf dunkler Gegenfaser und an Ästen, die das Holz ausreißen und die Schneide stumpf machen. Die Schneide nutzt sich beim Hobeln ab; „Schärfen“ macht sie wieder scharf, aber das Brett läuft weiter. Drei Durchgänge, jeder schneller, dann der Abschluss: den Bogen bis ins Band spannen (darüber reißt er) oder drei Schichten Öl auftragen, wenn das Holz glüht. Das entscheidet die Qualität, von grob bis Meisterstück.",
+       "Neuer Baum: die Eibe (Holzfällen 50, mit Metallaxt), auf der Eibenlichtung, hinten auf dem Friedhof und im Wald. Ihr Holz ergibt die besten Bögen.",
+       "Vor jedem Update bekommen alle im Spiel jetzt einen 60-Sekunden-Countdown, den man nicht übersehen kann, in der eigenen Sprache: ein Hinweis mit Glocke bei 60, 30 und 15 Sekunden, ab 10 Sekunde für Sekunde, und bei 0 werden alle Charaktere gespeichert und der Server startet mit dem neuen Patch neu. In diesen letzten Sekunden ist die Anmeldung gesperrt; versuch es kurz danach noch einmal.",
+       "Bestien geben dir den Rest: Schlägt dich ein Bär, Wolf oder Keiler außerhalb des Dorfes bewusstlos, kommt er, um es zu Ende zu bringen. Ein paar Sekunden lang kann jemand ihn verwunden oder verscheuchen; tut das niemand, tötet er dich, frisst dich und wird stärker (ein Bär kann zum Alphatier werden)."
+      ]
+     },
+     {
+      "title": "Änderungen",
+      "items": [
+       "Die Schaltfläche „Aufgeben…“ bei jedem Beruf ist jetzt rot und gut zu sehen.",
+       "Beim Herstellen kannst du die Menge eintippen: Klick auf die Zahl, tipp ein, wie viele du willst, und drück Enter zum Starten (Esc behält die alte). Die Pfeile und das Mausrad funktionieren weiterhin. In Läden öffnet sich das Fenster „Menge“ ebenfalls gleich zum Tippen.",
+       "Schmiedematerialien (Nieten, Draht, Platten, Barren, Erz, Holz, Holzkohle …) sagen jetzt in ihrer Beschreibung, wofür sie gut sind.",
+       "Eine Regel für alle Handwerke: Bei manchen Rezepten kannst du wählen, mit welchem Teil du einen Platz füllst. Ein Handwerksstück aus einem anderen Beruf (Stiele, Schäfte und Bretter vom Schreiner für den Schmied; Nieten, Draht und Platten vom Schmied oder Felle vom Häuter für den Schreiner) lässt dich schneller aufsteigen; ein Notbehelf (der neue Drahtgriff des Schmieds, die Dübel des Schreiners, Brennholz) geht, aber das Hergestellte fällt eine Qualitätsstufe schlechter aus. Im Rezeptfenster wählst du und siehst, was jedes bewirkt.",
+       "Ohne Holzfällen bekommst du jetzt Brennholz von Kiefern (ohne besser zu werden), und beim Eisenabbau kommt manchmal Steinkohle heraus, die wie Holzkohle zum Schmelzen taugt: Ein Schmied, der selbst schürft, braucht keine Eiche mehr.",
+       "Essen und Getränke zeigen in ihrer Beschreibung, wie viel sie pro Bissen und insgesamt heilen, wenn du aufisst.",
+       "Reaktionen auf die Pfeife und die anderen benutzbaren Gegenstände stehen jetzt als Handlungen zwischen Sternchen, und was ein Dorfbewohner sagt, steht für sich.",
+       "Das Tagebuch der Quest um den König der Ruine verrät dir nicht mehr den Namen, der das Pantheon öffnet: Du musst nach Hinweisen darauf suchen."
+      ]
+     },
+     {
+      "title": "Fehlerbehebungen",
+      "items": [
+       "In «Der Schatten von Shadi Vanam» sagte Vermido dir nichts, wenn du nicht Aelis folgst, und die Aufgabe ließ dich ohne Spur. Jetzt spricht er mit dir (auf seine Art, je nachdem, wem du dienst) und sagt dir, wohin du gehen sollst, und das Tagebuch führt dich dorthin.",
+       "Im Kampf gegen einen anderen Spieler (oder an seiner Seite) zeigte das taktische Kampffenster seinen Anfangsbuchstaben statt seines Porträts. Jetzt erscheint sein Porträt, auf dem Radar und auf den Karten, ebenso das deiner Gruppenmitglieder.",
+       "Wilde Tiere heilen sich nicht mehr mitten im Kampf: Ein Braunbär, den du auf die Hälfte seiner Lebenspunkte gebracht hattest, gewann plötzlich einen großen Teil davon zurück, immer wieder. Bär, Wolf und Wildschwein behalten jetzt ihre Wunden und erholen sich nur durch Fressen, außerhalb des Kampfes. Auch eine Beute, die sie kurz vor dem Angriff auf dich gerissen haben, heilt sie nicht mehr.",
+       "Wenn du einen Charakter gelöscht hast, der in einer Gruppe war, blieb er dort als „offline“ und dein neuer Charakter sah beim Betreten noch diese Gruppe. Jetzt verlässt er die Gruppe beim Löschen sofort: Die anderen werden benachrichtigt, die Führung geht an jemand anderen über, falls er sie hatte, und bleibt nur einer übrig, löst sich die Gruppe auf. Der neue Charakter beginnt ohne Gruppe.",
+       "In „Das verlorene Huhn“ verschwand Polli mitten im Gespräch, wenn du die Quest aus Pollis Liste angenommen hattest, und „Hältst du das Huhn nicht schon in den Armen?“ antwortete immer wieder mit „Fehler bei der Dialogverarbeitung“. Jetzt bleibt Polli auf seinem Hof, bis er losgeht, um dich zu suchen, und wenn eine Dialogoption nicht gewählt werden kann, sagt das Fenster, warum. Und wenn Polli dir den Goldbeutel gibt, siehst du es im Fenster der Szene, wie wenn die Wachen ihn dir abnehmen.",
+       "In „Die Schicht derer, die nicht blinzeln“ ließen sich der Knopf eines Wachmanns, das nasse Seil und die zerbrochene Feder im Dorf nicht aufheben, obwohl die Aufgabe verlangte, einen Knopf, ein Seil und eine Feder zu sammeln. Jetzt zählt das Aufheben als Fund dieses Beweisstücks, sobald Lena dich danach suchen lässt (die im Wald bei ihrem Posten zählen weiterhin; jedes findest du nur einmal). Vorher bleiben sie liegen.",
+       "Wer durch Dornen, Feuer, Gift, Säure oder Kälte auf 0 LP fiel, wurde beim nächsten Schritt nicht mehr voll geheilt: Du wirst jetzt bewusstlos, wie im Kampf.",
+       "Wenn du dich versteckst oder die Schatten verlässt, aktualisiert sich jetzt die Spielerliste des Raums für alle anderen: Vorher sah dich weiter, wer das Untersuchen-Fenster offen hatte.",
+       "„Wo suchen“ im Tagebuch zeigt keine Hinweise mehr zu Zielen, die du schon erfüllt hast.",
+       "In „Der Kesselflicker, der Stille verkauft“ zählte die Nagelkiste aus Pollis Stall nicht für „Besorge Nägel von der Farm“ und sperrte die losen Nägel, sodass Galo sie nie bekommen konnte. Jetzt zählt die Kiste, du trägst die Nägel darin bei dir, und wer sie schon hatte, bei dem richtet es sich beim nächsten Schritt von selbst."
+      ]
+     }
+    ]
+   },
+   "it": {
+    "highlight": "Scambi tra giocatori, il banchiere di Shadi Vanam e un nuovo mestiere: la Falegnameria",
+    "sections": [
+     {
+      "title": "Novità",
+      "items": [
+       "Ora puoi commerciare con altri giocatori: «commerciare <nome>» (o «Commercia» nel menu del suo nome) con qualcuno della tua stanza. Ognuno mette fino a 6 oggetti e oro, preme Pronto e chiudete l'affare; se qualcuno cambia la propria offerta, entrambe le conferme si annullano. Lo scambio è tutto o niente, e si annulla se qualcuno se ne va, entra in combattimento, perde i sensi o si disconnette. Gli oggetti di missione, quelli vincolati, i trofei unici e i ricordi non si scambiano, e la refurtiva resta refurtiva.",
+       "In Personaggio › Mestieri, la Forgiatura ha ora il suo ricettario: le ricette che sai fare con il loro colore, quelle che ti mancano e dove si impara ognuna (da Masio e il suo prezzo, a un livello più alto, con la reputazione a Shadi Vanam, da un progetto o sull'incudine di Alcaraz). Sono raggruppate per rame, bronzo, ferro e acciaio e si possono filtrare.",
+       "A Shadi Vanam ora c'è un depositario: Dámaso «Lacre», nell'atrio del municipio. Per 50 monete, una volta sola, ti apre una cassetta da 30 posti dove custodire oggetti (non monete). Ciò che depositi si apre solo a Shadi Vanam: per portarlo su un'altra isola, ritiralo e portalo con te. Gli oggetti delle missioni non si depositano, e ciò che è rubato resta rubato.",
+       "Nuovo mestiere: Falegnameria. Te lo insegna Ulda, la taglialegna, che custodisce gli attrezzi dello Zoppo: ti dà la sua sgorbia, che va nello spazio per gli attrezzi. Si lavora al banco della bottega dello Zoppo, nella sua capanna nel bosco. Da 1 a 75 fai manici, aste, assi, pioli, corde, frecce e dardi, randelli, bastoni, scudi di assi, archi e balestre. I pezzi chiave escono dal banco con una qualità; il lavoro ripetitivo va con la barra. L'Arco lungo dei pini si impara da un progetto che a volte custodisce il Re degli Orsi.",
+       "Il banco da falegname ha il suo gioco, «Al hilo»: l'asse scorre sotto la pialla e tu leggi la venatura. Tieni premuto (clic o Spazio) dove va a favore per trucioli puliti e lascia sul legno scuro, contropelo, e sui nodi, che scheggiano il legno e intaccano il filo. Il filo si consuma mentre pialli; «Affilare» lo rende come nuovo, ma l'asse continua a scorrere. Tre passate, ognuna più veloce, poi la rifinitura: tendere l'arco fino alla fascia (se la superi si spacca) o dare tre mani d'olio quando il legno brilla. Da lì viene la qualità, da grezza a capolavoro.",
+       "Nuovo albero: il tasso (Taglialegna 50, con un'ascia di metallo), alla Radura del Tasso, in fondo al camposanto e nel bosco. Il suo legno fa gli archi migliori.",
+       "Prima di ogni aggiornamento, chi è in gioco riceve un conto alla rovescia di 60 secondi impossibile da non vedere, nella propria lingua: un avviso con campana a 60, 30 e 15 secondi, poi secondo per secondo da 10, e a 0 tutti i personaggi vengono salvati e il server si riavvia con la nuova patch. In quegli ultimi secondi non si può entrare; riprova poco dopo.",
+       "Le bestie finiscono il lavoro: se un orso, un lupo o un cinghiale ti fa perdere i sensi fuori dal villaggio, si avvicina per finirti. Ci sono alcuni secondi perché qualcuno lo ferisca o lo spaventi; se nessuno lo fa, ti finisce, ti divora e diventa più forte (un orso può diventare alfa)."
+      ]
+     },
+     {
+      "title": "Modifiche",
+      "items": [
+       "Il pulsante «Abbandona…» di ogni mestiere ora è rosso e ben visibile.",
+       "Quando fabbrichi puoi scrivere la quantità: clicca sul numero, digita quanti ne vuoi e premi Invio per cominciare (Esc tiene quella di prima). Le frecce e la rotellina funzionano ancora. Nei negozi, anche la finestra «Quantità» si apre pronta per scrivere.",
+       "I materiali da forgiatura (rivetti, filo, piastre, lingotti, minerale, legna, carbone…) ora dicono a cosa servono nella loro descrizione.",
+       "Una regola per tutti i mestieri: in alcune ricette puoi scegliere con quale pezzo coprire uno spazio. Il pezzo da artigiano di un altro mestiere (manici, aste e assi del falegname per il fabbro; rivetti, filo e piastre del fabbro, o le pelli dello scuoiatore, per il falegname) ti fa salire più in fretta; il pezzo di ripiego (la nuova impugnatura di filo del fabbro, i pioli del falegname, la legna) funziona, ma ciò che fabbrichi esce un gradino di qualità peggiore. La finestra delle ricette ti fa scegliere e ti dice cosa fa ciascuno.",
+       "Senza saper tagliare ora puoi ricavare legna dai pini (senza migliorare), e picconando il ferro a volte esce carbon fossile, che serve come il carbone di legna per fondere: un fabbro minatore non dipende più dalla quercia.",
+       "Cibo e bevande dicono nella descrizione quanto curano a ogni boccone e quanto in totale se finisci di mangiare.",
+       "Le reazioni al fischietto e agli altri oggetti utilizzabili sono scritte come azioni, tra asterischi, e ciò che dice ogni abitante è a parte.",
+       "Il diario della missione del Re della Rovina non ti dice più il nome che apre il Pantheon: dovrai cercarne gli indizi."
+      ]
+     },
+     {
+      "title": "Correzioni",
+      "items": [
+       "In «L'ombra di Shadi Vanam», se non segui Aelis, Vermido non ti diceva nulla e la missione ti lasciava senza indizi. Ora ti parla (a modo suo, a seconda di chi servi) e ti dice dove andare, e il diario ti guida fin lì.",
+       "Combattendo contro un altro giocatore (o al suo fianco), la finestra del combattimento tattico mostrava la sua iniziale invece del ritratto. Ora si vede il suo ritratto, sul radar e sulle schede, e anche quello dei compagni di gruppo.",
+       "Gli animali selvatici non si curano più nel mezzo di un combattimento: un orso bruno che avevi ridotto a metà vita ne recuperava di colpo buona parte, più e più volte. Ora orso, lupo e cinghiale conservano le loro ferite e si riprendono solo mangiando, fuori dal combattimento. Nemmeno una preda catturata poco prima di caricarti li cura più.",
+       "Se eliminavi un personaggio che era in un gruppo, restava lì come «non connesso» e il nuovo personaggio entrava vedendo ancora quel gruppo. Ora, eliminandolo, esce subito dal gruppo: gli altri vengono avvisati, la guida passa a un altro se ce l'aveva e, se resta un solo membro, il gruppo si scioglie. Il nuovo personaggio parte senza gruppo.",
+       "In «Il pollo smarrito», se accettavi la missione dalla lista di Polli, Polli spariva per te a metà conversazione e «Non la stai già tenendo tra le braccia?» rispondeva «Errore nell'elaborazione del dialogo» più e più volte. Ora Polli resta nella sua fattoria finché non esce a cercarti, e quando un'opzione di dialogo non si può scegliere, la finestra dice perché. E quando Polli ti consegna la borsa d'oro, si vede nella finestra della scena, come quando le guardie te la tolgono.",
+       "In «Il turno di chi non batte ciglio», il bottone di guardia, la corda bagnata e la penna spezzata che si trovano in paese non si potevano raccogliere, anche se la missione ti chiedeva di riunire un bottone, una corda e una penna. Ora, quando Lena ti manda a cercarli, raccoglierli conta come trovare quella prova (valgono ancora quelle nel bosco, vicino al suo posto; ognuna si trova una volta sola). Prima di allora restano dove sono.",
+       "Scendere a 0 PV per i rovi, il fuoco, il veleno, l'acido o il freddo non ti curava più del tutto al passo successivo: ora perdi i sensi, come in combattimento.",
+       "Nasconderti o uscire dall'ombra ora aggiorna l'elenco dei giocatori della stanza per tutti gli altri: prima, chi aveva aperta la finestra Esamina continuava a vederti.",
+       "«Dove cercare» nel diario non mostra più indizi di obiettivi già completati.",
+       "In «Il calderaio che vende silenzi», prendere la cassa di chiodi nella stalla di Polli non contava per «Procura i chiodi dalla fattoria» e impediva di prendere i chiodi sciolti, così Galo non poteva mai riceverli. Ora la cassa conta, porti con te i chiodi che contiene e, se l'avevi già, si sistema da solo al tuo prossimo passo."
+      ]
+     }
+    ]
+   },
+   "pt": {
+    "highlight": "Comércio entre jogadores, o banqueiro de Shadi Vanam e um novo ofício: a Carpintaria",
+    "sections": [
+     {
+      "title": "Novidades",
+      "items": [
+       "Já podes negociar com outros jogadores: «negociar <nome>» (ou «Negociar» no menu do seu nome) com alguém da tua sala. Cada um põe até 6 objetos e ouro, carrega em Pronto e fecham o negócio; se alguém mudar a sua oferta, as duas confirmações ficam anuladas. A troca é tudo ou nada, e é cancelada se alguém sair, entrar em combate, perder os sentidos ou se desligar. Os objetos de missão, os vinculados, os troféus únicos e as recordações não se trocam, e o que é roubado continua roubado.",
+       "Em Personagem › Ofícios, a Ferraria tem agora o seu livro de receitas: as que sabes fazer com a sua cor, as que te faltam e onde se aprende cada uma (com o Masio e o seu preço, com mais nível, com reputação em Shadi Vanam, de um plano ou na bigorna de Alcaraz). Estão agrupadas por cobre, bronze, ferro e aço e podem ser filtradas.",
+       "Shadi Vanam tem agora um depositário: o Dámaso «Lacre», no vestíbulo da câmara. Por 50 moedas, uma só vez, abre-te uma arca de 30 espaços para guardares objetos (não moedas). O que guardas só se abre em Shadi Vanam: para o levares para outra ilha, tira-o e leva-o contigo. Os objetos de missão não se guardam, e o que é roubado continua roubado.",
+       "Novo ofício: Carpintaria. Ensina-o a Ulda, a lenhadora, que guarda as ferramentas do Coxo: dá-te a goiva dele, que vai no espaço da ferramenta. Trabalha-se na bancada da oficina do Coxo, na cabana dele no bosque. Do 1 ao 75 fazes cabos, hastes, tábuas, cavilhas, cordas, flechas e virotes, mocas, bordões, escudos de tábuas, arcos e bestas. As peças-chave saem da bancada com qualidade; o trabalho repetitivo vai com barra. O Arco longo dos pinheiros aprende-se num plano que às vezes o Rei dos Ursos guarda.",
+       "A bancada de carpintaria tem o seu próprio jogo, «Al hilo»: a tábua desliza sob a plaina e tu lês o veio. Mantém premido (clique ou Espaço) onde vai a favor para aparas limpas e solta na madeira escura, a contra-veio, e nos nós, que lascam a madeira e embotam o fio. O fio gasta-se enquanto aplainas; «Afiar» deixa-o como novo, mas a tábua continua a deslizar. Três passagens, cada uma mais rápida, e o remate: tensar o arco até à faixa (se passares, racha) ou dar três demãos de óleo quando a madeira brilha. Daí sai a qualidade, de tosca a obra-prima.",
+       "Nova árvore: o teixo (Lenhador 50, com machado de metal), na Clareira do Teixo, ao fundo do cemitério e no bosque. A sua madeira dá os melhores arcos.",
+       "Antes de cada atualização, todos os que estão no jogo recebem uma contagem decrescente de 60 segundos impossível de ignorar, no teu idioma: um aviso com sino aos 60, 30 e 15 segundos, depois segundo a segundo a partir dos 10, e aos 0 todas as personagens são guardadas e o servidor reinicia com o novo patch. Nesses últimos segundos não é possível entrar; tenta outra vez pouco depois.",
+       "As feras acabam contigo: se um urso, um lobo ou um javali te deixar inconsciente fora da vila, aproxima-se para acabar o serviço. Há uns segundos para alguém o ferir ou o espantar; se ninguém o fizer, mata-te, devora-te e fica mais forte (um urso pode tornar-se alfa)."
+      ]
+     },
+     {
+      "title": "Alterações",
+      "items": [
+       "O botão «Abandonar…» de cada ofício agora é vermelho e vê-se bem.",
+       "Ao fabricar, podes escrever a quantidade: clica no número, escreve quantas queres e carrega em Enter para começar (Esc mantém a que estava). As setas e a roda do rato continuam a funcionar. Nas lojas, a janela «Quantidade» também abre pronta para escrever.",
+       "Os materiais de ferraria (rebites, arame, placas, lingotes, minério, madeira, carvão…) dizem agora para que servem na sua descrição.",
+       "Uma regra para todos os ofícios: em algumas receitas podes escolher com que peça preenches um espaço. A peça de artesão de outro ofício (os cabos, hastes e tábuas do carpinteiro para o ferreiro; os rebites, o arame e as placas do ferreiro, ou as peles do esfolador, para o carpinteiro) faz-te subir mais depressa; a peça improvisada (o novo punho de arame do ferreiro, as cavilhas do carpinteiro, a lenha) funciona, mas o que fabricas sai um degrau de qualidade abaixo. A janela de receitas deixa-te escolher e diz-te o que faz cada uma.",
+       "Sem saber cortar já podes tirar lenha dos pinheiros (sem melhorar), e ao picar ferro sai às vezes carvão de pedra, que serve como o carvão vegetal para fundir: um ferreiro mineiro já não depende do carvalho.",
+       "A comida e a bebida dizem na descrição quanto curam em cada dentada e quanto curam no total se acabares de comer.",
+       "As reações ao apito e aos outros objetos de uso escrevem-se como ações, entre asteriscos, e o que cada vizinho diz fica à parte.",
+       "O diário da missão do Rei da Ruína já não te diz o nome que abre o Panteão: vais ter de procurar pistas dele."
+      ]
+     },
+     {
+      "title": "Correções",
+      "items": [
+       "Em «A sombra de Shadi Vanam», se não segues Aelis, o Vermido não te dizia nada e a missão deixava-te sem pista. Agora fala contigo (à sua maneira, conforme a quem serves) e diz-te para onde ir, e o diário guia-te até lá.",
+       "Ao lutar contra outro jogador (ou ao lado dele), a janela de combate tático mostrava a inicial dele em vez do retrato. Agora aparece o retrato, no radar e nas fichas, e também o dos membros do grupo.",
+       "Os animais selvagens já não se curam a meio de um combate: um urso-pardo que deixavas a meia vida recuperava de repente boa parte dela, uma e outra vez. Agora o urso, o lobo e o javali mantêm as feridas e só recuperam a comer, fora de combate. Uma presa que caçaram mesmo antes de investir contra ti também já não os cura.",
+       "Se apagasses uma personagem que estava num grupo, ela ficava lá como «sem ligação» e a nova personagem entrava ainda a ver esse grupo. Agora, ao apagá-la, sai do grupo de imediato: os outros são avisados, a liderança passa a outro se a tinha e, se só restar um, o grupo dissolve-se. A nova personagem começa sem grupo.",
+       "Em «O frango perdido», se aceitavas a missão a partir da lista do Polli, o Polli desaparecia para ti a meio da conversa e «Não é essa a galinha que trazes ao colo?» respondia «Erro ao processar diálogo» uma e outra vez. Agora o Polli fica na quinta até sair à tua procura, e quando uma opção de diálogo não pode ser escolhida, a janela diz porquê. E quando o Polli te dá a bolsa de ouro, isso vê-se na janela da cena, tal como quando os guardas ta tiram.",
+       "Em «O turno dos que não piscam», o botão de guarda, a corda molhada e a pena partida que há pela aldeia não se podiam apanhar, apesar de a missão te pedir para reunir um botão, uma corda e uma pena. Agora, quando a Lena te manda procurá-las, apanhá-las conta como encontrar essa prova (as da floresta, junto ao posto dela, continuam a contar; cada uma só se encontra uma vez). Antes disso, ficam onde estão.",
+       "Ao cair a 0 PV por silvas, fogo, veneno, ácido ou frio já não te curavas por completo ao dar o passo seguinte: agora ficas inconsciente, como num combate.",
+       "Ao esconderes-te ou saíres das sombras, a lista de jogadores da sala atualiza-se para os outros: antes, quem tivesse aberta a janela Examinar continuava a ver-te.",
+       "«Onde procurar» no diário já não mostra pistas de objetivos que já cumpriste.",
+       "Em «O caldeireiro que vende silêncios», pegar na caixa de pregos do estábulo da Polli não contava para «Consegue pregos da quinta» e impedia de pegar nos pregos soltos, por isso o Galo nunca os podia receber. Agora a caixa conta, levas os pregos que estão lá dentro e, se já a tinhas, resolve-se sozinho no teu próximo passo."
+      ]
+     }
+    ]
+   }
+  }
+ },
+ {
+  "version": "0.0.2.13",
+  "date": "2026-10-10",
+  "notes": {
+   "es": {
+    "highlight": "La Herrería ya se puede aprender, el combate va más pausado y Polli vuelve a aparecer",
+    "sections": [
+     {
+      "title": "Novedades",
+      "items": [
+       "El combate va más despacio: los golpes llegan más espaciados y pegan más fuerte, así que los combates duran lo mismo pero se entiende lo que pasa. El primer golpe ya no sale al instante.",
+       "En la lista de la sala (examinar), un «!» dorado junto a quien tiene una misión para ti y un «?» si tienes algo que entregarle.",
+       "Mientras comes o bebes aparece el botón «Dejar de comer» / «Dejar de beber». También puedes escribir «parar».",
+       "Nuevos usos: el odre se bebe y se vuelve a llenar en el pozo, en arroyos y en fuentes («llenar odre»); el silbato de hojalata se lleva al cuello y se sopla, y lo oye toda la sala; los dados de madera se tiran y la pata de conejo se frota.",
+       "En pantallas pequeñas (1024x768, 1366x768) el juego se ve más grande y se lee mejor. Nueva opción «Tamaño de la interfaz» en Opciones > Pantalla.",
+       "Cuando llega un mensaje a una pestaña del chat que no tienes abierta, la pestaña parpadea en dorado y muestra cuántos mensajes tienes sin leer.",
+       "Puedes juntar montones del mismo objeto en el inventario arrastrando uno sobre otro.",
+       "Hay más árboles y vetas de mineral repartidos por el mapa."
+      ]
+     },
+     {
+      "title": "Cambios",
+      "items": [
+       "El pico de hierro necesita Minería 30 para equiparlo.",
+       "Los animales y los PNJ que mueren en combate quedan como cadáver; solo los jugadores caen inconscientes. Los viajeros y guardias de fuera del pueblo vuelven al cabo de un rato.",
+       "La oveja se puede desollar y da vellón de lana.",
+       "Lo que llevas puesto muestra y aplica los valores actuales del objeto. Si una pieza cambió en la 0.0.2.12, ahora verás su defensa y sus atributos reales.",
+       "Los oficios llegan hasta 75 por ahora, y los maestros lo dicen claramente.",
+       "Los objetivos del rastreador de misiones se leen enteros: si son largos ocupan varias líneas en vez de cortarse."
+      ]
+     },
+     {
+      "title": "Correcciones",
+      "items": [
+       "«Quiero entrenar contigo» con Masio y con Teo daba «Error procesando diálogo». La Herrería ya se puede aprender.",
+       "En «El pollo perdido», Polli desaparecía y la misión se quedaba parada. Si te pasó, al moverte se arregla solo; si no ves a Polli, búscalo en la entrada del pueblo o en su granja.",
+       "Herm ya no te ofrece la misión de Xaina como si fuera suya, y el paso en el que vuelves al banco de piedra explica mejor qué hacer.",
+       "Al entregar la cera y los clavos a Galo podía salir «Error procesando diálogo» aunque la entrega se hacía bien. Ya no sale, y Galo te dice qué hacer después.",
+       "Bubo deja de quejarse de que no puede dormir cuando ya le has ayudado.",
+       "Pulsar varias veces las flechas de «Salidas disponibles» ya no reinicia la espera para moverte.",
+       "La ventana de botín ya no dice «inconsciente» sobre un animal muerto.",
+       "El daño que mostraban algunas armas equipadas (como un bastón que seguía marcando 3d8) no coincidía con el real."
+      ]
+     }
+    ]
+   },
+   "en": {
+    "highlight": "Blacksmithing can now be learned, combat is more measured and Polli is back",
+    "sections": [
+     {
+      "title": "New",
+      "items": [
+       "Combat is slower: blows come further apart and hit harder, so fights last as long as before but you can follow what happens. The first blow no longer lands instantly.",
+       "In the room list (Room contents), a gold «!» next to whoever has a quest for you and a «?» if you have something to hand in to them.",
+       "While you eat or drink, a «Stop eating» / «Stop drinking» button appears. You can also type «stop».",
+       "New uses: the Waterskin can be drunk and refilled at the well, at streams and at fountains («fill waterskin»); the Tin Whistle is worn around the neck and blown, and the whole room hears it; the Wooden Dice can be rolled and the Lucky Rabbit's Foot rubbed.",
+       "On small screens (1024x768, 1366x768) the game is shown larger and is easier to read. New «Interface size» option under Options > Display.",
+       "When a message arrives in a chat tab you do not have open, the tab flashes gold and shows how many unread messages you have.",
+       "You can merge stacks of the same item in the inventory by dragging one onto the other.",
+       "There are more trees and ore veins spread across the map."
+      ]
+     },
+     {
+      "title": "Changes",
+      "items": [
+       "The Iron Pickaxe needs Mining 30 to be equipped.",
+       "Animals and NPCs that die in combat are left as a corpse; only players fall unconscious. Travellers and guards outside the village come back after a while.",
+       "Sheep can be skinned and give a Wool fleece.",
+       "What you are wearing shows and applies the item's current values. If a piece changed in 0.0.2.12, you will now see its real defence and attributes.",
+       "Professions go up to 75 for now, and the masters say so clearly.",
+       "Objectives in the quest tracker can be read in full: long ones take several lines instead of being cut off."
+      ]
+     },
+     {
+      "title": "Fixes",
+      "items": [
+       "«I want to train with you» with Masio and Teo gave «Error processing dialogue». Blacksmithing can now be learned.",
+       "In «The Lost Chicken», Polli disappeared and the quest got stuck. If it happened to you, it fixes itself when you move; if you do not see Polli, look for him at the village entrance or at his farm.",
+       "Herm no longer offers you Xaina's quest as if it were his, and the step where you go back to the stone bench explains better what to do.",
+       "Handing the wax and nails to Galo could show «Error processing dialogue» even though the delivery worked. It no longer does, and Galo tells you what to do next.",
+       "Bubo stops complaining that he cannot sleep once you have helped him.",
+       "Clicking the «Available Exits» arrows several times no longer restarts the wait before you can move.",
+       "The loot window no longer says «unconscious» over a dead animal.",
+       "The damage shown by some equipped weapons (such as a staff that still read 3d8) did not match the real damage."
+      ]
+     }
+    ]
+   },
+   "fr": {
+    "highlight": "La Forge peut enfin s'apprendre, le combat est plus posé et Polli est de retour",
+    "sections": [
+     {
+      "title": "Nouveautés",
+      "items": [
+       "Le combat est plus lent : les coups arrivent plus espacés et frappent plus fort, si bien que les combats durent autant qu'avant mais on comprend ce qui se passe. Le premier coup ne part plus instantanément.",
+       "Dans la liste de la salle (Contenu de la salle), un « ! » doré à côté de qui a une quête pour toi et un « ? » si tu as quelque chose à lui rendre.",
+       "Pendant que tu manges ou bois, un bouton « Arrêter de manger » / « Arrêter de boire » apparaît. Tu peux aussi écrire « arrêter ».",
+       "Nouveaux usages : l'Outre se boit et se remplit au puits, aux ruisseaux et aux fontaines (« remplir outre ») ; le Sifflet en fer-blanc se porte au cou et se souffle, et toute la salle l'entend ; les Dés en bois se lancent et la Patte de lapin porte-bonheur se frotte.",
+       "Sur les petits écrans (1024x768, 1366x768), le jeu s'affiche plus grand et se lit mieux. Nouvelle option « Taille de l'interface » dans Options > Affichage.",
+       "Quand un message arrive dans un onglet du chat que tu n'as pas ouvert, l'onglet clignote en doré et indique combien de messages non lus tu as.",
+       "Tu peux regrouper les piles d'un même objet dans l'inventaire en faisant glisser l'une sur l'autre.",
+       "Il y a plus d'arbres et de filons de minerai répartis sur la carte."
+      ]
+     },
+     {
+      "title": "Changements",
+      "items": [
+       "La Pioche de fer demande Minage 30 pour être équipée.",
+       "Les animaux et les PNJ qui meurent au combat restent sous forme de cadavre ; seuls les joueurs tombent inconscients. Les voyageurs et les gardes hors du village reviennent au bout d'un moment.",
+       "Le mouton peut être dépecé et donne une Toison de laine.",
+       "Ce que tu portes affiche et applique les valeurs actuelles de l'objet. Si une pièce a changé en 0.0.2.12, tu verras maintenant sa vraie défense et ses vrais attributs.",
+       "Les métiers montent jusqu'à 75 pour l'instant, et les maîtres le disent clairement.",
+       "Les objectifs du suivi de quêtes se lisent en entier : les plus longs occupent plusieurs lignes au lieu d'être coupés."
+      ]
+     },
+     {
+      "title": "Corrections",
+      "items": [
+       "« Je veux m'entraîner avec toi » avec Masio et Teo donnait « Erreur de traitement du dialogue ». La Forge peut maintenant s'apprendre.",
+       "Dans « Le poulet perdu », Polli disparaissait et la quête restait bloquée. Si ça t'est arrivé, ça se règle tout seul quand tu te déplaces ; si tu ne vois pas Polli, cherche-le à l'entrée du village ou à sa ferme.",
+       "Herm ne te propose plus la quête de Xaina comme si c'était la sienne, et l'étape où tu retournes au banc de pierre explique mieux quoi faire.",
+       "En remettant la cire et les clous à Galo, « Erreur de traitement du dialogue » pouvait apparaître alors que la remise avait bien fonctionné. Ce n'est plus le cas, et Galo te dit quoi faire ensuite.",
+       "Bubo arrête de se plaindre de ne pas pouvoir dormir une fois que tu l'as aidé.",
+       "Cliquer plusieurs fois sur les flèches de « Sorties disponibles » ne relance plus l'attente avant de pouvoir te déplacer.",
+       "La fenêtre de butin n'affiche plus « inconscient » au-dessus d'un animal mort.",
+       "Les dégâts affichés par certaines armes équipées (comme un bâton qui indiquait encore 3d8) ne correspondaient pas aux dégâts réels."
+      ]
+     }
+    ]
+   },
+   "de": {
+    "highlight": "Schmiedekunst ist endlich erlernbar, der Kampf ist ruhiger und Polli ist zurück",
+    "sections": [
+     {
+      "title": "Neu",
+      "items": [
+       "Der Kampf ist langsamer: Die Schläge kommen in größerem Abstand und treffen härter, sodass Kämpfe gleich lang dauern, man aber versteht, was passiert. Der erste Schlag kommt nicht mehr sofort.",
+       "In der Raumliste (Rauminhalt) steht ein goldenes «!» neben jedem, der eine Aufgabe für dich hat, und ein «?», wenn du ihm etwas abgeben kannst.",
+       "Während du isst oder trinkst, erscheint die Schaltfläche «Essen beenden» / «Trinken beenden». Du kannst auch «stopp» schreiben.",
+       "Neue Verwendungen: Aus dem Wasserschlauch kann man trinken und ihn am Brunnen, an Bächen und an Quellen wieder füllen («fülle Wasserschlauch»); die Blechpfeife trägt man um den Hals und bläst sie, und der ganze Raum hört sie; mit den Holzwürfeln kann man würfeln und die Glücksbringer-Hasenpfote reiben.",
+       "Auf kleinen Bildschirmen (1024x768, 1366x768) wird das Spiel größer angezeigt und ist besser lesbar. Neue Option «Größe der Oberfläche» unter Optionen > Anzeige.",
+       "Kommt eine Nachricht in einem Chat-Reiter an, den du nicht geöffnet hast, blinkt der Reiter golden und zeigt, wie viele ungelesene Nachrichten du hast.",
+       "Stapel desselben Gegenstands lassen sich im Inventar zusammenlegen, indem du einen auf den anderen ziehst.",
+       "Auf der Karte gibt es mehr Bäume und Erzadern."
+      ]
+     },
+     {
+      "title": "Änderungen",
+      "items": [
+       "Die Eisenspitzhacke erfordert Bergbau 30, um sie anzulegen.",
+       "Tiere und NPCs, die im Kampf sterben, bleiben als Leiche liegen; nur Spieler werden bewusstlos. Reisende und Wachen außerhalb des Dorfes kehren nach einer Weile zurück.",
+       "Schafe lassen sich häuten und geben ein Wollvlies.",
+       "Was du trägst, zeigt und nutzt die aktuellen Werte des Gegenstands. Hat sich ein Teil in 0.0.2.12 geändert, siehst du jetzt seine echte Verteidigung und seine echten Attribute.",
+       "Berufe gehen vorerst bis 75, und die Meister sagen das deutlich.",
+       "Die Ziele im Aufgaben-Tracker sind vollständig lesbar: Lange Ziele nehmen mehrere Zeilen ein, statt abgeschnitten zu werden."
+      ]
+     },
+     {
+      "title": "Fehlerbehebungen",
+      "items": [
+       "«Ich will bei dir lernen» bei Masio und Teo ergab «Fehler beim Verarbeiten des Dialogs». Schmiedekunst ist jetzt erlernbar.",
+       "In «Das verlorene Huhn» verschwand Polli und die Aufgabe blieb hängen. Falls dir das passiert ist, behebt es sich von selbst, sobald du dich bewegst; siehst du Polli nicht, such ihn am Dorfeingang oder auf seinem Hof.",
+       "Herm bietet dir nicht mehr Xainas Aufgabe an, als wäre es seine, und der Schritt, in dem du zur Steinbank zurückkehrst, erklärt besser, was zu tun ist.",
+       "Beim Übergeben von Wachs und Nägeln an Galo konnte «Fehler beim Verarbeiten des Dialogs» erscheinen, obwohl die Übergabe geklappt hatte. Das passiert nicht mehr, und Galo sagt dir, was als Nächstes zu tun ist.",
+       "Bubo beklagt sich nicht mehr, dass er nicht schlafen kann, sobald du ihm geholfen hast.",
+       "Mehrfaches Klicken auf die Pfeile unter «Verfügbare Ausgänge» setzt die Wartezeit vor dem nächsten Schritt nicht mehr zurück.",
+       "Das Beutefenster zeigt über einem toten Tier nicht mehr «bewusstlos» an.",
+       "Der angezeigte Schaden einiger angelegter Waffen (etwa eines Stabs, der noch 3W8 anzeigte) stimmte nicht mit dem echten Schaden überein."
+      ]
+     }
+    ]
+   },
+   "it": {
+    "highlight": "La Forgiatura si può finalmente imparare, il combattimento è più ragionato e Polli è tornato",
+    "sections": [
+     {
+      "title": "Novità",
+      "items": [
+       "Il combattimento è più lento: i colpi arrivano più distanziati e fanno più male, così gli scontri durano come prima ma si capisce cosa succede. Il primo colpo non parte più all'istante.",
+       "Nell'elenco della stanza (Contenuto della stanza), un «!» dorato accanto a chi ha una missione per te e un «?» se hai qualcosa da consegnargli.",
+       "Mentre mangi o bevi compare il pulsante «Smetti di mangiare» / «Smetti di bere». Puoi anche scrivere «smetti».",
+       "Nuovi usi: l'Otre d'acqua si beve e si riempie di nuovo al pozzo, nei ruscelli e alle fontane («riempi otre»); il Fischietto di latta si porta al collo e si soffia, e lo sente tutta la stanza; i Dadi di legno si lanciano e la Zampa di coniglio portafortuna si strofina.",
+       "Sugli schermi piccoli (1024x768, 1366x768) il gioco si vede più grande e si legge meglio. Nuova opzione «Dimensione dell'interfaccia» in Opzioni > Schermo.",
+       "Quando arriva un messaggio in una scheda della chat che non hai aperta, la scheda lampeggia in oro e mostra quanti messaggi non letti hai.",
+       "Puoi unire pile dello stesso oggetto nell'inventario trascinandone una sull'altra.",
+       "Ci sono più alberi e vene di minerale sparsi per la mappa."
+      ]
+     },
+     {
+      "title": "Modifiche",
+      "items": [
+       "Il Piccone di ferro richiede Estrazione mineraria 30 per essere equipaggiato.",
+       "Gli animali e i PNG che muoiono in combattimento restano come cadavere; solo i giocatori cadono privi di sensi. I viaggiatori e le guardie fuori dal villaggio tornano dopo un po'.",
+       "La pecora si può scuoiare e dà un Vello di lana.",
+       "Ciò che indossi mostra e applica i valori attuali dell'oggetto. Se un pezzo è cambiato nella 0.0.2.12, ora vedrai la sua difesa e i suoi attributi reali.",
+       "Le professioni arrivano fino a 75 per ora, e i maestri lo dicono chiaramente.",
+       "Gli obiettivi nel tracciamento missioni si leggono per intero: quelli lunghi occupano più righe invece di essere tagliati."
+      ]
+     },
+     {
+      "title": "Correzioni",
+      "items": [
+       "«Voglio allenarmi con te» con Masio e Teo dava «Errore nell'elaborazione del dialogo». Ora la Forgiatura si può imparare.",
+       "In «Il pollo smarrito» Polli spariva e la missione restava bloccata. Se ti è successo, si sistema da solo quando ti muovi; se non vedi Polli, cercalo all'ingresso del villaggio o alla sua fattoria.",
+       "Herm non ti offre più la missione di Xaina come se fosse sua, e il passo in cui torni alla panchina di pietra spiega meglio cosa fare.",
+       "Consegnando la cera e i chiodi a Galo poteva comparire «Errore nell'elaborazione del dialogo» anche se la consegna era andata a buon fine. Ora non succede più, e Galo ti dice cosa fare dopo.",
+       "Bubo smette di lamentarsi di non riuscire a dormire quando lo hai aiutato.",
+       "Cliccare più volte sulle frecce di «Uscite disponibili» non fa più ripartire l'attesa prima di poterti muovere.",
+       "La finestra del bottino non scrive più «privo di sensi» sopra un animale morto.",
+       "Il danno mostrato da alcune armi equipaggiate (come un bastone che indicava ancora 3d8) non corrispondeva a quello reale."
+      ]
+     }
+    ]
+   },
+   "pt": {
+    "highlight": "A Ferraria já se pode aprender, o combate está mais pausado e o Polli voltou",
+    "sections": [
+     {
+      "title": "Novidades",
+      "items": [
+       "O combate está mais lento: os golpes chegam mais espaçados e batem com mais força, por isso os combates duram o mesmo mas percebe-se o que acontece. O primeiro golpe já não sai de imediato.",
+       "Na lista da sala (Conteúdo da sala), um «!» dourado junto de quem tem uma missão para ti e um «?» se tens algo para lhe entregar.",
+       "Enquanto comes ou bebes aparece o botão «Parar de comer» / «Parar de beber». Também podes escrever «parar».",
+       "Novos usos: o Odre de água bebe-se e volta a encher-se no poço, nos riachos e nas fontes («encher odre»); o Apito de lata usa-se ao pescoço e sopra-se, e toda a sala o ouve; os Dados de madeira lançam-se e o Pé de coelho da sorte esfrega-se.",
+       "Em ecrãs pequenos (1024x768, 1366x768) o jogo vê-se maior e lê-se melhor. Nova opção «Tamanho da interface» em Opções > Ecrã.",
+       "Quando chega uma mensagem a um separador do chat que não tens aberto, o separador pisca a dourado e mostra quantas mensagens tens por ler.",
+       "Podes juntar montes do mesmo objeto no inventário arrastando um para cima do outro.",
+       "Há mais árvores e veios de minério espalhados pelo mapa."
+      ]
+     },
+     {
+      "title": "Alterações",
+      "items": [
+       "A Picareta de ferro exige Mineração 30 para ser equipada.",
+       "Os animais e os PNJ que morrem em combate ficam como cadáver; só os jogadores ficam inconscientes. Os viajantes e os guardas fora da vila voltam passado algum tempo.",
+       "A ovelha pode ser esfolada e dá um Velo de lã.",
+       "O que tens equipado mostra e aplica os valores atuais do objeto. Se uma peça mudou na 0.0.2.12, agora vês a sua defesa e os seus atributos reais.",
+       "Os ofícios chegam até 75 por agora, e os mestres dizem-no claramente.",
+       "Os objetivos do registo de missões leem-se por inteiro: os longos ocupam várias linhas em vez de ficarem cortados."
+      ]
+     },
+     {
+      "title": "Correções",
+      "items": [
+       "«Quero treinar contigo» com o Masio e o Teo dava «Erro ao processar diálogo». A Ferraria já se pode aprender.",
+       "Em «O frango perdido», o Polli desaparecia e a missão ficava parada. Se te aconteceu, resolve-se sozinho quando te moves; se não vês o Polli, procura-o à entrada da vila ou na quinta dele.",
+       "O Herm já não te oferece a missão da Xaina como se fosse dele, e o passo em que voltas ao banco de pedra explica melhor o que fazer.",
+       "Ao entregar a cera e os pregos ao Galo podia aparecer «Erro ao processar diálogo», embora a entrega corresse bem. Já não aparece, e o Galo diz-te o que fazer a seguir.",
+       "O Bubo deixa de se queixar de que não consegue dormir quando já o ajudaste.",
+       "Clicar várias vezes nas setas de «Saídas disponíveis» já não reinicia a espera para te moveres.",
+       "A janela de saque já não diz «inconsciente» por cima de um animal morto.",
+       "O dano mostrado por algumas armas equipadas (como um bastão que ainda marcava 3d8) não coincidia com o real."
+      ]
+     }
+    ]
+   }
+  }
+ },
+ {
+  "version": "0.0.2.12",
+  "date": "2026-10-09",
+  "notes": {
+   "es": {
+    "highlight": "Llega la Herrería, los objetos se renuevan y la wiki mejora",
+    "sections": [
+     {
+      "title": "Herrería",
+      "items": [
+       "Nueva profesión: Herrería. Habla con Masio, en la herrería del pueblo, para aprenderla. Lo demás tendrás que descubrirlo tú.",
+       "Dicen que en el taller trabaja alguien que oye cómo se oxida el hierro."
+      ]
+     },
+     {
+      "title": "Novedades",
+      "items": [
+       "Fanfarria al conseguir algo raro, épico o legendario: el objeto aparece en pantalla con el color de su rareza, suena una fanfarria (más grande cuanto más raro) y el chat lo anota. Un clic o Esc la cierra, y con «Reducir movimiento» solo aparece y se desvanece.",
+       "Al robar a alguien se abre una ventana con la tirada: tus dados y tus bonificaciones contra la dificultad, y la Percepción de la víctima para ver si te pilla.",
+       "Nueva pestaña Oficios en la ficha del personaje: tu nivel en cada oficio, los hitos que te faltan, qué puedes trabajar ahora, tu herramienta y quién te enseña.",
+       "La wiki del juego está reorganizada por temas, con buscador, y al día con todo lo nuevo. Ábrela con «wiki»."
+      ]
+     },
+     {
+      "title": "Cambios",
+      "items": [
+       "Lo épico y lo legendario que cae de las criaturas ahora se liga a quien lo recoge, y lo que ya tenías se ha ligado a ti. Si lo vendes, el mercader lo destruye.",
+       "Solo puedes tener dos oficios a la vez entre Talar, Minería, Desollar y Herrería. El maestro te avisa antes de enseñarte uno, y si ya tienes dos no te enseña otro.",
+       "Puedes abandonar un oficio con «abandonar <oficio>» o con «Abandonar…» en la pestaña Oficios de tu ficha. Al abandonarlo pierdes todo lo aprendido, y si vuelves a aprenderlo empiezas desde el principio.",
+       "Si ya tenías tres oficios, al entrar en el juego eliges cuál abandonas. No pierdes nada hasta que lo elijas.",
+       "Desollar se aprende con Bryn la Curtidora. Sin aprenderlo puedes desollar, pero solo sacas una piel de baja calidad.",
+       "Las órdenes se escriben con más naturalidad: «hablar con Masio», «mirar el cofre», «robar al mercader», «coger pan del cofre». Las palabras pequeñas son opcionales, en los seis idiomas.",
+       "En las notas del parche, al abrir una versión se cierra la que estaba abierta.",
+       "No puedes talar ni picar mientras fabricas algo."
+      ]
+     },
+     {
+      "title": "Equilibrio de objetos",
+      "items": [
+       "La rareza ya significa algo: a igual nivel, cada rareza es claramente mejor, y el nivel también cuenta. Todas las armas y armaduras se han revisado con esta regla, y su precio de venta sigue la rareza y el nivel.",
+       "Lo fabricado es un poco mejor que lo que cae con su mismo nivel y rareza.",
+       "Tu atributo de ataque cuenta lo mismo por segundo con cualquier arma: las armas rápidas suman menos en cada golpe y las lentas, más. Las dagas ya no superan a las armas épicas a nivel alto.",
+       "Más fuertes: casi todo lo que se fabrica en la herrería, las armas a dos manos y las ballestas (eran las más flojas), la ropa de tela y de cuero de nivel 1, y las armas épicas y legendarias.",
+       "Siete armas que caían como poco comunes pasan a raras y piden más nivel: Colmillo de sombra, Arco largo de los pinos, Lucero del alba, Bastón de brasas, Arbalesta pesada, Espada del campeón y Espada forjada en el infierno. Si ya la llevas puesta, la conservas.",
+       "Más flojas: la Cota de malla reforzada, el Chaleco de cuero claveteado y el Escudo reforzado de las primeras misiones; el Casco de cuero; la Cota de malla y los Guanteletes de malla de la tienda; las botas de los conjuntos de nivel bajo, y algunas armas ligeras de nivel 1, un poco más lentas.",
+       "Los bastones de mago golpean menos (el Bastón del aprendiz arcano pasa de 3d8 a 1d8) y las varitas son algo más lentas.",
+       "Los bonus de conjunto bajan hasta cerca de un tercio de lo que valen sus piezas: los conjuntos de nivel bajo eran los que más daban.",
+       "Dos collares que se ganan en misiones pasan de legendarios a épicos de nivel 4, con algo menos de bonus: lo legendario queda para los jefes.",
+       "Las armas y armaduras épicas caen con menos frecuencia de las criaturas que no son jefes."
+      ]
+     },
+     {
+      "title": "Correcciones",
+      "items": [
+       "Detectar vida ya no la puede usar cualquier mago desde el nivel 1: hay que aprenderla con el maestro de los magos a partir del nivel 8."
+      ]
+     }
+    ]
+   },
+   "en": {
+    "highlight": "Blacksmithing arrives, items get a rework and the wiki gets better",
+    "sections": [
+     {
+      "title": "Blacksmithing",
+      "items": [
+       "New profession: Blacksmithing. Talk to Masio, at the village smithy, to learn it. The rest is yours to discover.",
+       "They say someone in the workshop can hear iron rusting."
+      ]
+     },
+     {
+      "title": "New",
+      "items": [
+       "A fanfare when you get something rare, epic or legendary: the item appears on screen in its rarity colour, a fanfare plays (bigger the rarer it is) and the chat notes it. A click or Esc closes it, and with “Reduce motion” it only fades in and out.",
+       "Pickpocketing someone opens a window with the roll: your dice and bonuses against the difficulty, and the victim’s Perception to see whether they catch you.",
+       "New Professions tab in the character sheet: your level in each profession, the milestones ahead, what you can work right now, your tool and who teaches you.",
+       "The in-game wiki is reorganised by topic, with a search box, and up to date with everything new. Open it with “wiki”."
+      ]
+     },
+     {
+      "title": "Changes",
+      "items": [
+       "Epic and legendary loot from creatures now binds to whoever picks it up, and what you already had is now bound to you. If you sell it, the merchant destroys it.",
+       "You can only have two professions at a time among Woodcutting, Mining, Skinning and Blacksmithing. The master warns you before teaching you one, and will not teach you another if you already have two.",
+       "You can abandon a profession with “abandon <profession>” or with “Abandon…” in the Professions tab of your character sheet. Abandoning it loses everything you learned, and if you learn it again you start from the beginning.",
+       "If you already had three professions, you choose which one to abandon when you enter the game. You lose nothing until you choose.",
+       "Skinning is learned from Bryn the Tanner. Without learning it you can still skin, but you only get a low-quality pelt.",
+       "Commands read more naturally: “talk to Masio”, “look at the chest”, “steal from the merchant”, “take bread from the chest”. The little words are optional, in all six languages.",
+       "In the patch notes, opening a version closes the one that was open.",
+       "You can’t chop or mine while you’re crafting something."
+      ]
+     },
+     {
+      "title": "Item balance",
+      "items": [
+       "Rarity now means something: at the same level each rarity is clearly better, and level counts too. Every weapon and armour piece has been reviewed with this rule, and its sale price follows rarity and level.",
+       "What is crafted is a little better than what drops at the same level and rarity.",
+       "Your attack attribute counts the same per second with any weapon: fast weapons add less to each blow and slow ones more. Daggers no longer beat epic weapons at high level.",
+       "Stronger: almost everything made at the forge, two-handed weapons and crossbows (they were the weakest), level 1 cloth and leather clothing, and epic and legendary weapons.",
+       "Seven weapons that dropped as uncommon become rare and need a higher level: Shadow Fang, Longbow of the Pines, Morning Star of Dawn, Staff of Embers, Heavy Arbalest, Champion's Blade and Hellforged Blade. If you already wear one, you keep it.",
+       "Weaker: the Reinforced Chain Shirt, Studded Leather Vest and Reinforced Shield from the first quests; the Leather Helmet; the shop's Chain Shirt and Mail Gauntlets; the boots of the low-level sets, and some level 1 light weapons, now a little slower.",
+       "Mage staves hit less hard (the Arcane Apprentice Staff goes from 3d8 to 1d8) and wands are a little slower.",
+       "Set bonuses drop to about a third of what their pieces are worth: the low-level sets were the most generous.",
+       "Two necklaces earned in quests go from legendary to epic, level 4, with a little less bonus: legendary is kept for bosses.",
+       "Epic weapons and armour drop less often from creatures that are not bosses."
+      ]
+     },
+     {
+      "title": "Fixes",
+      "items": [
+       "Detect Life can no longer be used by any mage from level 1: it has to be learned from the mages' master from level 8."
+      ]
+     }
+    ]
+   },
+   "fr": {
+    "highlight": "La forge arrive, les objets sont revus et le wiki s’améliore",
+    "sections": [
+     {
+      "title": "Forge",
+      "items": [
+       "Nouveau métier : la forge. Parle à Masio, à la forge du village, pour l’apprendre. Le reste, c’est à toi de le découvrir.",
+       "On dit que quelqu’un, dans l’atelier, entend le fer rouiller."
+      ]
+     },
+     {
+      "title": "Nouveautés",
+      "items": [
+       "Une fanfare quand tu obtiens un objet rare, épique ou légendaire : l'objet apparaît à l'écran dans la couleur de sa rareté, une fanfare retentit (plus grande quand il est plus rare) et le chat le note. Un clic ou Échap la ferme, et avec « Réduire les mouvements » elle ne fait qu'apparaître et s'effacer.",
+       "Voler quelqu’un ouvre une fenêtre avec le jet : tes dés et tes bonus contre la difficulté, puis la Perception de la victime pour voir si elle te surprend.",
+       "Nouvel onglet Métiers dans la fiche du personnage : ton niveau dans chaque métier, les étapes à venir, ce que tu peux travailler maintenant, ton outil et qui t’enseigne.",
+       "Le wiki du jeu est réorganisé par thèmes, avec une recherche, et à jour avec toutes les nouveautés. Ouvre-le avec « wiki »."
+      ]
+     },
+     {
+      "title": "Changements",
+      "items": [
+       "Le butin épique et légendaire des créatures se lie désormais à qui le ramasse, et ce que tu avais déjà est maintenant lié à toi. Si tu le vends, le marchand le détruit.",
+       "Tu ne peux avoir que deux métiers à la fois parmi le Bûcheronnage, le Minage, le Dépeçage et la Forge. Le maître te prévient avant de t'en enseigner un, et ne t'en enseigne pas d'autre si tu en as déjà deux.",
+       "Tu peux abandonner un métier avec « abandonner <métier> » ou avec « Abandonner… » dans l’onglet Métiers de ta fiche. En l'abandonnant, tu perds tout ce que tu as appris, et si tu l'apprends de nouveau tu repars de zéro.",
+       "Si tu avais déjà trois métiers, tu choisis celui que tu abandonnes en entrant dans le jeu. Tu ne perds rien tant que tu n'as pas choisi.",
+       "Le Dépeçage s'apprend auprès de Bryn la Tanneuse. Sans l'avoir appris, tu peux dépecer, mais tu n'obtiens qu'une peau de mauvaise qualité.",
+       "Les commandes s’écrivent plus naturellement : « parler à Masio », « regarder le coffre », « voler au marchand ». Les petits mots sont facultatifs, dans les six langues.",
+       "Dans les notes de mise à jour, ouvrir une version referme celle qui était ouverte.",
+       "Tu ne peux pas couper du bois ni miner pendant que tu fabriques quelque chose."
+      ]
+     },
+     {
+      "title": "Équilibrage des objets",
+      "items": [
+       "La rareté veut enfin dire quelque chose : à niveau égal, chaque rareté est nettement meilleure, et le niveau compte aussi. Toutes les armes et armures ont été revues selon cette règle, et leur prix de vente suit la rareté et le niveau.",
+       "Ce qui est fabriqué est un peu meilleur que ce qui tombe au même niveau et à la même rareté.",
+       "Ta caractéristique d'attaque compte autant par seconde avec n'importe quelle arme : les armes rapides en ajoutent moins à chaque coup, les lentes davantage. Les dagues ne dépassent plus les armes épiques à haut niveau.",
+       "Plus fortes : presque tout ce qui se fabrique à la forge, les armes à deux mains et les arbalètes (c'étaient les plus faibles), les vêtements de tissu et de cuir de niveau 1, et les armes épiques et légendaires.",
+       "Sept armes qui tombaient en peu commun deviennent rares et demandent un niveau plus élevé : Croc d'Ombre, Arc Long des Pins, Étoile du Matin de l'Aube, Bâton de Braises, Arbalète Lourde, Lame du Champion et Lame Forgée aux Enfers. Si tu en portes déjà une, tu la gardes.",
+       "Plus faibles : la Chemise de Mailles Renforcée, le Gilet de Cuir Clouté et le Bouclier Renforcé des premières quêtes ; le Casque de Cuir ; la Cotte de Mailles et les Gantelets de Mailles de la boutique ; les bottes des ensembles de bas niveau, et quelques armes légères de niveau 1, un peu plus lentes.",
+       "Les bâtons de mage frappent moins fort (le Bâton de l'Apprenti Arcanique passe de 3d8 à 1d8) et les baguettes sont un peu plus lentes.",
+       "Les bonus d'ensemble baissent à environ un tiers de la valeur de leurs pièces : les ensembles de bas niveau étaient les plus généreux.",
+       "Deux colliers gagnés en quête passent de légendaires à épiques de niveau 4, avec un peu moins de bonus : le légendaire est réservé aux boss.",
+       "Les armes et armures épiques tombent moins souvent des créatures qui ne sont pas des boss."
+      ]
+     },
+     {
+      "title": "Corrections",
+      "items": [
+       "La Détection de Vie n'est plus utilisable par n'importe quel mage dès le niveau 1 : il faut l'apprendre auprès du maître des mages à partir du niveau 8."
+      ]
+     }
+    ]
+   },
+   "de": {
+    "highlight": "Die Schmiedekunst ist da, die Gegenstände werden überarbeitet und das Wiki wird besser",
+    "sections": [
+     {
+      "title": "Schmiedekunst",
+      "items": [
+       "Neuer Beruf: Schmiedekunst. Sprich mit Masio in der Schmiede des Dorfes, um sie zu lernen. Den Rest musst du selbst entdecken.",
+       "Man sagt, in der Werkstatt arbeite jemand, der das Eisen rosten hört."
+      ]
+     },
+     {
+      "title": "Neu",
+      "items": [
+       "Eine Fanfare, wenn du etwas Seltenes, Episches oder Legendäres bekommst: Der Gegenstand erscheint in der Farbe seiner Seltenheit auf dem Bildschirm, eine Fanfare erklingt (je seltener, desto größer) und der Chat vermerkt ihn. Ein Klick oder Esc schließt sie, und mit „Bewegung reduzieren“ wird sie nur ein- und ausgeblendet.",
+       "Beim Bestehlen öffnet sich ein Fenster mit dem Wurf: deine Würfel und Boni gegen die Schwierigkeit, dann die Wahrnehmung des Opfers, ob es dich erwischt.",
+       "Neuer Reiter Berufe im Charakterbogen: deine Stufe in jedem Beruf, die nächsten Meilensteine, was du gerade bearbeiten kannst, dein Werkzeug und wer dich lehrt.",
+       "Das Spiel-Wiki ist nach Themen neu geordnet, mit Suche, und auf dem neuesten Stand. Öffne es mit „wiki“."
+      ]
+     },
+     {
+      "title": "Änderungen",
+      "items": [
+       "Epische und legendäre Beute von Kreaturen bindet sich jetzt an den, der sie aufhebt, und was du schon hattest, ist jetzt an dich gebunden. Verkaufst du sie, zerstört der Händler sie.",
+       "Du kannst nur zwei Berufe gleichzeitig haben, aus Holzfällen, Bergbau, Häuten und Schmiedekunst. Der Meister warnt dich, bevor er dir einen beibringt, und bringt dir keinen weiteren bei, wenn du schon zwei hast.",
+       "Du kannst einen Beruf mit „aufgeben <Beruf>“ oder mit „Aufgeben…“ im Reiter Berufe deines Charakterbogens aufgeben. Dabei verlierst du alles Gelernte, und lernst du ihn wieder, fängst du von vorn an.",
+       "Hattest du schon drei Berufe, wählst du beim Betreten des Spiels, welchen du aufgibst. Du verlierst nichts, bis du dich entscheidest.",
+       "Häuten lernst du bei Bryn der Gerberin. Ohne es gelernt zu haben, kannst du trotzdem häuten, bekommst aber nur einen minderwertigen Pelz.",
+       "Befehle lassen sich natürlicher schreiben: „sprechen mit Masio“, „schauen auf die Truhe“, „klau vom Händler“. Die kleinen Wörter sind optional, in allen sechs Sprachen.",
+       "In den Patchnotizen schließt das Öffnen einer Version die, die offen war.",
+       "Während du etwas herstellst, kannst du weder Holz fällen noch Erz abbauen."
+      ]
+     },
+     {
+      "title": "Gegenstandsbalance",
+      "items": [
+       "Seltenheit bedeutet jetzt etwas: Bei gleicher Stufe ist jeder Seltenheitsgrad deutlich besser, und auch die Stufe zählt. Alle Waffen und Rüstungen wurden nach dieser Regel überarbeitet, und ihr Verkaufspreis richtet sich nach Seltenheit und Stufe.",
+       "Selbst Hergestelltes ist etwas besser als Beute gleicher Stufe und Seltenheit.",
+       "Dein Angriffsattribut zählt mit jeder Waffe pro Sekunde gleich viel: Schnelle Waffen geben jedem Schlag weniger davon dazu, langsame mehr. Dolche übertreffen auf hoher Stufe keine epischen Waffen mehr.",
+       "Stärker: fast alles aus der Schmiede, Zweihandwaffen und Armbrüste (sie waren die schwächsten), Stoff- und Lederkleidung der Stufe 1 sowie epische und legendäre Waffen.",
+       "Sieben Waffen, die als ungewöhnlich fielen, werden selten und verlangen eine höhere Stufe: Schattenzahn, Langbogen der Kiefern, Morgenstern der Dämmerung, Stab der Glut, Schwere Armbrust, Klinge des Champions und Höllengeschmiedete Klinge. Wer eine schon trägt, behält sie.",
+       "Schwächer: das Verstärkte Kettenhemd, die Beschlagene Lederweste und der Verstärkte Schild aus den ersten Quests; der Lederhelm; das Kettenhemd und die Kettenpanzerhandschuhe aus dem Laden; die Stiefel der niedrigstufigen Sets und einige leichte Waffen der Stufe 1, jetzt etwas langsamer.",
+       "Magierstäbe treffen weniger hart (der Stab des Arkanen Lehrlings geht von 3d8 auf 1d8), und Zauberstäbe sind etwas langsamer.",
+       "Setboni sinken auf etwa ein Drittel dessen, was ihre Teile wert sind: Die niedrigstufigen Sets waren die großzügigsten.",
+       "Zwei Halsketten aus Quests werden von legendär zu episch, Stufe 4, mit etwas weniger Bonus: Legendäres bleibt den Bossen vorbehalten.",
+       "Epische Waffen und Rüstungen fallen seltener von Kreaturen, die keine Bosse sind."
+      ]
+     },
+     {
+      "title": "Fehlerbehebungen",
+      "items": [
+       "Leben Erspüren kann nicht mehr jeder Magier ab Stufe 1 benutzen: Man muss es ab Stufe 8 beim Meister der Magier lernen."
+      ]
+     }
+    ]
+   },
+   "it": {
+    "highlight": "Arriva la forgiatura, gli oggetti vengono rivisti e la wiki migliora",
+    "sections": [
+     {
+      "title": "Forgiatura",
+      "items": [
+       "Nuovo mestiere: la forgiatura. Parla con Masio, nella fucina del villaggio, per impararla. Il resto dovrai scoprirlo da solo.",
+       "Dicono che nella bottega lavori qualcuno che sente il ferro arrugginire."
+      ]
+     },
+     {
+      "title": "Novità",
+      "items": [
+       "Una fanfara quando ottieni qualcosa di raro, epico o leggendario: l'oggetto appare sullo schermo nel colore della sua rarità, suona una fanfara (più grande quanto più è raro) e la chat lo annota. Un clic o Esc la chiude, e con «Riduci il movimento» appare e svanisce soltanto.",
+       "Derubare qualcuno apre una finestra con il tiro: i tuoi dadi e i tuoi bonus contro la difficoltà, poi la Percezione della vittima per vedere se ti scopre.",
+       "Nuova scheda Mestieri nella scheda del personaggio: il tuo livello in ogni mestiere, le tappe che mancano, cosa puoi lavorare adesso, il tuo attrezzo e chi te lo insegna.",
+       "La wiki del gioco è riorganizzata per argomenti, con la ricerca, e aggiornata con tutte le novità. Aprila con «wiki»."
+      ]
+     },
+     {
+      "title": "Modifiche",
+      "items": [
+       "Il bottino epico e leggendario delle creature ora si lega a chi lo raccoglie, e quello che avevi già ora è legato a te. Se lo vendi, il mercante lo distrugge.",
+       "Puoi avere solo due mestieri alla volta tra Taglialegna, Estrazione mineraria, Scuoiatura e Forgiatura. Il maestro ti avvisa prima di insegnartene uno, e non te ne insegna un altro se ne hai già due.",
+       "Puoi abbandonare un mestiere con «abbandonare <mestiere>» o con «Abbandona…» nella scheda Mestieri del tuo personaggio. Abbandonandolo perdi tutto ciò che hai imparato, e se lo impari di nuovo ricominci da capo.",
+       "Se avevi già tre mestieri, entrando nel gioco scegli quale abbandonare. Non perdi nulla finché non scegli.",
+       "La Scuoiatura si impara da Bryn la Conciatrice. Senza averla imparata puoi comunque scuoiare, ma ottieni solo una pelle di bassa qualità.",
+       "I comandi si scrivono in modo più naturale: «parlare con Masio», «guardare il baule», «ruba al mercante». Le paroline sono facoltative, in tutte e sei le lingue.",
+       "Nelle note della patch, aprire una versione chiude quella che era aperta.",
+       "Non puoi tagliare legna né scavare mentre stai fabbricando qualcosa."
+      ]
+     },
+     {
+      "title": "Bilanciamento degli oggetti",
+      "items": [
+       "La rarità ora conta davvero: a parità di livello ogni rarità è nettamente migliore, e conta anche il livello. Tutte le armi e le armature sono state riviste con questa regola, e il loro prezzo di vendita segue rarità e livello.",
+       "Ciò che si fabbrica è un po' migliore di ciò che cade allo stesso livello e rarità.",
+       "Il tuo attributo d'attacco conta lo stesso al secondo con qualsiasi arma: le armi veloci ne aggiungono meno a ogni colpo e quelle lente di più. I pugnali non superano più le armi epiche ad alto livello.",
+       "Più forti: quasi tutto ciò che si fabbrica alla forgia, le armi a due mani e le balestre (erano le più deboli), gli abiti di stoffa e di cuoio di livello 1, e le armi epiche e leggendarie.",
+       "Sette armi che cadevano come non comuni diventano rare e richiedono un livello più alto: Zanna d'ombra, Arco lungo dei pini, Mazza chiodata dell'alba, Bastone di braci, Balestra pesante, Lama del campione e Lama forgiata all'inferno. Se ne indossi già una, la tieni.",
+       "Più deboli: il Camaglio rinforzato, il Giubbetto di cuoio borchiato e lo Scudo rinforzato delle prime missioni; l'Elmo di cuoio; il Giaco di maglia e i Guanti d'arme di maglia del negozio; gli stivali dei set di livello basso, e alcune armi leggere di livello 1, ora un po' più lente.",
+       "I bastoni da mago colpiscono meno forte (il Bastone dell'apprendista arcano passa da 3d8 a 1d8) e le bacchette sono un po' più lente.",
+       "I bonus dei set scendono a circa un terzo del valore dei loro pezzi: i set di livello basso erano i più generosi.",
+       "Due collane ottenute nelle missioni passano da leggendarie a epiche di livello 4, con un po' meno bonus: il leggendario resta ai boss.",
+       "Armi e armature epiche cadono meno spesso dalle creature che non sono boss."
+      ]
+     },
+     {
+      "title": "Correzioni",
+      "items": [
+       "Percepire vita non può più usarla qualsiasi mago dal livello 1: bisogna impararla dal maestro dei maghi a partire dal livello 8."
+      ]
+     }
+    ]
+   },
+   "pt": {
+    "highlight": "Chega a ferraria, os objetos são renovados e a wiki melhora",
+    "sections": [
+     {
+      "title": "Ferraria",
+      "items": [
+       "Nova profissão: Ferraria. Fala com o Masio, na ferraria da aldeia, para a aprenderes. O resto terás de descobrir sozinho.",
+       "Dizem que na oficina trabalha alguém que ouve o ferro a enferrujar."
+      ]
+     },
+     {
+      "title": "Novidades",
+      "items": [
+       "Uma fanfarra quando consegues algo raro, épico ou lendário: o objeto aparece no ecrã com a cor da sua raridade, soa uma fanfarra (maior quanto mais raro) e o chat regista-o. Um clique ou Esc fecha-a, e com «Reduzir movimento» só aparece e desvanece.",
+       "Ao roubar alguém abre-se uma janela com o lançamento: os teus dados e bónus contra a dificuldade, e a Percepção da vítima para ver se te apanha.",
+       "Novo separador Ofícios na ficha da personagem: o teu nível em cada ofício, os marcos que faltam, o que podes trabalhar agora, a tua ferramenta e quem te ensina.",
+       "A wiki do jogo está reorganizada por temas, com pesquisa, e atualizada com todas as novidades. Abre-a com «wiki»."
+      ]
+     },
+     {
+      "title": "Alterações",
+      "items": [
+       "O saque épico e lendário das criaturas agora liga-se a quem o apanha, e o que já tinhas ficou ligado a ti. Se o venderes, o mercador destrói-o.",
+       "Só podes ter dois ofícios de cada vez entre Lenhador, Mineração, Esfola e Ferraria. O mestre avisa-te antes de te ensinar um, e não te ensina outro se já tiveres dois.",
+       "Podes abandonar um ofício com «abandonar <ofício>» ou com «Abandonar…» no separador Ofícios da tua ficha. Ao abandoná-lo perdes tudo o que aprendeste, e se voltares a aprendê-lo começas do princípio.",
+       "Se já tinhas três ofícios, ao entrares no jogo escolhes qual abandonas. Não perdes nada até escolheres.",
+       "A Esfola aprende-se com Bryn, a Curtidora. Sem a aprenderes podes esfolar, mas só tiras uma pele de baixa qualidade.",
+       "Os comandos escrevem-se de forma mais natural: «falar com Masio», «olhar para o baú», «roubar ao mercador». As palavrinhas são opcionais, nas seis línguas.",
+       "Nas notas do patch, abrir uma versão fecha a que estava aberta.",
+       "Não podes cortar lenha nem minerar enquanto estás a fabricar algo."
+      ]
+     },
+     {
+      "title": "Equilíbrio de objetos",
+      "items": [
+       "A raridade agora significa alguma coisa: ao mesmo nível, cada raridade é claramente melhor, e o nível também conta. Todas as armas e armaduras foram revistas com esta regra, e o seu preço de venda segue a raridade e o nível.",
+       "O que se fabrica é um pouco melhor do que o que cai com o mesmo nível e raridade.",
+       "O teu atributo de ataque conta o mesmo por segundo com qualquer arma: as armas rápidas somam menos a cada golpe e as lentas, mais. As adagas já não superam as armas épicas em nível alto.",
+       "Mais fortes: quase tudo o que se fabrica na ferraria, as armas de duas mãos e as balestras (eram as mais fracas), a roupa de tecido e de couro de nível 1, e as armas épicas e lendárias.",
+       "Sete armas que caíam como pouco comuns passam a raras e pedem mais nível: Presa das sombras, Arco longo dos pinheiros, Estrela-d'alva, Bastão de brasas, Balestra pesada, Espada do campeão e Espada forjada no inferno. Se já a tens equipada, ficas com ela.",
+       "Mais fracas: a Cota de malha reforçada, o Colete de couro cravejado e o Escudo reforçado das primeiras missões; o Capacete de couro; a Cota de malha e as Manoplas de malha da loja; as botas dos conjuntos de nível baixo, e algumas armas leves de nível 1, agora um pouco mais lentas.",
+       "Os bastões de mago batem menos (o Bastão do aprendiz arcano passa de 3d8 para 1d8) e as varinhas são um pouco mais lentas.",
+       "Os bónus de conjunto descem para cerca de um terço do que valem as suas peças: os conjuntos de nível baixo eram os mais generosos.",
+       "Dois colares ganhos em missões passam de lendários a épicos de nível 4, com um pouco menos de bónus: o lendário fica para os chefes.",
+       "As armas e armaduras épicas caem com menos frequência das criaturas que não são chefes."
+      ]
+     },
+     {
+      "title": "Correções",
+      "items": [
+       "Detetar vida já não pode ser usada por qualquer mago desde o nível 1: tem de ser aprendida com o mestre dos magos a partir do nível 8."
+      ]
+     }
+    ]
+   }
+  }
+ },
+ {
+  "version": "0.0.2.11",
+  "date": "2026-10-09",
+  "notes": {
+   "es": {
+    "highlight": "Grupos, talar y picar, y descanso a la vista",
+    "sections": [
+     {
+      "title": "Grupos",
+      "items": [
+       "Ya puedes formar grupo con hasta 5 jugadores: escribe «grupo invitar <nombre>» o invítalo desde la ventana de la sala.",
+       "En grupo, todos los que luchan reciben la experiencia entera, como si fueran solos.",
+       "Si una misión pide acabar con criaturas, las que caen en el grupo cuentan para todos.",
+       "Mientras estás en un grupo, la pestaña Grupo del chat te deja hablar sólo con los tuyos."
+      ]
+     },
+     {
+      "title": "Talar y picar",
+      "items": [
+       "Nuevas profesiones: Talar, con Ulda la Leñadora en el Almacén de Leña, y Minería, con Ruy el Cantero en el Sendero del Arroyo. Aprenderlas es gratis.",
+       "El mercader general vende hachas y picos. Equípalos en el hueco de herramienta y escribe «talar pino» o «picar veta de cobre», o usa los botones de Recursos.",
+       "Haz clic en el árbol o en la roca para golpear: cuanto mejor la herramienta, menos golpes y más madera o mineral.",
+       "Pinos y robles, vetas de cobre y estaño: cerca del pueblo lo sencillo, más lejos lo que pide más habilidad. Cuando se agotan, vuelven a crecer con el tiempo.",
+       "Por ahora las profesiones llegan hasta 75."
+      ]
+     },
+     {
+      "title": "Descanso",
+      "items": [
+       "Al descansar sentado, un anillo sobre tu retrato marca cuánto falta para la siguiente cura, y lo que recuperas sale flotando sobre tu asiento.",
+       "Si llevas un rato sentado sin hacer nada, una ventana te avisa antes de levantarte, y otra te deja volver a sentarte con un clic.",
+       "Las barras de vida, maná y aguante se actualizan mientras estás sentado."
+      ]
+     },
+     {
+      "title": "Cambios",
+      "items": [
+       "La barra de habilidades muestra cuánto falta para poder usar cada una otra vez.",
+       "Los trofeos se pueden equipar.",
+       "El cuchillo de desollar, las hachas y los picos van en el hueco de herramienta: para desollar tienes que llevar el cuchillo equipado.",
+       "El hacha de leñador deja de ser un arma. Si la llevabas en la mano, la encontrarás en el hueco de herramienta o en la mochila.",
+       "Al entrar con un parche nuevo verás estas notas; también puedes abrirlas con «parches» o desde el menú de pausa."
+      ]
+     },
+     {
+      "title": "Correcciones",
+      "items": [
+       "Abrir el inventario ya no avisa de que has perdido la bonificación de un conjunto que sigues llevando.",
+       "La guía del juego explica el comando «empujar»."
+      ]
+     }
+    ]
+   },
+   "en": {
+    "highlight": "Groups, woodcutting and mining, and resting you can see",
+    "sections": [
+     {
+      "title": "Parties",
+      "items": [
+       "You can now form a party of up to 5 players: type \"group invite <name>\" or invite them from the room window.",
+       "In a party, everyone who fights gets the full experience, just as if they were alone.",
+       "If a quest asks you to defeat creatures, the ones your party brings down count for everyone.",
+       "While you are in a party, the Group tab in the chat lets you talk to your party only."
+      ]
+     },
+     {
+      "title": "Woodcutting and mining",
+      "items": [
+       "New professions: Woodcutting, with Ulda the Woodcutter at the Firewood Store, and Mining, with Ruy the Stonecutter on the Stream Path. Learning them is free.",
+       "The general merchant sells axes and picks. Equip them in the tool slot and type “chop pine” or “mine copper vein”, or use the Resources buttons.",
+       "Click the tree or the rock to strike it: the better the tool, the fewer strikes and the more wood or ore.",
+       "Pines and oaks, copper and tin veins: the easy ones near the village, the ones that need more skill further out. When they run out, they grow back over time.",
+       "For now professions go up to 75."
+      ]
+     },
+     {
+      "title": "Resting",
+      "items": [
+       "While you rest seated, a ring over your portrait shows how long until the next heal, and what you recover floats up over your seat.",
+       "If you sit idle for a while, a window warns you before you get up, and another lets you sit back down with one click.",
+       "Health, mana and stamina bars update while you are seated."
+      ]
+     },
+     {
+      "title": "Changes",
+      "items": [
+       "The skill bar shows how long until each skill can be used again.",
+       "Trophies can be equipped.",
+       "The skinning knife, axes and picks go in the tool slot: to skin you need the knife equipped.",
+       "The woodcutter's axe is no longer a weapon. If you held it in your hand, you'll find it in the tool slot or in your backpack.",
+       "When you log in with a new patch you'll see these notes; you can also open them with “patchnotes” or from the pause menu."
+      ]
+     },
+     {
+      "title": "Fixes",
+      "items": [
+       "Opening the inventory no longer says you lost a set bonus you are still wearing.",
+       "The game guide explains the \"push\" command."
+      ]
+     }
+    ]
+   },
+   "fr": {
+    "highlight": "Groupes, bûcheronnage et minage, et repos visible",
+    "sections": [
+     {
+      "title": "Groupes",
+      "items": [
+       "Tu peux maintenant former un groupe jusqu'à 5 joueurs : écris « groupe inviter <nom> » ou invite depuis la fenêtre de la salle.",
+       "En groupe, tous ceux qui combattent reçoivent l'expérience entière, comme s'ils étaient seuls.",
+       "Si une quête demande de vaincre des créatures, celles que ton groupe abat comptent pour tout le monde.",
+       "Quand tu es dans un groupe, l'onglet Groupe du chat te permet de parler uniquement avec lui."
+      ]
+     },
+     {
+      "title": "Bûcheronnage et minage",
+      "items": [
+       "Nouveaux métiers : le Bûcheronnage, avec Ulda la Bûcheronne à la Réserve de Bois, et le Minage, avec Ruy le Carrier sur le Sentier du Ruisseau. Les apprendre est gratuit.",
+       "Le marchand général vend des haches et des pioches. Équipe-les dans l'emplacement d'outil et écris « abattre pin » ou « miner veine de cuivre », ou utilise les boutons Ressources.",
+       "Clique sur l'arbre ou sur la roche pour frapper : meilleur est l'outil, moins il faut de coups et plus tu obtiens de bois ou de minerai.",
+       "Pins et chênes, veines de cuivre et d'étain : les plus simples près du village, ceux qui demandent plus de compétence plus loin. Une fois épuisés, ils repoussent avec le temps.",
+       "Pour l'instant, les métiers montent jusqu'à 75."
+      ]
+     },
+     {
+      "title": "Repos",
+      "items": [
+       "Quand tu te reposes assis, un anneau au-dessus de ton portrait indique le temps avant le prochain soin, et ce que tu récupères flotte au-dessus de ton siège.",
+       "Si tu restes assis sans rien faire un moment, une fenêtre te prévient avant de te lever, et une autre te permet de te rasseoir en un clic.",
+       "Les barres de vie, de mana et d'endurance se mettent à jour pendant que tu es assis."
+      ]
+     },
+     {
+      "title": "Changements",
+      "items": [
+       "La barre de compétences montre le temps restant avant de pouvoir réutiliser chacune.",
+       "Les trophées peuvent être équipés.",
+       "Le couteau à dépecer, les haches et les pioches vont dans l'emplacement d'outil : pour dépecer, tu dois avoir le couteau équipé.",
+       "La hache de bûcheron n'est plus une arme. Si tu la tenais en main, tu la trouveras dans l'emplacement d'outil ou dans ton sac.",
+       "En te connectant après une nouvelle mise à jour, tu verras ces notes ; tu peux aussi les ouvrir avec « nouveautés » ou depuis le menu pause."
+      ]
+     },
+     {
+      "title": "Corrections",
+      "items": [
+       "Ouvrir l'inventaire n'annonce plus la perte d'un bonus d'ensemble que tu portes toujours.",
+       "Le guide du jeu explique la commande « pousser »."
+      ]
+     }
+    ]
+   },
+   "de": {
+    "highlight": "Gruppen, Holzfällen und Bergbau, und sichtbare Rast",
+    "sections": [
+     {
+      "title": "Gruppen",
+      "items": [
+       "Du kannst jetzt eine Gruppe mit bis zu 5 Spielern bilden: Schreibe „gruppe einladen <Name>“ oder lade über das Raumfenster ein.",
+       "In einer Gruppe bekommen alle, die kämpfen, die volle Erfahrung, als wären sie allein.",
+       "Verlangt eine Quest, Kreaturen zu besiegen, zählen die, die deine Gruppe erlegt, für alle.",
+       "Solange du in einer Gruppe bist, kannst du im Chat-Reiter Gruppe nur mit ihr sprechen."
+      ]
+     },
+     {
+      "title": "Holzfällen und Bergbau",
+      "items": [
+       "Neue Berufe: Holzfällen bei Ulda der Holzfällerin im Brennholzlager, und Bergbau bei Ruy dem Steinhauer am Bachpfad. Sie zu lernen kostet nichts.",
+       "Der Gemischtwarenhändler verkauft Äxte und Spitzhacken. Leg sie im Werkzeugplatz an und schreib „hacken Kiefer“ oder „abbauen Kupferader“, oder nutze die Schaltflächen unter Ressourcen.",
+       "Klick auf den Baum oder den Felsen, um zuzuschlagen: Je besser das Werkzeug, desto weniger Schläge und desto mehr Holz oder Erz.",
+       "Kiefern und Eichen, Kupfer- und Zinnadern: das Einfache nahe dem Dorf, was mehr Können verlangt, weiter draußen. Sind sie erschöpft, wachsen sie mit der Zeit nach.",
+       "Vorerst reichen die Berufe bis 75."
+      ]
+     },
+     {
+      "title": "Ausruhen",
+      "items": [
+       "Wenn du dich im Sitzen ausruhst, zeigt ein Ring über deinem Porträt, wie lange es bis zur nächsten Heilung dauert, und was du zurückbekommst, steigt über deinem Platz auf.",
+       "Sitzt du eine Weile untätig, warnt dich ein Fenster, bevor du aufstehst, und ein anderes lässt dich mit einem Klick wieder hinsetzen.",
+       "Die Leisten für Leben, Mana und Ausdauer werden im Sitzen aktualisiert."
+      ]
+     },
+     {
+      "title": "Änderungen",
+      "items": [
+       "Die Fertigkeitsleiste zeigt, wie lange es dauert, bis jede Fertigkeit wieder bereit ist.",
+       "Trophäen können angelegt werden.",
+       "Häutemesser, Äxte und Spitzhacken gehören in den Werkzeugplatz: Zum Häuten musst du das Messer angelegt haben.",
+       "Die Holzfälleraxt ist keine Waffe mehr. Wenn du sie in der Hand hattest, findest du sie im Werkzeugplatz oder im Rucksack.",
+       "Wenn du dich nach einem neuen Patch einloggst, siehst du diese Notizen; du kannst sie auch mit „patchnotes“ oder über das Pausenmenü öffnen."
+      ]
+     },
+     {
+      "title": "Fehlerbehebungen",
+      "items": [
+       "Das Öffnen des Inventars meldet nicht mehr den Verlust eines Setbonus, den du noch trägst.",
+       "Die Spielanleitung erklärt den Befehl „schieben“."
+      ]
+     }
+    ]
+   },
+   "it": {
+    "highlight": "Gruppi, taglio della legna ed estrazione, e riposo visibile",
+    "sections": [
+     {
+      "title": "Gruppi",
+      "items": [
+       "Ora puoi formare un gruppo fino a 5 giocatori: scrivi «gruppo invita <nome>» o invita dalla finestra della stanza.",
+       "In gruppo, tutti quelli che combattono ricevono l'esperienza intera, come se fossero da soli.",
+       "Se una missione chiede di sconfiggere delle creature, quelle abbattute dal tuo gruppo contano per tutti.",
+       "Quando sei in un gruppo, la scheda Gruppo della chat ti fa parlare solo con il tuo gruppo."
+      ]
+     },
+     {
+      "title": "Taglio della legna ed estrazione",
+      "items": [
+       "Nuove professioni: Taglio della legna, con Ulda la Taglialegna al Deposito della Legna, ed Estrazione, con Ruy lo Scalpellino sul Sentiero del Ruscello. Impararle è gratis.",
+       "Il mercante generale vende asce e picconi. Equipaggiali nello slot dell'attrezzo e scrivi «abbattere pino» o «estrarre vena di rame», oppure usa i pulsanti Risorse.",
+       "Fai clic sull'albero o sulla roccia per colpire: migliore è l'attrezzo, meno colpi servono e più legna o minerale ottieni.",
+       "Pini e querce, vene di rame e di stagno: le più semplici vicino al villaggio, quelle che chiedono più abilità più lontano. Quando si esauriscono, ricrescono col tempo.",
+       "Per ora le professioni arrivano fino a 75."
+      ]
+     },
+     {
+      "title": "Riposo",
+      "items": [
+       "Quando riposi seduto, un anello sopra il tuo ritratto mostra quanto manca alla prossima cura, e ciò che recuperi sale fluttuando sopra il tuo posto.",
+       "Se resti seduto senza fare nulla per un po', una finestra ti avvisa prima di farti alzare, e un'altra ti fa risedere con un clic.",
+       "Le barre di vita, mana e resistenza si aggiornano mentre sei seduto."
+      ]
+     },
+     {
+      "title": "Modifiche",
+      "items": [
+       "La barra delle abilità mostra quanto manca prima di poter usare di nuovo ciascuna.",
+       "I trofei si possono equipaggiare.",
+       "Il coltello da scuoiatore, le asce e i picconi vanno nello slot dell'attrezzo: per scuoiare devi avere il coltello equipaggiato.",
+       "L'ascia da taglialegna non è più un'arma. Se la tenevi in mano, la troverai nello slot dell'attrezzo o nello zaino.",
+       "Quando entri con una nuova patch vedrai queste note; puoi anche aprirle con «novità» o dal menu di pausa."
+      ]
+     },
+     {
+      "title": "Correzioni",
+      "items": [
+       "Aprire l'inventario non avvisa più della perdita di un bonus del set che indossi ancora.",
+       "La guida del gioco spiega il comando «spingere»."
+      ]
+     }
+    ]
+   },
+   "pt": {
+    "highlight": "Grupos, cortar lenha e minerar, e descanso à vista",
+    "sections": [
+     {
+      "title": "Grupos",
+      "items": [
+       "Já podes formar grupo com até 5 jogadores: escreve «grupo convidar <nome>» ou convida a partir da janela da sala.",
+       "Em grupo, todos os que lutam recebem a experiência inteira, como se estivessem sozinhos.",
+       "Se uma missão pede para derrotar criaturas, as que o teu grupo abate contam para todos.",
+       "Enquanto estás num grupo, o separador Grupo do chat deixa-te falar só com o teu grupo."
+      ]
+     },
+     {
+      "title": "Cortar lenha e minerar",
+      "items": [
+       "Novas profissões: Lenhador, com Ulda, a Lenhadora no Armazém de Lenha, e Mineração, com Ruy, o Canteiro, no Trilho do Riacho. Aprendê-las é grátis.",
+       "O mercador geral vende machados e picaretas. Equipa-os no espaço de ferramenta e escreve «abater pinheiro» ou «minerar filão de cobre», ou usa os botões de Recursos.",
+       "Clica na árvore ou na rocha para golpear: quanto melhor a ferramenta, menos golpes e mais madeira ou minério.",
+       "Pinheiros e carvalhos, filões de cobre e estanho: os mais simples perto da aldeia, os que pedem mais perícia mais longe. Quando se esgotam, voltam a crescer com o tempo.",
+       "Por agora, as profissões chegam até 75."
+      ]
+     },
+     {
+      "title": "Descanso",
+      "items": [
+       "Ao descansares sentado, um anel sobre o teu retrato mostra quanto falta para a próxima cura, e o que recuperas sobe a flutuar sobre o teu lugar.",
+       "Se ficares sentado algum tempo sem fazer nada, uma janela avisa-te antes de te levantar, e outra deixa-te voltar a sentar com um clique.",
+       "As barras de vida, mana e vigor atualizam-se enquanto estás sentado."
+      ]
+     },
+     {
+      "title": "Alterações",
+      "items": [
+       "A barra de habilidades mostra quanto falta para poderes voltar a usar cada uma.",
+       "Os troféus podem ser equipados.",
+       "A faca de esfolar, os machados e as picaretas vão no espaço de ferramenta: para esfolar tens de ter a faca equipada.",
+       "O machado de lenhador deixa de ser uma arma. Se o tinhas na mão, vais encontrá-lo no espaço de ferramenta ou na mochila.",
+       "Ao entrares com um novo patch vais ver estas notas; também as podes abrir com «novidades» ou no menu de pausa."
+      ]
+     },
+     {
+      "title": "Correções",
+      "items": [
+       "Abrir o inventário já não avisa que perdeste o bónus de um conjunto que continuas a usar.",
+       "O guia do jogo explica o comando «empurrar»."
+      ]
+     }
+    ]
+   }
+  }
+ },
+ {
+  "version": "0.0.2.10",
+  "date": "2026-10-08",
+  "notes": {
+   "es": {
+    "highlight": "Días de una hora y un chat más cómodo",
+    "sections": [
+     {
+      "title": "El día y la noche",
+      "items": [
+       "Un día completo del juego dura ahora una hora real: 40 minutos de luz y 20 de noche. El sol sigue saliendo a las 6:00 y poniéndose a las 18:00; los horarios de tiendas y habitantes no cambian, sólo pasan más rápido."
+      ]
+     },
+     {
+      "title": "Chat",
+      "items": [
+       "La pestaña de la isla está ahora justo al lado de General, para tenerla a mano.",
+       "Al enviar un mensaje, el cursor vuelve a la línea de escritura y puedes seguir escribiendo sin hacer clic.",
+       "Las acciones entre asteriscos se ven de otro color: en «hola *ríe* qué tal», «*ríe*» sale resaltado y el resto del mensaje en su color normal.",
+       "Las letras con tilde (á, ñ, ü, ç…) se ven bien en la línea de escritura.",
+       "El aviso de «Aún no hay mensajes aquí» cambia de idioma al momento."
+      ]
+     },
+     {
+      "title": "Misiones",
+      "items": [
+       "Nuevo ajuste en Opciones > Texto: «Tamaño del texto de misiones». Ya no crece con el tamaño de letra general, así que puedes subir la letra del juego sin que las misiones ocupen media pantalla.",
+       "El progreso de cada objetivo, por ejemplo (3/12), se ve siempre, aunque el texto del objetivo sea largo."
+      ]
+     },
+     {
+      "title": "Luz y oscuridad",
+      "items": [
+       "Equipar una antorcha no la enciende: así puedes moverte a oscuras cuando quieras. Ahora el aviso de oscuridad te dice cómo encenderla (escribe «encender antorcha»).",
+       "El comando «encender» funciona también con otras fuentes de luz que lleves equipadas, no sólo con la antorcha.",
+       "Si intentas encender algo que no da luz, el juego te explica qué hacer en vez de mostrar un error."
+      ]
+     },
+     {
+      "title": "Fe",
+      "items": [
+       "El límite de fe por repetir el mismo acto se reinicia cada 12 horas reales."
+      ]
+     },
+     {
+      "title": "Correcciones",
+      "items": [
+       "Los botones Subir, Bajar, Entrar y Salir se quedaban en el idioma anterior al cambiar de idioma.",
+       "Los botones del panel del personaje (como «Compétences» en francés) ya no se cortan.",
+       "Corregidos los comandos de ejemplo en alemán e italiano que aparecían al luchar a oscuras.",
+       "Gracias por los reportes desde el juego: este parche incluye uno de ellos."
+      ]
+     }
+    ]
+   },
+   "en": {
+    "highlight": "One-hour days and a friendlier chat",
+    "sections": [
+     {
+      "title": "Day and night",
+      "items": [
+       "A full in-game day now lasts one real hour: 40 minutes of daylight and 20 of night. The sun still rises at 6:00 and sets at 18:00; shop and townsfolk schedules stay the same, they just go by faster."
+      ]
+     },
+     {
+      "title": "Chat",
+      "items": [
+       "The island tab now sits right next to General.",
+       "After sending a message the cursor goes back to the input line, so you can keep typing without clicking.",
+       "Actions between asterisks are shown in a different colour: in \"hello *laughs* how are you\", \"*laughs*\" is highlighted and the rest of the message keeps its normal colour.",
+       "Accented letters (á, ñ, ü, ç…) now display properly in the input line.",
+       "The \"No messages here yet\" notice switches language immediately."
+      ]
+     },
+     {
+      "title": "Quests",
+      "items": [
+       "New setting in Options > Text: \"Quest tracker text size\". It no longer grows with the general font size, so you can make the game text bigger without the quest list taking over the screen.",
+       "Each objective's progress, for example (3/12), is always visible, even when the objective text is long."
+      ]
+     },
+     {
+      "title": "Light and darkness",
+      "items": [
+       "Equipping a torch does not light it, so you can still move in the dark on purpose. The darkness notice now tells you how to light it (type \"light torch\").",
+       "The \"light\" command also works with other light sources you have equipped, not just the torch.",
+       "Trying to light something that gives no light now explains what to do instead of showing an error."
+      ]
+     },
+     {
+      "title": "Faith",
+      "items": [
+       "The faith limit for repeating the same act now resets every 12 real hours."
+      ]
+     },
+     {
+      "title": "Fixes",
+      "items": [
+       "The Up, Down, Enter and Exit buttons stayed in the previous language after switching languages.",
+       "Character panel buttons (such as \"Compétences\" in French) are no longer cut off.",
+       "Fixed the example commands shown in German and Italian when fighting in the dark.",
+       "Thanks for your in-game reports: this patch includes one of them."
+      ]
+     }
+    ]
+   },
+   "fr": {
+    "highlight": "Des journées d'une heure et un chat plus pratique",
+    "sections": [
+     {
+      "title": "Le jour et la nuit",
+      "items": [
+       "Une journée complète dans le jeu dure maintenant une heure réelle : 40 minutes de jour et 20 de nuit. Le soleil se lève toujours à 6 h et se couche à 18 h ; les horaires des boutiques et des habitants ne changent pas, ils passent simplement plus vite."
+      ]
+     },
+     {
+      "title": "Chat",
+      "items": [
+       "L'onglet de l'île se trouve désormais juste à côté de Général.",
+       "Après l'envoi d'un message, le curseur revient dans la ligne de saisie : tu peux continuer à écrire sans cliquer.",
+       "Les actions entre astérisques s'affichent dans une autre couleur : dans « salut *rit* ça va », « *rit* » est mis en évidence et le reste du message garde sa couleur normale.",
+       "Les lettres accentuées (á, ñ, ü, ç…) s'affichent correctement dans la ligne de saisie.",
+       "Le message « Aucun message ici pour l'instant » change de langue immédiatement."
+      ]
+     },
+     {
+      "title": "Quêtes",
+      "items": [
+       "Nouveau réglage dans Options > Texte : « Taille du texte des quêtes ». Il ne grandit plus avec la taille de police générale : tu peux agrandir le texte du jeu sans que les quêtes prennent la moitié de l'écran.",
+       "La progression de chaque objectif, par exemple (3/12), reste toujours visible, même quand le texte de l'objectif est long."
+      ]
+     },
+     {
+      "title": "Lumière et obscurité",
+      "items": [
+       "Équiper une torche ne l'allume pas : tu peux ainsi te déplacer dans le noir quand tu le veux. Le message d'obscurité t'explique maintenant comment l'allumer (écris « allumer torche »).",
+       "La commande « allumer » fonctionne aussi avec les autres sources de lumière équipées, pas seulement la torche.",
+       "Si tu essaies d'allumer quelque chose qui n'éclaire pas, le jeu t'explique quoi faire au lieu d'afficher une erreur."
+      ]
+     },
+     {
+      "title": "Foi",
+      "items": [
+       "La limite de foi pour un même acte répété se réinitialise toutes les 12 heures réelles."
+      ]
+     },
+     {
+      "title": "Corrections",
+      "items": [
+       "Les boutons Monter, Descendre, Entrer et Sortir restaient dans l'ancienne langue après un changement de langue.",
+       "Les boutons du panneau du personnage (comme « Compétences ») ne sont plus coupés.",
+       "Corrigé : les commandes d'exemple en allemand et en italien affichées en combattant dans le noir.",
+       "Merci pour vos signalements depuis le jeu : ce patch en corrige un."
+      ]
+     }
+    ]
+   },
+   "de": {
+    "highlight": "Ein Tag dauert eine Stunde, und der Chat ist bequemer",
+    "sections": [
+     {
+      "title": "Tag und Nacht",
+      "items": [
+       "Ein ganzer Spieltag dauert jetzt eine echte Stunde: 40 Minuten Tageslicht und 20 Minuten Nacht. Die Sonne geht weiterhin um 6:00 auf und um 18:00 unter; die Zeiten von Läden und Bewohnern bleiben gleich, sie vergehen nur schneller."
+      ]
+     },
+     {
+      "title": "Chat",
+      "items": [
+       "Der Insel-Reiter liegt jetzt direkt neben Allgemein.",
+       "Nach dem Senden einer Nachricht springt der Cursor zurück in die Eingabezeile, du kannst also ohne Klick weiterschreiben.",
+       "Aktionen zwischen Sternchen erscheinen in einer anderen Farbe: In „hallo *lacht* wie geht's“ wird „*lacht*“ hervorgehoben, der Rest der Nachricht behält seine normale Farbe.",
+       "Buchstaben mit Akzent (á, ñ, ü, ç…) werden in der Eingabezeile richtig angezeigt.",
+       "Der Hinweis „Hier gibt es noch keine Nachrichten“ wechselt sofort die Sprache."
+      ]
+     },
+     {
+      "title": "Quests",
+      "items": [
+       "Neue Einstellung unter Optionen > Text: „Textgröße der Quests“. Sie wächst nicht mehr mit der allgemeinen Schriftgröße mit, so kannst du den Spieltext vergrößern, ohne dass die Quests den halben Bildschirm einnehmen.",
+       "Der Fortschritt jedes Ziels, zum Beispiel (3/12), ist immer sichtbar, auch bei langen Zieltexten."
+      ]
+     },
+     {
+      "title": "Licht und Dunkelheit",
+      "items": [
+       "Eine Fackel anzulegen zündet sie nicht an: So kannst du dich absichtlich im Dunkeln bewegen. Der Dunkelheitshinweis sagt dir jetzt, wie du sie anzündest (schreibe „anzünden Fackel“).",
+       "Der Befehl „anzünden“ funktioniert auch mit anderen angelegten Lichtquellen, nicht nur mit der Fackel.",
+       "Wenn du etwas anzünden willst, das kein Licht gibt, erklärt dir das Spiel, was zu tun ist, statt einen Fehler zu zeigen."
+      ]
+     },
+     {
+      "title": "Glaube",
+      "items": [
+       "Die Glaubensgrenze für dieselbe wiederholte Tat setzt sich alle 12 echten Stunden zurück."
+      ]
+     },
+     {
+      "title": "Fehlerbehebungen",
+      "items": [
+       "Die Schaltflächen Hoch, Runter, Betreten und Verlassen blieben nach einem Sprachwechsel in der alten Sprache.",
+       "Die Schaltflächen im Charakterfeld (wie „Compétences“ auf Französisch) werden nicht mehr abgeschnitten.",
+       "Die deutschen und italienischen Beispielbefehle beim Kämpfen im Dunkeln sind korrigiert.",
+       "Danke für eure Meldungen aus dem Spiel: Dieser Patch enthält eine davon."
+      ]
+     }
+    ]
+   },
+   "it": {
+    "highlight": "Giornate di un'ora e una chat più comoda",
+    "sections": [
+     {
+      "title": "Il giorno e la notte",
+      "items": [
+       "Una giornata intera nel gioco ora dura un'ora reale: 40 minuti di luce e 20 di notte. Il sole sorge sempre alle 6:00 e tramonta alle 18:00; gli orari di negozi e abitanti non cambiano, scorrono solo più in fretta."
+      ]
+     },
+     {
+      "title": "Chat",
+      "items": [
+       "La scheda dell'isola ora si trova subito accanto a Generale.",
+       "Dopo aver inviato un messaggio il cursore torna nella riga di scrittura, così puoi continuare a scrivere senza cliccare.",
+       "Le azioni tra asterischi hanno un altro colore: in «ciao *ride* come va», «*ride*» è evidenziato e il resto del messaggio mantiene il suo colore normale.",
+       "Le lettere accentate (á, ñ, ü, ç…) si vedono bene nella riga di scrittura.",
+       "L'avviso «Ancora nessun messaggio qui» cambia lingua all'istante."
+      ]
+     },
+     {
+      "title": "Missioni",
+      "items": [
+       "Nuova opzione in Opzioni > Testo: «Dimensione testo missioni». Non cresce più con la dimensione generale del carattere, così puoi ingrandire il testo del gioco senza che le missioni occupino mezzo schermo.",
+       "Il progresso di ogni obiettivo, per esempio (3/12), è sempre visibile, anche quando il testo dell'obiettivo è lungo."
+      ]
+     },
+     {
+      "title": "Luce e oscurità",
+      "items": [
+       "Equipaggiare una torcia non la accende: così puoi muoverti al buio quando vuoi. Ora l'avviso di oscurità ti dice come accenderla (scrivi «accendere torcia»).",
+       "Il comando «accendere» funziona anche con le altre fonti di luce equipaggiate, non solo con la torcia.",
+       "Se provi ad accendere qualcosa che non fa luce, il gioco ti spiega cosa fare invece di mostrare un errore."
+      ]
+     },
+     {
+      "title": "Fede",
+      "items": [
+       "Il limite di fede per lo stesso atto ripetuto si azzera ogni 12 ore reali."
+      ]
+     },
+     {
+      "title": "Correzioni",
+      "items": [
+       "I pulsanti Salire, Scendere, Entrare e Uscire restavano nella lingua precedente dopo un cambio di lingua.",
+       "I pulsanti del pannello del personaggio (come «Compétences» in francese) non vengono più tagliati.",
+       "Corretti i comandi di esempio in tedesco e in italiano che comparivano combattendo al buio.",
+       "Grazie per le segnalazioni dal gioco: questa patch ne include una."
+      ]
+     }
+    ]
+   },
+   "pt": {
+    "highlight": "Dias de uma hora e um chat mais prático",
+    "sections": [
+     {
+      "title": "O dia e a noite",
+      "items": [
+       "Um dia completo no jogo dura agora uma hora real: 40 minutos de luz e 20 de noite. O sol continua a nascer às 6:00 e a pôr-se às 18:00; os horários das lojas e dos habitantes não mudam, só passam mais depressa."
+      ]
+     },
+     {
+      "title": "Chat",
+      "items": [
+       "O separador da ilha fica agora mesmo ao lado de Geral.",
+       "Depois de enviares uma mensagem, o cursor volta à linha de escrita e podes continuar a escrever sem clicar.",
+       "As ações entre asteriscos aparecem noutra cor: em «olá *ri* tudo bem», «*ri*» fica destacado e o resto da mensagem mantém a cor normal.",
+       "As letras acentuadas (á, ñ, ü, ç…) aparecem bem na linha de escrita.",
+       "O aviso «Ainda não há mensagens aqui» muda de idioma no momento."
+      ]
+     },
+     {
+      "title": "Missões",
+      "items": [
+       "Nova opção em Opções > Texto: «Tamanho do texto das missões». Já não cresce com o tamanho de letra geral, por isso podes aumentar a letra do jogo sem que as missões ocupem meio ecrã.",
+       "O progresso de cada objetivo, por exemplo (3/12), vê-se sempre, mesmo quando o texto do objetivo é longo."
+      ]
+     },
+     {
+      "title": "Luz e escuridão",
+      "items": [
+       "Equipar uma tocha não a acende: assim podes andar às escuras quando quiseres. O aviso de escuridão diz-te agora como a acender (escreve «acender tocha»).",
+       "O comando «acender» funciona também com outras fontes de luz que tenhas equipadas, não só com a tocha.",
+       "Se tentares acender algo que não dá luz, o jogo explica-te o que fazer em vez de mostrar um erro."
+      ]
+     },
+     {
+      "title": "Fé",
+      "items": [
+       "O limite de fé por repetir o mesmo ato reinicia-se a cada 12 horas reais."
+      ]
+     },
+     {
+      "title": "Correções",
+      "items": [
+       "Os botões Subir, Descer, Entrar e Sair ficavam no idioma anterior ao mudar de idioma.",
+       "Os botões do painel da personagem (como «Compétences» em francês) já não ficam cortados.",
+       "Corrigidos os comandos de exemplo em alemão e italiano que apareciam ao lutar às escuras.",
+       "Obrigado pelos reportes feitos no jogo: este patch inclui um deles."
+      ]
+     }
+    ]
+   }
+  }
+ },
+ {
+  "version": "0.0.2.9",
+  "date": "2026-10-07",
+  "notes": {
+   "es": {
+    "highlight": "Canal de isla y golpes críticos más fuertes",
+    "sections": [
+     {
+      "title": "Novedades",
+      "items": [
+       "Nuevo canal de chat de la isla: hablas con todos los que estén en tu misma isla, también dentro de las casas.",
+       "Antes de llevarte algo que no es tuyo sin darte cuenta, el juego te pide que lo confirmes."
+      ]
+     },
+     {
+      "title": "Cambios",
+      "items": [
+       "Los golpes críticos hacen el doble de daño, también con habilidades y a distancia.",
+       "Puedes sentarte o dormir nombrando el mueble, por ejemplo «sentarse banco» o «dormir cama», y «usar» una silla te sienta en ella."
+      ]
+     },
+     {
+      "title": "Correcciones",
+      "items": [
+       "Los objetos que se apilan ya caben en la mochila al saquear o al sacar de un cofre, aunque esté casi llena.",
+       "Tras perder un combate, la pantalla de combate se cierra como debe.",
+       "Varias misiones del pueblo arregladas gracias a vuestros reportes."
+      ]
+     }
+    ]
+   },
+   "en": {
+    "highlight": "Island chat and stronger critical hits",
+    "sections": [
+     {
+      "title": "New",
+      "items": [
+       "New island chat channel: talk to everyone on your island, indoors included.",
+       "Before you take something that isn't yours without noticing, the game asks you to confirm."
+      ]
+     },
+     {
+      "title": "Changes",
+      "items": [
+       "Critical hits deal double damage, with skills and ranged attacks too.",
+       "You can sit or sleep by naming the furniture, for example \"sit bench\" or \"sleep bed\", and \"use\" on a chair sits you down."
+      ]
+     },
+     {
+      "title": "Fixes",
+      "items": [
+       "Stackable items now fit in your backpack when looting or taking from a chest, even when it is nearly full.",
+       "After losing a fight, the combat screen closes properly.",
+       "Several village quests fixed thanks to your reports."
+      ]
+     }
+    ]
+   },
+   "fr": {
+    "highlight": "Chat de l'île et coups critiques plus forts",
+    "sections": [
+     {
+      "title": "Nouveautés",
+      "items": [
+       "Nouveau canal de chat de l'île : tu parles à tous ceux qui sont sur ton île, même à l'intérieur des maisons.",
+       "Avant de prendre sans le vouloir quelque chose qui n'est pas à toi, le jeu te demande de confirmer."
+      ]
+     },
+     {
+      "title": "Changements",
+      "items": [
+       "Les coups critiques infligent le double de dégâts, aussi avec les compétences et à distance.",
+       "Tu peux t'asseoir ou dormir en nommant le meuble, par exemple « asseoir banc » ou « dormir lit », et « utiliser » une chaise t'y fait asseoir."
+      ]
+     },
+     {
+      "title": "Corrections",
+      "items": [
+       "Les objets empilables tiennent maintenant dans ton sac quand tu pilles ou que tu prends dans un coffre, même s'il est presque plein.",
+       "Après un combat perdu, l'écran de combat se ferme correctement.",
+       "Plusieurs quêtes du village corrigées grâce à vos signalements."
+      ]
+     }
+    ]
+   },
+   "de": {
+    "highlight": "Insel-Chat und stärkere kritische Treffer",
+    "sections": [
+     {
+      "title": "Neu",
+      "items": [
+       "Neuer Insel-Chat: Du sprichst mit allen auf deiner Insel, auch in den Häusern.",
+       "Bevor du unbemerkt etwas mitnimmst, das dir nicht gehört, fragt das Spiel nach einer Bestätigung."
+      ]
+     },
+     {
+      "title": "Änderungen",
+      "items": [
+       "Kritische Treffer verursachen doppelten Schaden, auch mit Fertigkeiten und auf Distanz.",
+       "Du kannst dich setzen oder schlafen, indem du das Möbelstück nennst, zum Beispiel „setzen Bank“ oder „schlafen Bett“, und „benutzen“ auf einem Stuhl setzt dich hin."
+      ]
+     },
+     {
+      "title": "Fehlerbehebungen",
+      "items": [
+       "Stapelbare Gegenstände passen jetzt beim Plündern oder aus einer Truhe in den Rucksack, auch wenn er fast voll ist.",
+       "Nach einem verlorenen Kampf schließt sich der Kampfbildschirm richtig.",
+       "Mehrere Dorf-Quests dank eurer Meldungen behoben."
+      ]
+     }
+    ]
+   },
+   "it": {
+    "highlight": "Chat dell'isola e colpi critici più forti",
+    "sections": [
+     {
+      "title": "Novità",
+      "items": [
+       "Nuovo canale di chat dell'isola: parli con tutti quelli che sono sulla tua isola, anche dentro le case.",
+       "Prima di prendere senza accorgertene qualcosa che non è tuo, il gioco ti chiede di confermare."
+      ]
+     },
+     {
+      "title": "Modifiche",
+      "items": [
+       "I colpi critici infliggono il doppio dei danni, anche con le abilità e a distanza.",
+       "Puoi sederti o dormire nominando il mobile, per esempio «sedersi panca» o «dormire letto», e «usare» una sedia ti fa sedere."
+      ]
+     },
+     {
+      "title": "Correzioni",
+      "items": [
+       "Gli oggetti impilabili ora entrano nello zaino quando saccheggi o prendi da un forziere, anche se è quasi pieno.",
+       "Dopo un combattimento perso, la schermata di combattimento si chiude come deve.",
+       "Diverse missioni del villaggio corrette grazie alle vostre segnalazioni."
+      ]
+     }
+    ]
+   },
+   "pt": {
+    "highlight": "Chat da ilha e golpes críticos mais fortes",
+    "sections": [
+     {
+      "title": "Novidades",
+      "items": [
+       "Novo canal de chat da ilha: falas com todos os que estão na tua ilha, também dentro das casas.",
+       "Antes de levares sem dar por isso algo que não é teu, o jogo pede-te que confirmes."
+      ]
+     },
+     {
+      "title": "Alterações",
+      "items": [
+       "Os golpes críticos causam o dobro do dano, também com habilidades e à distância.",
+       "Podes sentar-te ou dormir nomeando o móvel, por exemplo «sentar banco» ou «dormir cama», e «usar» uma cadeira senta-te nela."
+      ]
+     },
+     {
+      "title": "Correções",
+      "items": [
+       "Os objetos empilháveis já cabem na mochila ao saquear ou ao tirar de um baú, mesmo quando está quase cheia.",
+       "Depois de perderes um combate, o ecrã de combate fecha-se como deve.",
+       "Várias missões da aldeia corrigidas graças aos vossos reportes."
+      ]
+     }
+    ]
+   }
+  }
+ }
+]

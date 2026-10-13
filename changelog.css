@@ -1,0 +1,272 @@
+/* Changelog page
+   Same path as the roadmap: one gold line down the page and a diamond per
+   patch. Only one patch is open at a time; opening another closes the rest.
+   Colour tokens in the notes ({up:5}, {epic:…}) use the game's own palette. */
+
+.changelog-page {
+  --up: #6ab04c;
+  --down: #e85d6f;
+  --r-junk: #8a8a8a;
+  --r-common: #ffffff;
+  --r-uncommon: #6ab04c;
+  --r-rare: #5b9fe8;
+  --r-epic: #b388ff;
+  --r-legendary: #ff8030;
+  --topbar-h: 3.4rem;
+}
+
+/* ---------- Head ---------- */
+.cl-head {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  padding: calc(var(--topbar-h) + clamp(4rem, 9vw, 7rem)) 0 clamp(2.5rem, 5vw, 3.5rem);
+}
+.cl-head .chapter-art {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background:
+    linear-gradient(180deg, rgba(12, 10, 11, 0.55) 0%, rgba(12, 10, 11, 0.86) 55%, var(--ink) 100%),
+    var(--art) center 40% / cover no-repeat;
+  image-rendering: pixelated;
+}
+.cl-title {
+  font-family: var(--font-title);
+  font-weight: 900;
+  font-size: clamp(2.6rem, 6.4vw, 5rem);
+  line-height: 1;
+  color: var(--bone);
+  letter-spacing: 0.01em;
+  margin-bottom: 1rem;
+  text-wrap: balance;
+}
+.cl-lead {
+  color: var(--bone-dim);
+  font-style: italic;
+  font-size: clamp(1.2rem, 2vw, 1.45rem);
+  margin-bottom: 2rem;
+}
+
+.cl-langs { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+.cl-langs button {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 0.74rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--bone-dim);
+  background: rgba(12, 10, 11, 0.5);
+  border: 1px solid rgba(232, 220, 196, 0.2);
+  padding: 0.5rem 0.85rem;
+  min-height: 40px;
+  cursor: pointer;
+  transition: color 200ms ease, border-color 200ms ease, background-color 200ms ease, transform 160ms var(--ease-out);
+  -webkit-tap-highlight-color: transparent;
+}
+.cl-langs button:active { transform: scale(0.97); }
+.cl-langs button[aria-pressed="true"] {
+  color: var(--ink);
+  background: var(--gold);
+  border-color: var(--gold);
+}
+
+/* ---------- The log ---------- */
+.cl-body { padding: 1rem 0 clamp(4rem, 9vw, 7rem); }
+
+.cl-log {
+  list-style: none;
+  position: relative;
+  padding-left: 2.6rem;
+  max-width: 880px;
+}
+.cl-log::before {
+  content: "";
+  position: absolute;
+  left: 7px;
+  top: 1.6rem;
+  bottom: 1.6rem;
+  width: 1px;
+  background: linear-gradient(180deg, var(--gold), var(--gold-deep) 60%, rgba(110, 86, 52, 0.25));
+}
+
+.cl-entry { position: relative; border-bottom: 1px solid var(--line); }
+.cl-entry:first-child { border-top: 1px solid var(--line); }
+
+.cl-mark {
+  position: absolute;
+  left: -2.6rem;
+  top: 1.55rem;
+  width: 15px;
+  height: 15px;
+  transform: rotate(45deg);
+  background: var(--ink);
+  border: 1px solid var(--gold-deep);
+  transition: background-color 250ms ease, border-color 250ms ease;
+}
+.cl-entry.is-open .cl-mark,
+.cl-entry:first-child .cl-mark { border-color: var(--gold); }
+.cl-entry.is-open .cl-mark { background: var(--gold); }
+
+.cl-h { font: inherit; margin: 0; letter-spacing: normal; color: inherit; }
+
+.cl-toggle {
+  display: grid;
+  grid-template-columns: 1fr auto 18px;
+  grid-template-areas: "ver date chev" "hl hl hl";
+  align-items: baseline;
+  column-gap: 1.2rem;
+  width: 100%;
+  padding: 1.2rem 0.4rem 1.2rem 0;
+  background: none;
+  border: 0;
+  color: inherit;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+.cl-ver {
+  grid-area: ver;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.4rem 0.9rem;
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: clamp(1.35rem, 2.4vw, 1.75rem);
+  color: var(--bone-dim);
+  letter-spacing: 0.02em;
+  transition: color 200ms ease;
+}
+.cl-entry.is-open .cl-ver { color: var(--bone); }
+.cl-latest {
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--gold-pale);
+  border: 1px solid var(--gold-deep);
+  padding: 0.15rem 0.5rem;
+  transform: translateY(-0.2em);
+}
+.cl-date {
+  grid-area: date;
+  font-family: var(--font-display);
+  font-size: 0.8rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
+  white-space: nowrap;
+}
+.cl-chev {
+  grid-area: chev;
+  width: 18px;
+  height: 18px;
+  align-self: center;
+  fill: none;
+  stroke: var(--gold);
+  stroke-width: 1.6;
+  transition: transform 300ms var(--ease-out);
+}
+.cl-entry.is-open .cl-chev { transform: rotate(180deg); }
+.cl-hl {
+  grid-area: hl;
+  margin-top: 0.3rem;
+  font-style: italic;
+  font-size: 1.12rem;
+  color: var(--gold-pale);
+  opacity: 0.8;
+  transition: opacity 200ms ease;
+}
+.cl-entry.is-open .cl-hl { opacity: 1; }
+
+/* Height animates through grid rows: no measuring, interruptible. */
+.cl-panel {
+  display: grid;
+  grid-template-rows: 0fr;
+  transition: grid-template-rows 380ms var(--ease-out);
+}
+.cl-entry.is-open .cl-panel { grid-template-rows: 1fr; }
+.cl-panel-inner {
+  overflow: hidden;
+  min-height: 0;
+  opacity: 0;
+  transition: opacity 240ms ease;
+}
+.cl-entry.is-open .cl-panel-inner { opacity: 1; transition-delay: 80ms; }
+.cl-panel-body { padding: 0.2rem 0 2rem; }
+
+.cl-sec {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 0.78rem;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  color: var(--gold);
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+  margin: 1.4rem 0 0.7rem;
+}
+.cl-sec::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: linear-gradient(90deg, var(--gold-deep), transparent);
+}
+.cl-items { list-style: none; }
+.cl-items li {
+  position: relative;
+  padding-left: 1.4rem;
+  margin: 0.45rem 0;
+  font-size: 1.1rem;
+  line-height: 1.55;
+  color: var(--bone);
+}
+.cl-items li::before {
+  content: "";
+  position: absolute;
+  left: 0.15rem;
+  top: 0.66em;
+  width: 6px;
+  height: 6px;
+  transform: rotate(45deg);
+  background: var(--gold-deep);
+}
+
+/* The game's colour tokens. */
+.t-up { color: var(--up); }
+.t-down { color: var(--down); }
+.t-junk { color: var(--r-junk); }
+.t-common { color: var(--r-common); }
+.t-uncommon { color: var(--r-uncommon); }
+.t-rare { color: var(--r-rare); }
+.t-epic { color: var(--r-epic); }
+.t-legendary { color: var(--r-legendary); }
+/* IM Fell's old-style figures shrink a lone number; Cinzel keeps it readable. */
+.t-num { font-family: var(--font-display); font-weight: 700; font-size: 0.92em; }
+
+.cl-empty { color: var(--muted); font-style: italic; }
+
+@media (hover: hover) and (pointer: fine) {
+  .cl-langs button:hover:not([aria-pressed="true"]) { color: var(--gold-pale); border-color: var(--gold); }
+  .cl-toggle:hover .cl-ver { color: var(--gold-pale); }
+}
+
+@media (max-width: 600px) {
+  .cl-log { padding-left: 1.9rem; }
+  .cl-log::before { left: 5px; }
+  .cl-mark { left: -1.9rem; width: 11px; height: 11px; top: 1.45rem; }
+  .cl-toggle {
+    grid-template-columns: 1fr 18px;
+    grid-template-areas: "ver chev" "date date" "hl hl";
+    row-gap: 0.2rem;
+  }
+  .cl-items li { font-size: 1.04rem; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .cl-panel, .cl-chev, .cl-langs button { transition: none; }
+  .cl-panel-inner { transition: opacity 200ms ease; }
+}

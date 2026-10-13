@@ -1,5 +1,238 @@
 [
  {
+  "version": "0.0.2.19",
+  "date": "2026-10-13",
+  "notes": {
+   "es": {
+    "highlight": "Seguir a otros jugadores, rol fuera de personaje y la Cuarta Hora",
+    "sections": [
+     {
+      "title": "Novedades",
+      "items": [
+       "{up:seguir <nombre>}: ve tras los pasos de otro jugador.",
+       "Tu grupo aparece en el mapa grande.",
+       "En el mapa grande se ve mucho mejor dónde estás.",
+       "Empieza una línea con {up://} para hablar fuera de rol.",
+       "Nueva página en la wiki: «Cómo rolear».",
+       "La Cuarta Hora tiene ahora sus propias escenas."
+      ]
+     },
+     {
+      "title": "Cambios",
+      "items": [
+       "Ya puedes escribir {up:abre} para abrir.",
+       "El Tejedor duerme menos, y cuando duerme lo dice.",
+       "Las descripciones de las criaturas se leen mejor.",
+       "Los telares, la tenería, el alambique y el banco de carpintería tienen su botón en la sala, y fabricar lejos de ellos te dice dónde ir.",
+       "Un arma a dos manos se ve también en la mano secundaria del inventario."
+      ]
+     },
+     {
+      "title": "Correcciones",
+      "items": [
+       "Tu barra de maná ya no recupera el maná que acabas de gastar.",
+       "El lamedero de sal y el lino silvestre ya se pueden recolectar y tienen imagen.",
+       "«abrir» ya no falla sin motivo, y la puerta de tablones del establo de Polli se abre.",
+       "Las habilidades ya no pierden su icono.",
+       "El texto de la sala ya no va pegado al borde ni se corta en pantallas 4:3.",
+       "«Estado: Conectado» sale en tu idioma.",
+       "Odalia «Rótulo» y el Mercader general tienen retrato propio."
+      ]
+     }
+    ]
+   },
+   "en": {
+    "highlight": "Following other players, out-of-character chat and the Fourth Hour",
+    "sections": [
+     {
+      "title": "New",
+      "items": [
+       "{up:follow <name>}: walk in another player's footsteps.",
+       "Your group shows on the big map.",
+       "On the big map it's much easier to see where you are.",
+       "Start a line with {up://} to speak out of character.",
+       "New wiki page: «How to roleplay».",
+       "The Fourth Hour now has scenes of its own."
+      ]
+     },
+     {
+      "title": "Changes",
+      "items": [
+       "The Weaver sleeps less, and says so when he sleeps.",
+       "Creature descriptions are easier to read.",
+       "Looms, the tannery, the alembic and the carpenter's bench have their own room button, and crafting away from them tells you where to go.",
+       "A two-handed weapon now shows in the inventory's off-hand slot too."
+      ]
+     },
+     {
+      "title": "Fixes",
+      "items": [
+       "Your mana bar no longer refills the mana you just spent.",
+       "The salt lick and wild flax can now be gathered and have their art.",
+       "«open» no longer fails for no reason, and the plank door in Polli's stable opens.",
+       "Skills no longer lose their icons.",
+       "Room text no longer sits against the edge or gets cut off on 4:3 screens.",
+       "«Status: Connected» shows in your language.",
+       "Odalia «Rótulo» and the General Merchant have portraits of their own."
+      ]
+     }
+    ]
+   },
+   "fr": {
+    "highlight": "Suivre d'autres joueurs, parler hors rôle et la Quatrième Heure",
+    "sections": [
+     {
+      "title": "Nouveautés",
+      "items": [
+       "{up:suivre <nom>} : marche dans les pas d'un autre joueur.",
+       "Ton groupe apparaît sur la grande carte.",
+       "Sur la grande carte, on voit bien mieux où tu es.",
+       "Commence une ligne par {up://} pour parler hors rôle.",
+       "Nouvelle page dans le wiki : « Comment jouer son rôle ».",
+       "La Quatrième Heure a désormais ses propres scènes."
+      ]
+     },
+     {
+      "title": "Changements",
+      "items": [
+       "Tu peux désormais écrire {up:ouvre} pour ouvrir.",
+       "Le Tisserand dort moins, et le dit quand il dort.",
+       "Les descriptions des créatures se lisent mieux.",
+       "Les métiers à tisser, la tannerie, l'alambic et l'établi ont leur bouton dans la salle, et fabriquer loin d'eux t'indique où aller.",
+       "Une arme à deux mains apparaît aussi dans l'emplacement de main secondaire de l'inventaire."
+      ]
+     },
+     {
+      "title": "Corrections",
+      "items": [
+       "Ta barre de mana ne récupère plus le mana que tu viens de dépenser.",
+       "La pierre à sel et le lin sauvage se récoltent enfin et ont leur image.",
+       "« ouvrir » n'échoue plus sans raison, et la porte en planches de l'étable de Polli s'ouvre.",
+       "Les compétences ne perdent plus leur icône.",
+       "Le texte de la salle ne colle plus au bord et n'est plus coupé sur les écrans 4:3.",
+       "« État : Connecté » s'affiche dans ta langue.",
+       "Odalia « Rótulo » et le Marchand général ont leur propre portrait."
+      ]
+     }
+    ]
+   },
+   "de": {
+    "highlight": "Anderen Spielern folgen, Gespräche außerhalb der Rolle und die Vierte Stunde",
+    "sections": [
+     {
+      "title": "Neu",
+      "items": [
+       "{up:folgen <Name>}: geh in den Fußstapfen eines anderen Spielers.",
+       "Deine Gruppe erscheint auf der großen Karte.",
+       "Auf der großen Karte siehst du viel besser, wo du bist.",
+       "Beginne eine Zeile mit {up://}, um außerhalb der Rolle zu sprechen.",
+       "Neue Wiki-Seite: „Wie man Rollenspiel betreibt“.",
+       "Die Vierte Stunde hat jetzt eigene Szenen."
+      ]
+     },
+     {
+      "title": "Änderungen",
+      "items": [
+       "Du kannst jetzt auch {up:öffne} schreiben, um etwas zu öffnen.",
+       "Der Weber schläft weniger und sagt es, wenn er schläft.",
+       "Kreaturenbeschreibungen lesen sich besser.",
+       "Webstühle, Gerberei, Destillierkolben und Hobelbank haben ihren Knopf im Raum, und wer fern von ihnen herstellt, erfährt, wohin.",
+       "Eine Zweihandwaffe erscheint im Inventar auch im Platz der Nebenhand."
+      ]
+     },
+     {
+      "title": "Fehlerbehebungen",
+      "items": [
+       "Deine Manaleiste füllt das gerade verbrauchte Mana nicht mehr auf.",
+       "Salzstein und wilder Flachs lassen sich jetzt sammeln und haben ihr Bild.",
+       "„öffnen“ scheitert nicht mehr ohne Grund, und die Brettertür in Pollis Stall geht auf.",
+       "Fähigkeiten verlieren ihr Symbol nicht mehr.",
+       "Der Raumtext klebt nicht mehr am Rand und wird auf 4:3-Bildschirmen nicht mehr abgeschnitten.",
+       "„Status: Verbunden“ erscheint in deiner Sprache.",
+       "Odalia „Rótulo“ und der Händler haben ein eigenes Porträt."
+      ]
+     }
+    ]
+   },
+   "it": {
+    "highlight": "Seguire altri giocatori, parlare fuori dal ruolo e la Quarta Ora",
+    "sections": [
+     {
+      "title": "Novità",
+      "items": [
+       "{up:seguire <nome>}: segui i passi di un altro giocatore.",
+       "Il tuo gruppo appare sulla mappa grande.",
+       "Sulla mappa grande si vede molto meglio dove sei.",
+       "Inizia una riga con {up://} per parlare fuori dal ruolo.",
+       "Nuova pagina della wiki: «Come giocare di ruolo».",
+       "La Quarta Ora ora ha le sue scene."
+      ]
+     },
+     {
+      "title": "Modifiche",
+      "items": [
+       "Ora puoi scrivere {up:apri} per aprire.",
+       "Il Tessitore dorme meno, e quando dorme lo dice.",
+       "Le descrizioni delle creature si leggono meglio.",
+       "Telai, conceria, alambicco e banco da falegname hanno il loro pulsante nella stanza, e fabbricare lontano da essi ti dice dove andare.",
+       "Un'arma a due mani si vede anche nello spazio della mano secondaria dell'inventario."
+      ]
+     },
+     {
+      "title": "Correzioni",
+      "items": [
+       "La tua barra del mana non recupera più il mana appena speso.",
+       "La pietra di sale e il lino selvatico ora si raccolgono e hanno la loro immagine.",
+       "«aprire» non fallisce più senza motivo, e la porta di assi della stalla di Polli si apre.",
+       "Le abilità non perdono più la loro icona.",
+       "Il testo della stanza non è più attaccato al bordo né tagliato sugli schermi 4:3.",
+       "«Stato: Connesso» appare nella tua lingua.",
+       "Odalia «Rótulo» e il Mercante generale hanno un ritratto tutto loro."
+      ]
+     }
+    ]
+   },
+   "pt": {
+    "highlight": "Seguir outros jogadores, falar fora da personagem e a Quarta Hora",
+    "sections": [
+     {
+      "title": "Novidades",
+      "items": [
+       "{up:seguir <nome>}: vai atrás dos passos de outro jogador.",
+       "O teu grupo aparece no mapa grande.",
+       "No mapa grande vê-se muito melhor onde estás.",
+       "Começa uma linha com {up://} para falar fora da personagem.",
+       "Nova página na wiki: «Como fazer roleplay».",
+       "A Quarta Hora tem agora as suas próprias cenas."
+      ]
+     },
+     {
+      "title": "Alterações",
+      "items": [
+       "Já podes escrever {up:abre} para abrir.",
+       "O Tecelão dorme menos, e quando dorme di-lo.",
+       "As descrições das criaturas leem-se melhor.",
+       "Os teares, o curtume, o alambique e a bancada de carpinteiro têm o seu botão na sala, e fabricar longe deles diz-te aonde ir.",
+       "Uma arma de duas mãos aparece também no espaço da mão secundária do inventário."
+      ]
+     },
+     {
+      "title": "Correções",
+      "items": [
+       "A tua barra de mana já não recupera o mana que acabaste de gastar.",
+       "A pedra de sal e o linho silvestre já se podem recolher e têm imagem.",
+       "«abrir» já não falha sem motivo, e a porta de tábuas do estábulo de Polli abre-se.",
+       "As habilidades já não perdem o seu ícone.",
+       "O texto da sala já não fica colado à borda nem é cortado em ecrãs 4:3.",
+       "«Estado: Ligado» aparece na tua língua.",
+       "Odalia «Rótulo» e o Mercador geral têm retrato próprio."
+      ]
+     }
+    ]
+   }
+  }
+ },
+ {
   "version": "0.0.2.18",
   "date": "2026-10-13",
   "notes": {

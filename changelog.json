@@ -1,5 +1,203 @@
 [
  {
+  "version": "0.0.2.20",
+  "date": "2026-10-14",
+  "notes": {
+   "es": {
+    "highlight": "Nuevas cinemáticas y arreglos en los oficios",
+    "sections": [
+     {
+      "title": "Novedades",
+      "items": [
+       "Cinemáticas nuevas en La Ruina.",
+       "Cinemática para la misión de Nera.",
+       "Cinemática para la misión del sargento Brum.",
+       "Cuando un dios te destierra, ahora se nota.",
+       "En las cinemáticas, un clic completa la línea y otro pasa a la siguiente."
+      ]
+     },
+     {
+      "title": "Cambios",
+      "items": [
+       "Nuevo retrato para la orca guerrera.",
+       "Un viejo enemigo estrena retrato.",
+       "Encontrar una pista ya no te deja quieto unos segundos."
+      ]
+     },
+     {
+      "title": "Correcciones",
+      "items": [
+       "El primer nudo del telar y la primera puntada del peletero ya se pueden acertar.",
+       "Puedes cambiarte una pieza equipada aunque lleves la mochila llena.",
+       "Los avisos de tu dios salen en tu idioma.",
+       "Nera ya no se va de la pelea a mitad del combate."
+      ]
+     }
+    ]
+   },
+   "en": {
+    "highlight": "New cinematics and crafting fixes",
+    "sections": [
+     {
+      "title": "New",
+      "items": [
+       "New cinematics in The Ruin.",
+       "A cinematic for Nera's quest.",
+       "A cinematic for Sergeant Brum's quest.",
+       "When a god casts you out, you'll feel it now.",
+       "In cinematics, one click finishes the line and another moves to the next."
+      ]
+     },
+     {
+      "title": "Changes",
+      "items": [
+       "New portrait for the female orc warrior.",
+       "An old enemy has a new portrait.",
+       "Finding a clue no longer freezes you for a few seconds."
+      ]
+     },
+     {
+      "title": "Fixes",
+      "items": [
+       "The loom's first knot and the tanner's first stitch can now be hit.",
+       "You can swap an equipped piece even with a full pack.",
+       "Your god's warnings show in your language.",
+       "Nera no longer leaves in the middle of the fight."
+      ]
+     }
+    ]
+   },
+   "fr": {
+    "highlight": "Nouvelles cinématiques et corrections dans les métiers",
+    "sections": [
+     {
+      "title": "Nouveautés",
+      "items": [
+       "Nouvelles cinématiques dans la Ruine.",
+       "Une cinématique pour la quête de Nera.",
+       "Une cinématique pour la quête du sergent Brum.",
+       "Quand un dieu vous bannit, cela se voit désormais.",
+       "Dans les cinématiques, un clic termine la ligne et un autre passe à la suivante."
+      ]
+     },
+     {
+      "title": "Changements",
+      "items": [
+       "Nouveau portrait pour la guerrière orque.",
+       "Un vieil ennemi change de portrait.",
+       "Trouver un indice ne vous immobilise plus quelques secondes."
+      ]
+     },
+     {
+      "title": "Corrections",
+      "items": [
+       "Le premier nœud du métier à tisser et le premier point du pelletier peuvent enfin être réussis.",
+       "Vous pouvez changer une pièce équipée même avec le sac plein.",
+       "Les avertissements de votre dieu s'affichent dans votre langue.",
+       "Nera ne quitte plus le combat en plein milieu."
+      ]
+     }
+    ]
+   },
+   "de": {
+    "highlight": "Neue Zwischensequenzen und Korrekturen bei den Handwerken",
+    "sections": [
+     {
+      "title": "Neu",
+      "items": [
+       "Neue Zwischensequenzen in der Ruine.",
+       "Eine Zwischensequenz für Neras Quest.",
+       "Eine Zwischensequenz für die Quest von Feldwebel Brum.",
+       "Wenn dich ein Gott verstößt, spürst du es jetzt.",
+       "In Zwischensequenzen vervollständigt ein Klick die Zeile, ein weiterer springt zur nächsten."
+      ]
+     },
+     {
+      "title": "Änderungen",
+      "items": [
+       "Neues Porträt für die Ork-Kriegerin.",
+       "Ein alter Feind hat ein neues Porträt.",
+       "Einen Hinweis zu finden, hält dich nicht mehr ein paar Sekunden fest."
+      ]
+     },
+     {
+      "title": "Fehlerbehebungen",
+      "items": [
+       "Der erste Knoten am Webstuhl und der erste Stich beim Kürschner lassen sich jetzt treffen.",
+       "Du kannst ein angelegtes Teil auch mit vollem Rucksack tauschen.",
+       "Die Warnungen deines Gottes erscheinen in deiner Sprache.",
+       "Nera verlässt den Kampf nicht mehr mittendrin."
+      ]
+     }
+    ]
+   },
+   "it": {
+    "highlight": "Nuove cinematiche e correzioni nei mestieri",
+    "sections": [
+     {
+      "title": "Novità",
+      "items": [
+       "Nuove cinematiche nella Rovina.",
+       "Una cinematica per la missione di Nera.",
+       "Una cinematica per la missione del sergente Brum.",
+       "Quando un dio ti esilia, ora si sente.",
+       "Nelle cinematiche, un clic completa la riga e un altro passa alla successiva."
+      ]
+     },
+     {
+      "title": "Modifiche",
+      "items": [
+       "Nuovo ritratto per la guerriera orca.",
+       "Un vecchio nemico ha un nuovo ritratto.",
+       "Trovare un indizio non ti blocca più per qualche secondo."
+      ]
+     },
+     {
+      "title": "Correzioni",
+      "items": [
+       "Il primo nodo del telaio e il primo punto del pellicciaio ora si possono azzeccare.",
+       "Puoi cambiare un pezzo equipaggiato anche con lo zaino pieno.",
+       "Gli avvisi del tuo dio compaiono nella tua lingua.",
+       "Nera non abbandona più lo scontro a metà."
+      ]
+     }
+    ]
+   },
+   "pt": {
+    "highlight": "Novas cinemáticas e correções nos ofícios",
+    "sections": [
+     {
+      "title": "Novidades",
+      "items": [
+       "Novas cinemáticas na Ruína.",
+       "Uma cinemática para a missão de Nera.",
+       "Uma cinemática para a missão do sargento Brum.",
+       "Quando um deus te desterra, agora nota-se.",
+       "Nas cinemáticas, um clique completa a linha e outro passa à seguinte."
+      ]
+     },
+     {
+      "title": "Alterações",
+      "items": [
+       "Novo retrato para a guerreira orc.",
+       "Um velho inimigo estreia retrato.",
+       "Encontrar uma pista já não te deixa parado uns segundos."
+      ]
+     },
+     {
+      "title": "Correções",
+      "items": [
+       "O primeiro nó do tear e o primeiro ponto do peleiro já se podem acertar.",
+       "Podes trocar uma peça equipada mesmo com a mochila cheia.",
+       "Os avisos do teu deus aparecem na tua língua.",
+       "Nera já não sai do combate a meio."
+      ]
+     }
+    ]
+   }
+  }
+ },
+ {
   "version": "0.0.2.19",
   "date": "2026-10-13",
   "notes": {

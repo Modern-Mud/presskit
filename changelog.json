@@ -1,5 +1,203 @@
 [
  {
+  "version": "0.0.2.22",
+  "date": "2026-10-16",
+  "notes": {
+   "es": {
+    "highlight": "Rumbo a {up:Veralam}: ya se puede salir de Shadi Vanam",
+    "sections": [
+     {
+      "title": "Novedades",
+      "items": [
+       "Un barco zarpa de Shadi Vanam rumbo a {up:Veralam}, la isla de Midas Mohn.",
+       "Por ahora solo llegas a su puerto: el contenido de Veralam llegará en próximos parches.",
+       "Nueva cinemática para tu primera llegada.",
+       "Veralam aparece en el mapa del mundo, y se ve el barco navegar."
+      ]
+     },
+     {
+      "title": "Cambios",
+      "items": [
+       "Las habilidades cuestan un {up:porcentaje} de tu maná o aguante: subir de nivel ya no las abarata.",
+       "El maná y el aguante se recuperan más despacio: sentarse, beber y las pociones vuelven a importar.",
+       "El guerrero recupera aguante más rápido fuera de combate.",
+       "Las bebidas devuelven un porcentaje de tu maná, así que sirven a cualquier nivel.",
+       "Seguir a alguien ya no se corta al luchar, saquear o cambiarte el equipo."
+      ]
+     },
+     {
+      "title": "Correcciones",
+      "items": [
+       "Quien te sigue ya va detrás al salir de un edificio, al huir y en los traslados.",
+       "El tónico de aguante ya funciona fuera de combate.",
+       "El aviso de que te falta maná o aguante ya sale en tu idioma."
+      ]
+     }
+    ]
+   },
+   "en": {
+    "highlight": "Set sail for {up:Veralam}: you can now leave Shadi Vanam",
+    "sections": [
+     {
+      "title": "New",
+      "items": [
+       "A ship now sails from Shadi Vanam to {up:Veralam}, the island of Midas Mohn.",
+       "For now you can only reach its harbour: Veralam's content will come in future patches.",
+       "A new cutscene for your first arrival.",
+       "Veralam appears on the world map, and you can watch the ship sail."
+      ]
+     },
+     {
+      "title": "Changes",
+      "items": [
+       "Skills cost a {up:percentage} of your mana or stamina: levelling up no longer makes them cheaper.",
+       "Mana and stamina recover more slowly: sitting, drinking and potions matter again.",
+       "Warriors recover stamina faster out of combat.",
+       "Drinks restore a percentage of your mana, so they stay useful at any level.",
+       "Following someone no longer stops when you fight, loot or change your gear."
+      ]
+     },
+     {
+      "title": "Fixes",
+      "items": [
+       "Your follower now comes along when you leave a building, flee or are moved.",
+       "The stamina tonic now works out of combat.",
+       "The not-enough-mana or stamina warning now shows in your language."
+      ]
+     }
+    ]
+   },
+   "fr": {
+    "highlight": "Cap sur {up:Veralam} : on peut enfin quitter Shadi Vanam",
+    "sections": [
+     {
+      "title": "Nouveautés",
+      "items": [
+       "Un navire part de Shadi Vanam vers {up:Veralam}, l'île de Midas Mohn.",
+       "Pour l'instant, tu ne peux atteindre que son port : le contenu de Veralam arrivera dans de prochains patchs.",
+       "Nouvelle cinématique pour ta première arrivée.",
+       "Veralam apparaît sur la carte du monde, et l'on voit le navire voguer."
+      ]
+     },
+     {
+      "title": "Changements",
+      "items": [
+       "Les compétences coûtent un {up:pourcentage} de ton mana ou de ton endurance : monter de niveau ne les rend plus moins chères.",
+       "Le mana et l'endurance se régénèrent plus lentement : s'asseoir, boire et les potions comptent à nouveau.",
+       "Le guerrier récupère son endurance plus vite hors combat.",
+       "Les boissons rendent un pourcentage de ton mana, elles restent donc utiles à tout niveau.",
+       "Suivre quelqu'un ne s'interrompt plus quand tu combats, fouilles un corps ou changes d'équipement."
+      ]
+     },
+     {
+      "title": "Corrections",
+      "items": [
+       "Celui qui te suit t'accompagne désormais quand tu sors d'un bâtiment, fuis ou es déplacé.",
+       "Le tonique d'endurance fonctionne désormais hors combat.",
+       "L'avertissement de mana ou d'endurance insuffisants s'affiche désormais dans ta langue."
+      ]
+     }
+    ]
+   },
+   "de": {
+    "highlight": "Kurs auf {up:Veralam}: Du kannst Shadi Vanam jetzt verlassen",
+    "sections": [
+     {
+      "title": "Neu",
+      "items": [
+       "Ein Schiff segelt von Shadi Vanam nach {up:Veralam}, der Insel von Midas Mohn.",
+       "Vorerst erreichst du nur den Hafen: Die Inhalte von Veralam folgen in kommenden Patches.",
+       "Eine neue Zwischensequenz für deine erste Ankunft.",
+       "Veralam erscheint auf der Weltkarte, und man sieht das Schiff segeln."
+      ]
+     },
+     {
+      "title": "Änderungen",
+      "items": [
+       "Fähigkeiten kosten einen {up:Prozentsatz} deines Manas oder deiner Ausdauer: Stufenaufstiege machen sie nicht mehr billiger.",
+       "Mana und Ausdauer regenerieren langsamer: Sitzen, Trinken und Tränke zählen wieder.",
+       "Krieger regenerieren Ausdauer außerhalb des Kampfes schneller.",
+       "Getränke stellen einen Prozentsatz deines Manas wieder her und bleiben so auf jeder Stufe nützlich.",
+       "Jemandem zu folgen endet nicht mehr, wenn du kämpfst, plünderst oder deine Ausrüstung wechselst."
+      ]
+     },
+     {
+      "title": "Fehlerbehebungen",
+      "items": [
+       "Wer dir folgt, kommt jetzt mit, wenn du ein Gebäude verlässt, fliehst oder versetzt wirst.",
+       "Das Ausdauertonikum wirkt jetzt auch außerhalb des Kampfes.",
+       "Die Warnung bei zu wenig Mana oder Ausdauer erscheint jetzt in deiner Sprache."
+      ]
+     }
+    ]
+   },
+   "it": {
+    "highlight": "Rotta su {up:Veralam}: ora puoi lasciare Shadi Vanam",
+    "sections": [
+     {
+      "title": "Novità",
+      "items": [
+       "Una nave salpa da Shadi Vanam verso {up:Veralam}, l'isola di Midas Mohn.",
+       "Per ora puoi raggiungere solo il porto: i contenuti di Veralam arriveranno nelle prossime patch.",
+       "Nuova scena per il tuo primo arrivo.",
+       "Veralam compare sulla mappa del mondo, e si vede la nave navigare."
+      ]
+     },
+     {
+      "title": "Modifiche",
+      "items": [
+       "Le abilità costano una {up:percentuale} del tuo mana o della tua resistenza: salire di livello non le rende più economiche.",
+       "Mana e resistenza si recuperano più lentamente: sedersi, bere e le pozioni tornano a contare.",
+       "Il guerriero recupera resistenza più in fretta fuori dal combattimento.",
+       "Le bevande ripristinano una percentuale del tuo mana, così servono a ogni livello.",
+       "Seguire qualcuno non si interrompe più quando combatti, saccheggi o cambi equipaggiamento."
+      ]
+     },
+     {
+      "title": "Correzioni",
+      "items": [
+       "Chi ti segue ora viene con te quando esci da un edificio, fuggi o vieni spostato.",
+       "Il tonico di resistenza ora funziona fuori dal combattimento.",
+       "L'avviso di mana o resistenza insufficienti ora compare nella tua lingua."
+      ]
+     }
+    ]
+   },
+   "pt": {
+    "highlight": "Rumo a {up:Veralam}: já é possível sair de Shadi Vanam",
+    "sections": [
+     {
+      "title": "Novidades",
+      "items": [
+       "Um navio parte de Shadi Vanam rumo a {up:Veralam}, a ilha de Midas Mohn.",
+       "Por agora só chegas ao porto: o conteúdo de Veralam chegará em próximas atualizações.",
+       "Nova cinemática para a tua primeira chegada.",
+       "Veralam aparece no mapa do mundo, e vê-se o navio a navegar."
+      ]
+     },
+     {
+      "title": "Alterações",
+      "items": [
+       "As habilidades custam uma {up:percentagem} do teu mana ou vigor: subir de nível já não as torna mais baratas.",
+       "O mana e o vigor recuperam mais devagar: sentar, beber e as poções voltam a importar.",
+       "O guerreiro recupera vigor mais depressa fora de combate.",
+       "As bebidas devolvem uma percentagem do teu mana, por isso servem a qualquer nível.",
+       "Seguir alguém já não é interrompido quando lutas, saqueias ou trocas de equipamento."
+      ]
+     },
+     {
+      "title": "Correções",
+      "items": [
+       "Quem te segue agora acompanha-te ao sair de um edifício, ao fugir e nas deslocações.",
+       "O tónico de vigor já funciona fora de combate.",
+       "O aviso de falta de mana ou vigor já aparece no teu idioma."
+      ]
+     }
+    ]
+   }
+  }
+ },
+ {
   "version": "0.0.2.21",
   "date": "2026-10-16",
   "notes": {

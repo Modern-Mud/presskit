@@ -804,7 +804,7 @@ p { text-wrap: pretty; }
 
 /* ---------- Roadmap ----------
    A path down the page: one gold line, a node per stage, the items as an
-   open grid (no boxes), then Midash Mohn as a full-bleed vista. */
+   open grid (no boxes), then Midas Mohn as a full-bleed vista. */
 .roadmap {
   position: relative;
   padding: clamp(5rem, 11vw, 9rem) 0 2rem;
@@ -902,7 +902,7 @@ p { text-wrap: pretty; }
   .stage-mark { left: -2rem; }
 }
 
-/* Midash Mohn: the city on the cover, as a vista. */
+/* Midas Mohn: the city on the cover, as a vista. */
 .horizon { position: relative; margin-top: clamp(5rem, 10vw, 8rem); padding: clamp(4rem, 9vw, 7rem) 0; isolation: isolate; }
 .horizon-art { position: absolute; inset: 0; z-index: -1; overflow: hidden; }
 .horizon-art img { width: 100%; height: 100%; object-fit: cover; object-position: 50% 30%; image-rendering: pixelated; }

@@ -1,5 +1,299 @@
 [
  {
+  "version": "0.0.2.21",
+  "date": "2026-10-16",
+  "notes": {
+   "es": {
+    "highlight": "Rework de objetos: {up:335} en total, y atajos de teclado",
+    "sections": [
+     {
+      "title": "Novedades",
+      "items": [
+       "Todos los objetos rehechos: cada clase tiene equipo {up:del nivel 1 al 8}, con armas, armaduras y accesorios.",
+       "Nuevos sets de armaduras.",
+       "La armadura ahora {up:reduce el daño} que te hacen.",
+       "Ahora el telar especial sirve para algo.",
+       "Nuevos platos, y cada receta te dice qué efecto tendrá antes de cocinar.",
+       "Nuevos enemigos en la Cueva del Esqueleto Risueño.",
+       "Nueva cinemática para un secreto.",
+       "Enlaza objetos en el chat con {up:Mayús+clic}: cada uno los lee en su idioma.",
+       "Atajos de teclado en {up:Opciones ▸ Teclado}.",
+       "En combate en grupo se ve a quién ataca cada aliado.",
+       "El {up:Carisma}, la {up:Inteligencia} y la {up:Sabiduría} ahora pesan más fuera del combate."
+      ]
+     },
+     {
+      "title": "Cambios",
+      "items": [
+       "Todo el equipo se ha reequilibrado; lo que ya tienes se actualiza solo.",
+       "Solo queda un {epic:objeto épico}, para que lo épico tenga valor de verdad.",
+       "Las obras maestras ahora son raras y llevan su propio sello.",
+       "El telar y el fogón te guían más, pero lo mejor sigue costando.",
+       "Si un instructor muere, otro enseña su oficio.",
+       "Ulda ahora vende roble.",
+       "El pan sube de precio.",
+       "«Defensa» pasa a llamarse {up:CA}.",
+       "La casa del Cojo pasa a llamarse {up:La casa de Coj}.",
+       "Parpadeo ya no te salva de un golpe mortal."
+      ]
+     },
+     {
+      "title": "Correcciones",
+      "items": [
+       "El instructor de sastrería ya no habla de yunques ni de herrería.",
+       "Curtir en la Calle del Granero ya no abre la cocina.",
+       "Ordenar junta los montones del mismo objeto.",
+       "La barra espaciadora funciona en las ventanas de oficio aunque el chat tenga el foco.",
+       "Algunas cabezas cortadas ya no muestran un número en vez de su nombre.",
+       "El comando {up:girar} ya funciona correctamente.",
+       "El Saco de la trama antigua ya se puede aprender."
+      ]
+     }
+    ]
+   },
+   "en": {
+    "highlight": "Item rework: {up:335} items in total, and keyboard shortcuts",
+    "sections": [
+     {
+      "title": "New",
+      "items": [
+       "Every item remade: each class has gear {up:from level 1 to 8}, with weapons, armour and accessories.",
+       "New armour sets.",
+       "Armour now {up:reduces the damage} you take.",
+       "The special loom is now good for something.",
+       "New dishes, and every recipe tells you its effect before you cook.",
+       "New enemies in the Cave of the Laughing Skeleton.",
+       "A new cinematic for a secret.",
+       "Link items in chat with {up:Shift+click}: everyone reads them in their own language.",
+       "Keyboard shortcuts in {up:Options ▸ Keyboard}.",
+       "In group combat you can see who each ally is attacking.",
+       "{up:Charisma}, {up:Intelligence} and {up:Wisdom} now matter more outside combat."
+      ]
+     },
+     {
+      "title": "Changes",
+      "items": [
+       "All gear has been rebalanced; what you already own updates itself.",
+       "Only one {epic:epic item} remains, so that epic truly means something.",
+       "Masterworks are now rare and carry their own seal.",
+       "The loom and the stove guide you more, but the best results still take skill.",
+       "If a trainer dies, someone else teaches their trade.",
+       "Ulda now sells oak.",
+       "Bread costs more.",
+       "“Defence” is now called {up:AC}.",
+       "The Cripple's house is now called {up:Coj's House}.",
+       "Blink no longer saves you from a killing blow."
+      ]
+     },
+     {
+      "title": "Fixes",
+      "items": [
+       "The tailoring trainer no longer talks about anvils or blacksmithing.",
+       "Tanning in Granary Street no longer opens the kitchen.",
+       "Sort now merges stacks of the same item.",
+       "The space bar works in crafting windows even when the chat has focus.",
+       "Some severed heads no longer show a number instead of their name.",
+       "The {up:turn} command now works properly.",
+       "The Old-Weave Sack can now be learned."
+      ]
+     }
+    ]
+   },
+   "fr": {
+    "highlight": "Refonte des objets : {up:335} au total, et raccourcis clavier",
+    "sections": [
+     {
+      "title": "Nouveautés",
+      "items": [
+       "Tous les objets refaits : chaque classe a de l'équipement {up:du niveau 1 au 8}, avec armes, armures et accessoires.",
+       "Nouveaux ensembles d'armures.",
+       "L'armure {up:réduit désormais les dégâts} que tu subis.",
+       "Le métier à tisser spécial sert enfin à quelque chose.",
+       "Nouveaux plats, et chaque recette indique son effet avant de cuisiner.",
+       "Nouveaux ennemis dans la Grotte du Squelette Rieur.",
+       "Une nouvelle cinématique pour un secret.",
+       "Lie des objets dans le chat avec {up:Maj+clic} : chacun les lit dans sa langue.",
+       "Raccourcis clavier dans {up:Options ▸ Clavier}.",
+       "En combat de groupe, on voit qui chaque allié attaque.",
+       "Le {up:Charisme}, l'{up:Intelligence} et la {up:Sagesse} comptent davantage hors combat."
+      ]
+     },
+     {
+      "title": "Changements",
+      "items": [
+       "Tout l'équipement a été rééquilibré ; ce que tu possèdes se met à jour tout seul.",
+       "Il ne reste qu'un seul {epic:objet épique}, pour que l'épique ait une vraie valeur.",
+       "Les chefs-d'œuvre sont désormais rares et portent leur propre sceau.",
+       "Le métier à tisser et le fourneau te guident davantage, mais le meilleur se mérite toujours.",
+       "Si un maître meurt, quelqu'un d'autre enseigne son métier.",
+       "Ulda vend désormais du chêne.",
+       "Le pain coûte plus cher.",
+       "« Défense » s'appelle désormais {up:CA}.",
+       "La maison du Boiteux s'appelle désormais {up:La maison de Coj}.",
+       "Clignement ne te sauve plus d'un coup mortel."
+      ]
+     },
+     {
+      "title": "Corrections",
+      "items": [
+       "Le maître couturier ne parle plus d'enclumes ni de forge.",
+       "Tanner dans la Rue du Grenier n'ouvre plus la cuisine.",
+       "Trier regroupe les piles du même objet.",
+       "La barre d'espace fonctionne dans les fenêtres de métier même quand le chat a le focus.",
+       "Certaines têtes tranchées n'affichent plus un numéro à la place de leur nom.",
+       "La commande {up:tourner} fonctionne désormais correctement.",
+       "Le Sac à la vieille trame peut désormais être appris."
+      ]
+     }
+    ]
+   },
+   "de": {
+    "highlight": "Überarbeitung der Gegenstände: {up:335} insgesamt, und Tastenkürzel",
+    "sections": [
+     {
+      "title": "Neu",
+      "items": [
+       "Alle Gegenstände überarbeitet: Jede Klasse hat Ausrüstung {up:von Stufe 1 bis 8}, mit Waffen, Rüstungen und Zubehör.",
+       "Neue Rüstungssets.",
+       "Rüstung {up:verringert jetzt den Schaden}, den du erleidest.",
+       "Der besondere Webstuhl ist jetzt zu etwas gut.",
+       "Neue Gerichte, und jedes Rezept zeigt seine Wirkung vor dem Kochen.",
+       "Neue Gegner in der Höhle des Lachenden Skeletts.",
+       "Eine neue Zwischensequenz für ein Geheimnis.",
+       "Verlinke Gegenstände im Chat mit {up:Umschalt+Klick}: Jeder liest sie in seiner Sprache.",
+       "Tastenkürzel unter {up:Optionen ▸ Tastatur}.",
+       "Im Gruppenkampf siehst du, wen jeder Verbündete angreift.",
+       "{up:Charisma}, {up:Intelligenz} und {up:Weisheit} zählen außerhalb des Kampfes jetzt mehr."
+      ]
+     },
+     {
+      "title": "Änderungen",
+      "items": [
+       "Die gesamte Ausrüstung wurde neu ausbalanciert; was du schon besitzt, aktualisiert sich von selbst.",
+       "Es bleibt nur ein {epic:epischer Gegenstand}, damit Episches wirklich etwas wert ist.",
+       "Meisterwerke sind jetzt selten und tragen ihr eigenes Siegel.",
+       "Webstuhl und Herd leiten dich besser an, doch das Beste bleibt schwer.",
+       "Stirbt ein Lehrmeister, lehrt jemand anderes sein Handwerk.",
+       "Ulda verkauft jetzt Eichenholz.",
+       "Brot wird teurer.",
+       "„Verteidigung“ heißt jetzt {up:RK}.",
+       "Das Haus des Hinkenden heißt jetzt {up:Cojs Haus}.",
+       "Blinzeln rettet dich nicht mehr vor einem tödlichen Treffer."
+      ]
+     },
+     {
+      "title": "Fehlerbehebungen",
+      "items": [
+       "Der Schneiderlehrer spricht nicht mehr von Ambossen oder Schmiedekunst.",
+       "Gerben in der Speicherstraße öffnet nicht mehr die Küche.",
+       "Sortieren fasst Stapel desselben Gegenstands zusammen.",
+       "Die Leertaste funktioniert in Handwerksfenstern, auch wenn der Chat den Fokus hat.",
+       "Manche abgetrennten Köpfe zeigen keine Nummer mehr statt ihres Namens.",
+       "Der Befehl {up:drehen} funktioniert jetzt richtig.",
+       "Der Sack der alten Webart lässt sich jetzt erlernen."
+      ]
+     }
+    ]
+   },
+   "it": {
+    "highlight": "Rework degli oggetti: {up:335} in totale, e scorciatoie da tastiera",
+    "sections": [
+     {
+      "title": "Novità",
+      "items": [
+       "Tutti gli oggetti rifatti: ogni classe ha equipaggiamento {up:dal livello 1 all'8}, con armi, armature e accessori.",
+       "Nuovi set di armature.",
+       "L'armatura ora {up:riduce i danni} che subisci.",
+       "Ora il telaio speciale serve a qualcosa.",
+       "Nuovi piatti, e ogni ricetta ti dice il suo effetto prima di cucinare.",
+       "Nuovi nemici nella Grotta dello Scheletro Ridente.",
+       "Una nuova cinematica per un segreto.",
+       "Collega oggetti in chat con {up:Maiusc+clic}: ognuno li legge nella propria lingua.",
+       "Scorciatoie da tastiera in {up:Opzioni ▸ Tastiera}.",
+       "Nel combattimento di gruppo vedi chi attacca ogni alleato.",
+       "{up:Carisma}, {up:Intelligenza} e {up:Saggezza} ora contano di più fuori dal combattimento."
+      ]
+     },
+     {
+      "title": "Modifiche",
+      "items": [
+       "Tutto l'equipaggiamento è stato ribilanciato; ciò che hai già si aggiorna da solo.",
+       "Resta un solo {epic:oggetto epico}, perché l'epico abbia un valore vero.",
+       "I capolavori ora sono rari e portano il loro sigillo.",
+       "Il telaio e il fornello ti guidano di più, ma il meglio costa ancora fatica.",
+       "Se un maestro muore, qualcun altro insegna il suo mestiere.",
+       "Ulda ora vende quercia.",
+       "Il pane costa di più.",
+       "«Difesa» ora si chiama {up:CA}.",
+       "La casa dello Zoppo ora si chiama {up:La casa di Coj}.",
+       "Battito di ciglia non ti salva più da un colpo mortale."
+      ]
+     },
+     {
+      "title": "Correzioni",
+      "items": [
+       "Il maestro di sartoria non parla più di incudini né di forgiatura.",
+       "Conciare in Via del Granaio non apre più la cucina.",
+       "Ordina unisce le pile dello stesso oggetto.",
+       "La barra spaziatrice funziona nelle finestre dei mestieri anche quando la chat ha il focus.",
+       "Alcune teste mozzate non mostrano più un numero al posto del nome.",
+       "Il comando {up:girare} ora funziona correttamente.",
+       "Il Sacco dell'antica trama ora si può imparare."
+      ]
+     }
+    ]
+   },
+   "pt": {
+    "highlight": "Rework dos objetos: {up:335} no total, e atalhos de teclado",
+    "sections": [
+     {
+      "title": "Novidades",
+      "items": [
+       "Todos os objetos refeitos: cada classe tem equipamento {up:do nível 1 ao 8}, com armas, armaduras e acessórios.",
+       "Novos conjuntos de armaduras.",
+       "A armadura agora {up:reduz o dano} que sofres.",
+       "Agora o tear especial serve para alguma coisa.",
+       "Novos pratos, e cada receita diz-te o efeito antes de cozinhares.",
+       "Novos inimigos na Gruta do Esqueleto Risonho.",
+       "Uma nova cinemática para um segredo.",
+       "Liga objetos no chat com {up:Shift+clique}: cada um lê-os na sua língua.",
+       "Atalhos de teclado em {up:Opções ▸ Teclado}.",
+       "No combate em grupo vês quem cada aliado está a atacar.",
+       "O {up:Carisma}, a {up:Inteligência} e a {up:Sabedoria} contam mais fora do combate."
+      ]
+     },
+     {
+      "title": "Alterações",
+      "items": [
+       "Todo o equipamento foi reequilibrado; o que já tens atualiza-se sozinho.",
+       "Só resta um {epic:objeto épico}, para que o épico tenha valor a sério.",
+       "As obras-primas agora são raras e têm o seu próprio selo.",
+       "O tear e o fogão guiam-te mais, mas o melhor continua a custar.",
+       "Se um mestre morrer, outro ensina o seu ofício.",
+       "A Ulda agora vende carvalho.",
+       "O pão fica mais caro.",
+       "«Defesa» passa a chamar-se {up:CA}.",
+       "A casa do Coxo passa a chamar-se {up:A casa do Coj}.",
+       "Piscar já não te salva de um golpe mortal."
+      ]
+     },
+     {
+      "title": "Correções",
+      "items": [
+       "O mestre de alfaiataria já não fala de bigornas nem de ferraria.",
+       "Curtir na Rua do Celeiro já não abre a cozinha.",
+       "Ordenar junta as pilhas do mesmo objeto.",
+       "A barra de espaço funciona nas janelas de ofício mesmo com o chat em foco.",
+       "Algumas cabeças decepadas já não mostram um número em vez do nome.",
+       "O comando {up:rodar} já funciona corretamente.",
+       "O Saco da trama antiga já se pode aprender."
+      ]
+     }
+    ]
+   }
+  }
+ },
+ {
   "version": "0.0.2.20",
   "date": "2026-10-14",
   "notes": {

@@ -1,5 +1,233 @@
 [
  {
+  "version": "0.0.2.23",
+  "date": "2026-10-17",
+  "notes": {
+   "es": {
+    "highlight": "Un combate más claro: muévete con un clic y lleva tus pociones a una tecla",
+    "sections": [
+     {
+      "title": "Novedades",
+      "items": [
+       "Moverse y huir en combate es mucho más claro: haz clic en una sala o usa las teclas. En Opciones puedes elegir una rosa de direcciones.",
+       "Cuatro {up:ranuras de consumibles} que eliges tú: pociones y remedios a una tecla, en combate y fuera de él. Los elixires también caben, pero solo se toman fuera de combate.",
+       "En combate ves tus estados junto a tu retrato: elixires, comida, venenos, sangrados y más.",
+       "El registro de combate se abre aparte, con su botón al terminar la pelea.",
+       "El telar de sastrería se teje de otra forma: elige la bobina del color que pide el dibujo.",
+       "La casa de Xaina abre su puerta al Callejón de los Charcos y aparece en el mapa como {up:Herbolario}."
+      ]
+     },
+     {
+      "title": "Cambios",
+      "items": [
+       "El aguante y el maná se recuperan mucho más rápido fuera de combate, y aún más si te sientas.",
+       "Las bestias que evolucionan tienen un límite: un solo rey de cada especie en la isla.",
+       "«El esqueleto que ríe» indica su nivel recomendado.",
+       "Las bestias más grandes ya no rondan la entrada de cierta cueva."
+      ]
+     },
+     {
+      "title": "Correcciones",
+      "items": [
+       "La casa de los guardias ya se puede entrar de noche.",
+       "Las criaturas ya no te descubren en sigilo sin una tirada, y si te ven, sales de las sombras.",
+       "Llevar una antorcha ya no delata tu nombre a quien no te ha visto.",
+       "El aviso de peligro también sale con enemigos mucho más fuertes que tú.",
+       "Enterrar, comer o beber ya no cortan el seguimiento.",
+       "Un remedio cura aunque tengas la vida llena.",
+       "Un diálogo que salía en español en otros idiomas."
+      ]
+     }
+    ]
+   },
+   "en": {
+    "highlight": "Clearer combat: move with a click and keep your potions one key away",
+    "sections": [
+     {
+      "title": "New",
+      "items": [
+       "Moving and fleeing in combat is much clearer: click a room or use the keys. In Options you can choose a compass rose instead.",
+       "Four {up:consumable slots} of your choice: potions and remedies on a single key, in and out of combat. Elixirs fit too, but can only be taken out of combat.",
+       "In combat you can see your status effects next to your portrait: elixirs, food, poisons, bleeding and more.",
+       "The combat log now opens on its own, with a button at the end of the fight.",
+       "The tailoring loom works differently now: pick the bobbin in the colour the pattern asks for.",
+       "Xaina's house now opens onto Puddle Alley and shows on the map as the {up:Herbalist}."
+      ]
+     },
+     {
+      "title": "Changes",
+      "items": [
+       "Stamina and mana recover much faster out of combat, and faster still when you sit down.",
+       "Evolving beasts now have a limit: a single king of each kind on the island.",
+       "«The Laughing Skeleton» shows its recommended level.",
+       "The biggest beasts no longer prowl the entrance of a certain cave."
+      ]
+     },
+     {
+      "title": "Fixes",
+      "items": [
+       "You can now enter the guards' house at night.",
+       "Creatures no longer spot you in stealth without a roll, and if they do, you leave the shadows.",
+       "Carrying a torch no longer gives away your name to those who haven't spotted you.",
+       "The danger warning now also shows for enemies far stronger than you.",
+       "Burying, eating or drinking no longer stops you following someone.",
+       "A remedy now cures you even at full health.",
+       "A dialogue that showed in Spanish in other languages."
+      ]
+     }
+    ]
+   },
+   "fr": {
+    "highlight": "Un combat plus clair : déplace-toi d'un clic et garde tes potions à une touche",
+    "sections": [
+     {
+      "title": "Nouveautés",
+      "items": [
+       "Se déplacer et fuir en combat est bien plus clair : clique sur une salle ou utilise les touches. Dans les Options, tu peux choisir une rose des vents.",
+       "Quatre {up:emplacements de consommables} que tu choisis : potions et remèdes sur une seule touche, en combat comme en dehors. Les élixirs y ont leur place aussi, mais ne se prennent que hors combat.",
+       "En combat, tu vois tes effets à côté de ton portrait : élixirs, nourriture, poisons, saignements et plus encore.",
+       "Le journal de combat s'ouvre à part, avec son bouton à la fin du combat.",
+       "Le métier à tisser de la couture fonctionne autrement : choisis la bobine de la couleur que demande le motif.",
+       "La maison de Xaina donne désormais sur la Ruelle des Flaques et apparaît sur la carte comme l'{up:Herboriste}."
+      ]
+     },
+     {
+      "title": "Changements",
+      "items": [
+       "L'endurance et le mana se régénèrent bien plus vite hors combat, et encore plus quand tu t'assieds.",
+       "Les bêtes qui évoluent ont une limite : un seul roi de chaque espèce sur l'île.",
+       "« Le Squelette qui Rit » indique son niveau recommandé.",
+       "Les plus grosses bêtes ne rôdent plus à l'entrée d'une certaine grotte."
+      ]
+     },
+     {
+      "title": "Corrections",
+      "items": [
+       "On peut désormais entrer de nuit dans la maison des gardes.",
+       "Les créatures ne te repèrent plus en furtivité sans un jet, et si elles te voient, tu sors de l'ombre.",
+       "Porter une torche ne trahit plus ton nom auprès de ceux qui ne t'ont pas repéré.",
+       "L'avertissement de danger s'affiche aussi pour les ennemis bien plus forts que toi.",
+       "Enterrer, manger ou boire n'interrompt plus le suivi.",
+       "Un remède te soigne même quand ta vie est pleine.",
+       "Un dialogue s'affichait en espagnol dans d'autres langues."
+      ]
+     }
+    ]
+   },
+   "de": {
+    "highlight": "Klarerer Kampf: Bewege dich per Klick und hab deine Tränke auf einer Taste",
+    "sections": [
+     {
+      "title": "Neu",
+      "items": [
+       "Bewegen und Fliehen im Kampf ist viel klarer: Klicke auf einen Raum oder nutze die Tasten. In den Optionen kannst du stattdessen eine Windrose wählen.",
+       "Vier {up:Verbrauchsplätze} nach deiner Wahl: Tränke und Heilmittel auf einer Taste, im Kampf und außerhalb. Auch Elixiere passen hinein, lassen sich aber nur außerhalb des Kampfes einnehmen.",
+       "Im Kampf siehst du deine Zustände neben deinem Porträt: Elixiere, Essen, Gifte, Blutungen und mehr.",
+       "Das Kampfprotokoll öffnet sich jetzt separat, mit einem Knopf am Ende des Kampfes.",
+       "Der Webstuhl der Schneiderei funktioniert jetzt anders: Wähle die Spule in der Farbe, die das Muster verlangt.",
+       "Xainas Haus öffnet sich jetzt zur Pfützengasse und erscheint auf der Karte als {up:Kräuterhaus}."
+      ]
+     },
+     {
+      "title": "Änderungen",
+      "items": [
+       "Ausdauer und Mana regenerieren außerhalb des Kampfes viel schneller, und noch schneller, wenn du dich setzt.",
+       "Sich entwickelnde Bestien haben jetzt eine Grenze: ein einziger König jeder Art auf der Insel.",
+       "„Das Skelett, das lacht“ zeigt seine empfohlene Stufe.",
+       "Die größten Bestien streifen nicht mehr am Eingang einer gewissen Höhle umher."
+      ]
+     },
+     {
+      "title": "Fehlerbehebungen",
+      "items": [
+       "Das Haus der Wachen kann man jetzt auch nachts betreten.",
+       "Kreaturen entdecken dich in der Heimlichkeit nicht mehr ohne Wurf, und wenn doch, trittst du aus den Schatten.",
+       "Eine Fackel verrät deinen Namen nicht mehr denen, die dich nicht entdeckt haben.",
+       "Die Gefahrenwarnung erscheint jetzt auch bei Gegnern, die weit stärker sind als du.",
+       "Begraben, Essen oder Trinken beenden das Folgen nicht mehr.",
+       "Ein Heilmittel wirkt jetzt auch bei voller Gesundheit.",
+       "Ein Dialog erschien in anderen Sprachen auf Spanisch."
+      ]
+     }
+    ]
+   },
+   "it": {
+    "highlight": "Un combattimento più chiaro: muoviti con un clic e tieni le pozioni a portata di tasto",
+    "sections": [
+     {
+      "title": "Novità",
+      "items": [
+       "Muoversi e fuggire in combattimento è molto più chiaro: clicca su una stanza o usa i tasti. Nelle Opzioni puoi scegliere una rosa dei venti.",
+       "Quattro {up:slot dei consumabili} scelti da te: pozioni e rimedi su un solo tasto, in combattimento e fuori. Ci stanno anche gli elisir, ma si prendono solo fuori dal combattimento.",
+       "In combattimento vedi i tuoi stati accanto al ritratto: elisir, cibo, veleni, sanguinamenti e altro.",
+       "Il registro di combattimento si apre a parte, con il suo pulsante alla fine dello scontro.",
+       "Il telaio della sartoria funziona in un altro modo: scegli la bobina del colore che chiede il disegno.",
+       "La casa di Xaina ora si apre sul Vicolo delle Pozzanghere e compare sulla mappa come {up:Erborista}."
+      ]
+     },
+     {
+      "title": "Modifiche",
+      "items": [
+       "Vigore e mana si recuperano molto più in fretta fuori dal combattimento, e ancora di più se ti siedi.",
+       "Le bestie che si evolvono hanno un limite: un solo re per specie sull'isola.",
+       "«Lo scheletro che ride» indica il suo livello consigliato.",
+       "Le bestie più grandi non si aggirano più all'ingresso di una certa grotta."
+      ]
+     },
+     {
+      "title": "Correzioni",
+      "items": [
+       "Ora si può entrare di notte nella casa delle guardie.",
+       "Le creature non ti scoprono più in furtività senza un tiro, e se ti vedono esci dall'ombra.",
+       "Portare una torcia non rivela più il tuo nome a chi non ti ha visto.",
+       "L'avviso di pericolo compare anche con nemici molto più forti di te.",
+       "Seppellire, mangiare o bere non interrompono più il seguire.",
+       "Un rimedio cura anche con la vita al massimo.",
+       "Un dialogo appariva in spagnolo in altre lingue."
+      ]
+     }
+    ]
+   },
+   "pt": {
+    "highlight": "Um combate mais claro: move-te com um clique e tem as tuas poções numa tecla",
+    "sections": [
+     {
+      "title": "Novidades",
+      "items": [
+       "Mover-te e fugir em combate é muito mais claro: clica numa sala ou usa as teclas. Nas Opções podes escolher uma rosa dos ventos.",
+       "Quatro {up:espaços de consumíveis} escolhidos por ti: poções e remédios numa só tecla, em combate e fora dele. Os elixires também cabem, mas só se tomam fora de combate.",
+       "Em combate vês os teus estados junto ao teu retrato: elixires, comida, venenos, sangramentos e mais.",
+       "O registo de combate abre-se à parte, com o seu botão no fim da luta.",
+       "O tear da alfaiataria funciona de outra forma: escolhe a bobina da cor que o padrão pede.",
+       "A casa da Xaina abre agora para o Viela das Poças e aparece no mapa como {up:Ervanária}."
+      ]
+     },
+     {
+      "title": "Alterações",
+      "items": [
+       "A energia e a mana recuperam muito mais depressa fora de combate, e ainda mais se te sentares.",
+       "As bestas que evoluem têm um limite: um único rei de cada espécie na ilha.",
+       "«O esqueleto que ri» indica o seu nível recomendado.",
+       "As maiores bestas já não rondam a entrada de uma certa gruta."
+      ]
+     },
+     {
+      "title": "Correções",
+      "items": [
+       "Já se pode entrar de noite na casa dos guardas.",
+       "As criaturas já não te descobrem em furtividade sem um lançamento, e se te virem, sais das sombras.",
+       "Levar uma tocha já não denuncia o teu nome a quem não te viu.",
+       "O aviso de perigo também aparece com inimigos muito mais fortes do que tu.",
+       "Enterrar, comer ou beber já não interrompem o seguir.",
+       "Um remédio cura mesmo com a vida cheia.",
+       "Um diálogo aparecia em espanhol noutras línguas."
+      ]
+     }
+    ]
+   }
+  }
+ },
+ {
   "version": "0.0.2.22",
   "date": "2026-10-16",
   "notes": {

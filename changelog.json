@@ -1,5 +1,221 @@
 [
  {
+  "version": "0.0.2.24",
+  "date": "2026-10-18",
+  "notes": {
+   "es": {
+    "highlight": "Las criaturas aguantan más y avisan antes de golpear fuerte",
+    "sections": [
+     {
+      "title": "Novedades",
+      "items": [
+       "Las criaturas aguantan más y avisan antes de sus golpes más fuertes.",
+       "La barra de vida del enemigo marca tus golpes.",
+       "Una forma más discreta de moverse en combate, ahora por defecto.",
+       "Los vendedores tienen un botón para ir directo a su tienda desde la ventana de examinar, y todos sus botones llevan icono.",
+       "Los gatos de cierto callejón se dejan acariciar.",
+       "Nuevas escenas en torno a Polli.",
+       "El Guardián de la cripta guarda algo para quien lo derrote."
+      ]
+     },
+     {
+      "title": "Cambios",
+      "items": [
+       "Cazar da el doble de experiencia.",
+       "Los no muertos de la cueva del esqueleto ya no son imbatibles.",
+       "En JcJ, apartarse a la sala de al lado ya no esquiva un golpe cuerpo a cuerpo que te están preparando.",
+       "La descripción de las salas con mesas ya no lista los asientos libres; están en la pestaña Mobiliario."
+      ]
+     },
+     {
+      "title": "Correcciones",
+      "items": [
+       "Los cucharazos de Nina vuelven a sonar.",
+       "Al resucitar ya no se abre la ventana de examinar.",
+       "Atacar desde las sombras avisa de que te descubres.",
+       "Polli ya no se calla al entregarle su encargo."
+      ]
+     }
+    ]
+   },
+   "en": {
+    "highlight": "Creatures last longer and warn before their heavy blows",
+    "sections": [
+     {
+      "title": "New",
+      "items": [
+       "Creatures last longer and warn you before their heaviest blows.",
+       "The enemy's health bar marks your blows.",
+       "A quieter way to move in combat, now the default.",
+       "Merchants have a button in the examine window to go straight to their shop, and every button there now has an icon.",
+       "The cats of a certain alley let themselves be petted.",
+       "New scenes around Polli.",
+       "The crypt guardian keeps something for whoever defeats it."
+      ]
+     },
+     {
+      "title": "Changes",
+      "items": [
+       "Hunting gives twice the experience.",
+       "The undead of the skeleton cave are no longer unbeatable.",
+       "In PvP, stepping into the next room no longer dodges a melee blow being prepared against you.",
+       "Rooms with tables no longer list free seats in their description; they are in the Furniture tab."
+      ]
+     },
+     {
+      "title": "Fixes",
+      "items": [
+       "Nina's ladle taps can be heard again.",
+       "Reviving no longer opens the examine window.",
+       "Attacking from the shadows tells you that you have revealed yourself.",
+       "Polli no longer goes quiet when you hand in his errand."
+      ]
+     }
+    ]
+   },
+   "fr": {
+    "highlight": "Les créatures tiennent plus longtemps et préviennent avant de frapper fort",
+    "sections": [
+     {
+      "title": "Nouveautés",
+      "items": [
+       "Les créatures tiennent plus longtemps et préviennent avant leurs coups les plus forts.",
+       "La barre de vie de l'ennemi marque tes coups.",
+       "Une façon plus discrète de se déplacer en combat, désormais par défaut.",
+       "Les marchands ont un bouton dans la fenêtre d'examen pour aller directement à leur boutique, et tous ses boutons ont une icône.",
+       "Les chats d'une certaine ruelle se laissent caresser.",
+       "De nouvelles scènes autour de Polli.",
+       "Le gardien de la crypte garde quelque chose pour qui le vaincra."
+      ]
+     },
+     {
+      "title": "Changements",
+      "items": [
+       "La chasse rapporte deux fois plus d'expérience.",
+       "Les morts-vivants de la grotte du squelette ne sont plus imbattables.",
+       "En JcJ, passer dans la salle voisine n'esquive plus un coup au corps à corps qu'on te prépare.",
+       "Les salles avec des tables n’énumèrent plus les places libres dans leur description ; elles sont dans l’onglet Mobilier."
+      ]
+     },
+     {
+      "title": "Corrections",
+      "items": [
+       "Les coups de louche de Nina s'entendent à nouveau.",
+       "Revenir à toi n'ouvre plus la fenêtre d'examen.",
+       "Attaquer depuis l'ombre t'indique que tu te dévoiles.",
+       "Polli ne se tait plus quand tu lui rends sa commission."
+      ]
+     }
+    ]
+   },
+   "de": {
+    "highlight": "Kreaturen halten länger durch und warnen vor ihren schweren Schlägen",
+    "sections": [
+     {
+      "title": "Neu",
+      "items": [
+       "Kreaturen halten länger durch und warnen vor ihren schwersten Schlägen.",
+       "Die Lebensleiste des Gegners markiert deine Treffer.",
+       "Eine dezentere Art, sich im Kampf zu bewegen, jetzt als Standard.",
+       "Händler haben im Untersuchen-Fenster eine Schaltfläche, die direkt zu ihrem Laden führt, und alle Schaltflächen dort haben ein Symbol.",
+       "Die Katzen einer bestimmten Gasse lassen sich streicheln.",
+       "Neue Szenen rund um Polli.",
+       "Der Gruftwächter hält etwas für den bereit, der ihn besiegt."
+      ]
+     },
+     {
+      "title": "Änderungen",
+      "items": [
+       "Jagen bringt doppelt so viel Erfahrung.",
+       "Die Untoten der Skeletthöhle sind nicht mehr unbesiegbar.",
+       "Im PvP weicht man einem vorbereiteten Nahkampfschlag nicht mehr aus, indem man in den Nachbarraum geht.",
+       "Räume mit Tischen listen freie Plätze nicht mehr in der Beschreibung auf; sie stehen im Reiter Mobiliar."
+      ]
+     },
+     {
+      "title": "Fehlerbehebungen",
+      "items": [
+       "Ninas Kellenschläge sind wieder zu hören.",
+       "Beim Wiederbeleben öffnet sich das Untersuchen-Fenster nicht mehr.",
+       "Ein Angriff aus den Schatten sagt dir, dass du dich verrätst.",
+       "Polli verstummt nicht mehr, wenn du ihm seinen Auftrag bringst."
+      ]
+     }
+    ]
+   },
+   "it": {
+    "highlight": "Le creature resistono di più e avvisano prima dei colpi forti",
+    "sections": [
+     {
+      "title": "Novità",
+      "items": [
+       "Le creature resistono di più e avvisano prima dei loro colpi più forti.",
+       "La barra della vita del nemico segna i tuoi colpi.",
+       "Un modo più discreto di muoversi in combattimento, ora predefinito.",
+       "I mercanti hanno un pulsante nella finestra di esame per andare direttamente al loro negozio, e tutti i pulsanti lì hanno un'icona.",
+       "I gatti di un certo vicolo si lasciano accarezzare.",
+       "Nuove scene intorno a Polli.",
+       "Il guardiano della cripta custodisce qualcosa per chi lo sconfigge."
+      ]
+     },
+     {
+      "title": "Modifiche",
+      "items": [
+       "Cacciare dà il doppio dell'esperienza.",
+       "I non morti della grotta dello scheletro non sono più imbattibili.",
+       "In PvP, spostarsi nella stanza accanto non schiva più un colpo corpo a corpo che ti stanno preparando.",
+       "Le stanze con tavoli non elencano più i posti liberi nella descrizione; sono nella scheda Arredi."
+      ]
+     },
+     {
+      "title": "Correzioni",
+      "items": [
+       "I colpi di mestolo di Nina si sentono di nuovo.",
+       "Rinvenire non apre più la finestra di esame.",
+       "Attaccare dall'ombra ti avvisa che ti sei scoperto.",
+       "Polli non tace più quando gli consegni la sua commissione."
+      ]
+     }
+    ]
+   },
+   "pt": {
+    "highlight": "As criaturas aguentam mais e avisam antes de golpes fortes",
+    "sections": [
+     {
+      "title": "Novidades",
+      "items": [
+       "As criaturas aguentam mais e avisam antes dos seus golpes mais fortes.",
+       "A barra de vida do inimigo marca os teus golpes.",
+       "Uma forma mais discreta de te moveres em combate, agora por defeito.",
+       "Os mercadores têm um botão na janela de examinar para ir direto à loja, e todos os botões dessa janela têm ícone.",
+       "Os gatos de uma certa viela deixam-se acariciar.",
+       "Novas cenas à volta do Polli.",
+       "O guardião da cripta guarda algo para quem o derrotar."
+      ]
+     },
+     {
+      "title": "Alterações",
+      "items": [
+       "Caçar dá o dobro da experiência.",
+       "Os mortos-vivos da gruta do esqueleto já não são imbatíveis.",
+       "Em JcJ, passar para a sala ao lado já não esquiva um golpe corpo a corpo que te estão a preparar.",
+       "As salas com mesas já não listam os lugares livres na descrição; estão no separador Mobília."
+      ]
+     },
+     {
+      "title": "Correções",
+      "items": [
+       "As colheradas da Nina voltam a ouvir-se.",
+       "Ao reanimar já não se abre a janela de examinar.",
+       "Atacar das sombras avisa que te revelaste.",
+       "O Polli já não se cala quando lhe entregas a encomenda."
+      ]
+     }
+    ]
+   }
+  }
+ },
+ {
   "version": "0.0.2.23",
   "date": "2026-10-17",
   "notes": {

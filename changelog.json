@@ -1,5 +1,197 @@
 [
  {
+  "version": "0.0.2.25",
+  "date": "2026-10-20",
+  "notes": {
+   "es": {
+    "highlight": "Rework del combate: ahora todo más visual",
+    "sections": [
+     {
+      "title": "Novedades",
+      "items": [
+       "Nueva ventana de combate: ves a cada luchador, a quién apunta y qué está preparando.",
+       "Los proyectiles y conjuros se ven volar, también los que llegan desde otras salas.",
+       "En grupo ves a quién ataca cada compañero, y los que pelean en la misma sala comparten la pelea.",
+       "Las batallas grandes tienen su propio mapa: pulsa {up:M}.",
+       "Muchos sonidos nuevos de combate, y en Opciones puedes bajar los {up:sonidos de otros jugadores}.",
+       "Se ha agregado una nueva barra de experiencia encima del chat."
+      ]
+     },
+     {
+      "title": "Cambios",
+      "items": [
+       "El Maestro Drev ya no se mueve del Anfiteatro, y hay carteles para llegar.",
+       "Ahora el sigilo cuenta a la hora de robar."
+      ]
+     },
+     {
+      "title": "Correcciones",
+      "items": [
+       "Arreglado un fallo que hacía que no aparecieran más reyes de la fauna.",
+       "Arreglado un fallo que hacía que no salieran bichos en la cueva del esqueleto.",
+       "Arreglado un fallo que no te permitía ver la vida de tus compañeros de grupo en combate."
+      ]
+     }
+    ]
+   },
+   "en": {
+    "highlight": "Combat rework: everything more visual now",
+    "sections": [
+     {
+      "title": "New",
+      "items": [
+       "A new combat window: you see every fighter, who they are aiming at and what they are preparing.",
+       "Projectiles and spells can be seen flying, including those coming from other rooms.",
+       "In a group you see who each companion is attacking, and those fighting in the same room share the fight.",
+       "Large battles have their own map: press {up:M}.",
+       "Many new combat sounds, and in Options you can turn down {up:other players' sounds}.",
+       "A new experience bar has been added above the chat."
+      ]
+     },
+     {
+      "title": "Changes",
+      "items": [
+       "Master Drev no longer leaves the Amphitheatre, and there are signposts to get there.",
+       "Stealth now counts when stealing."
+      ]
+     },
+     {
+      "title": "Fixes",
+      "items": [
+       "Fixed a bug that stopped new wildlife kings from appearing.",
+       "Fixed a bug that stopped creatures from appearing in the skeleton cave.",
+       "Fixed a bug that kept you from seeing your group companions' health in combat."
+      ]
+     }
+    ]
+   },
+   "fr": {
+    "highlight": "Refonte du combat : tout est plus visuel",
+    "sections": [
+     {
+      "title": "Nouveautés",
+      "items": [
+       "Nouvelle fenêtre de combat : tu vois chaque combattant, qui il vise et ce qu'il prépare.",
+       "On voit voler les projectiles et les sorts, y compris ceux qui arrivent d'autres salles.",
+       "En groupe, tu vois qui attaque chaque compagnon, et ceux qui se battent dans la même salle partagent le combat.",
+       "Les grandes batailles ont leur propre carte : appuie sur {up:M}.",
+       "Beaucoup de nouveaux sons de combat, et dans les Options tu peux baisser les {up:sons des autres joueurs}.",
+       "Une nouvelle barre d'expérience a été ajoutée au-dessus du chat."
+      ]
+     },
+     {
+      "title": "Changements",
+      "items": [
+       "Maître Drev ne quitte plus l'Amphithéâtre, et des panneaux indiquent le chemin.",
+       "La furtivité compte désormais quand tu voles."
+      ]
+     },
+     {
+      "title": "Corrections",
+      "items": [
+       "Correction d'un bug qui empêchait l'apparition de nouveaux rois de la faune.",
+       "Correction d'un bug qui empêchait les créatures d'apparaître dans la grotte du squelette.",
+       "Correction d'un bug qui t'empêchait de voir la vie de tes compagnons de groupe en combat."
+      ]
+     }
+    ]
+   },
+   "de": {
+    "highlight": "Überarbeitung des Kampfes: jetzt alles anschaulicher",
+    "sections": [
+     {
+      "title": "Neu",
+      "items": [
+       "Ein neues Kampffenster: Du siehst jeden Kämpfer, auf wen er zielt und was er vorbereitet.",
+       "Geschosse und Zauber sieht man fliegen, auch die aus anderen Räumen.",
+       "In der Gruppe siehst du, wen jeder Gefährte angreift, und wer im selben Raum kämpft, teilt sich den Kampf.",
+       "Große Schlachten haben eine eigene Karte: drücke {up:M}.",
+       "Viele neue Kampfgeräusche, und in den Optionen kannst du die {up:Geräusche anderer Spieler} leiser stellen.",
+       "Eine neue Erfahrungsleiste wurde über dem Chat hinzugefügt."
+      ]
+     },
+     {
+      "title": "Änderungen",
+      "items": [
+       "Meister Drev verlässt das Amphitheater nicht mehr, und Wegweiser führen dorthin.",
+       "Heimlichkeit zählt jetzt beim Stehlen."
+      ]
+     },
+     {
+      "title": "Fehlerbehebungen",
+      "items": [
+       "Ein Fehler wurde behoben, durch den keine neuen Könige der Tierwelt mehr erschienen.",
+       "Ein Fehler wurde behoben, durch den in der Skeletthöhle keine Kreaturen erschienen.",
+       "Ein Fehler wurde behoben, durch den du im Kampf das Leben deiner Gruppengefährten nicht sehen konntest."
+      ]
+     }
+    ]
+   },
+   "it": {
+    "highlight": "Rework del combattimento: ora tutto più visivo",
+    "sections": [
+     {
+      "title": "Novità",
+      "items": [
+       "Nuova finestra di combattimento: vedi ogni combattente, chi sta mirando e cosa sta preparando.",
+       "Proiettili e incantesimi si vedono volare, anche quelli che arrivano da altre stanze.",
+       "In gruppo vedi chi attacca ogni compagno, e chi combatte nella stessa stanza condivide lo scontro.",
+       "Le grandi battaglie hanno una loro mappa: premi {up:M}.",
+       "Molti nuovi suoni di combattimento, e nelle Opzioni puoi abbassare i {up:suoni degli altri giocatori}.",
+       "È stata aggiunta una nuova barra dell'esperienza sopra la chat."
+      ]
+     },
+     {
+      "title": "Modifiche",
+      "items": [
+       "Il Maestro Drev non si allontana più dall'Anfiteatro, e ci sono cartelli per arrivarci.",
+       "Ora la furtività conta quando rubi."
+      ]
+     },
+     {
+      "title": "Correzioni",
+      "items": [
+       "Corretto un errore che impediva la comparsa di nuovi re della fauna.",
+       "Corretto un errore che impediva alle creature di comparire nella grotta dello scheletro.",
+       "Corretto un errore che non ti permetteva di vedere la vita dei tuoi compagni di gruppo in combattimento."
+      ]
+     }
+    ]
+   },
+   "pt": {
+    "highlight": "Rework do combate: agora tudo mais visual",
+    "sections": [
+     {
+      "title": "Novidades",
+      "items": [
+       "Nova janela de combate: vês cada lutador, para quem aponta e o que está a preparar.",
+       "Os projéteis e feitiços veem-se a voar, também os que chegam de outras salas.",
+       "Em grupo vês quem cada companheiro ataca, e quem luta na mesma sala partilha a luta.",
+       "As batalhas grandes têm o seu próprio mapa: carrega em {up:M}.",
+       "Muitos sons novos de combate, e nas Opções podes baixar os {up:sons de outros jogadores}.",
+       "Foi adicionada uma nova barra de experiência por cima do chat."
+      ]
+     },
+     {
+      "title": "Alterações",
+      "items": [
+       "O Mestre Drev já não sai do Anfiteatro, e há placas para lá chegar.",
+       "Agora a furtividade conta na hora de roubar."
+      ]
+     },
+     {
+      "title": "Correções",
+      "items": [
+       "Corrigido um erro que impedia o aparecimento de novos reis da fauna.",
+       "Corrigido um erro que impedia o aparecimento de criaturas na gruta do esqueleto.",
+       "Corrigido um erro que não te deixava ver a vida dos teus companheiros de grupo em combate."
+      ]
+     }
+    ]
+   }
+  }
+ },
+ {
   "version": "0.0.2.24",
   "date": "2026-10-18",
   "notes": {

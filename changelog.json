@@ -1,5 +1,125 @@
 [
  {
+  "version": "0.0.2.26",
+  "date": "2026-10-21",
+  "notes": {
+   "es": {
+    "highlight": "",
+    "sections": [
+     {
+      "title": "Cambios",
+      "items": [
+       "La ventana de fabricación muestra el nivel necesario para equipar lo que fabricas."
+      ]
+     },
+     {
+      "title": "Correcciones",
+      "items": [
+       "Arreglado un fallo que hacía que el combate acabara antes para uno de los compañeros de grupo que pelean en la misma sala.",
+       "Arreglado un fallo que hacía que recolectar dejara de seguir al líder del grupo.",
+       "Arreglado un fallo que hacía que el color de rareza del inventario no se viera hasta tocar un objeto."
+      ]
+     }
+    ]
+   },
+   "en": {
+    "highlight": "",
+    "sections": [
+     {
+      "title": "Changes",
+      "items": [
+       "The crafting window shows the level needed to equip what you make."
+      ]
+     },
+     {
+      "title": "Fixes",
+      "items": [
+       "Fixed a bug that made combat end early for one of the group members fighting in the same room.",
+       "Fixed a bug that made gathering stop following the group leader.",
+       "Fixed a bug that hid the rarity colour in the inventory until you touched an item."
+      ]
+     }
+    ]
+   },
+   "fr": {
+    "highlight": "",
+    "sections": [
+     {
+      "title": "Changements",
+      "items": [
+       "La fenêtre de fabrication indique le niveau nécessaire pour équiper ce que tu fabriques."
+      ]
+     },
+     {
+      "title": "Corrections",
+      "items": [
+       "Correction d'un bug qui faisait finir le combat plus tôt pour l'un des membres du groupe qui se battent dans la même salle.",
+       "Correction d'un bug qui faisait arrêter de suivre le chef du groupe en récoltant.",
+       "Correction d'un bug qui cachait la couleur de rareté de l'inventaire jusqu'à toucher un objet."
+      ]
+     }
+    ]
+   },
+   "de": {
+    "highlight": "",
+    "sections": [
+     {
+      "title": "Änderungen",
+      "items": [
+       "Das Herstellungsfenster zeigt die Stufe, die du zum Anlegen des Gegenstands brauchst."
+      ]
+     },
+     {
+      "title": "Fehlerbehebungen",
+      "items": [
+       "Ein Fehler wurde behoben, durch den der Kampf für ein Gruppenmitglied im selben Raum zu früh endete.",
+       "Ein Fehler wurde behoben, durch den man beim Sammeln dem Gruppenanführer nicht mehr folgte.",
+       "Ein Fehler wurde behoben, durch den die Seltenheitsfarbe im Inventar erst nach dem Anfassen eines Gegenstands erschien."
+      ]
+     }
+    ]
+   },
+   "it": {
+    "highlight": "",
+    "sections": [
+     {
+      "title": "Modifiche",
+      "items": [
+       "La finestra di fabbricazione mostra il livello necessario per equipaggiare ciò che fabbrichi."
+      ]
+     },
+     {
+      "title": "Correzioni",
+      "items": [
+       "Corretto un errore che faceva finire prima il combattimento per uno dei membri del gruppo che combattono nella stessa stanza.",
+       "Corretto un errore che faceva smettere di seguire il capo del gruppo mentre si raccoglie.",
+       "Corretto un errore che nascondeva il colore di rarità nell'inventario finché non si toccava un oggetto."
+      ]
+     }
+    ]
+   },
+   "pt": {
+    "highlight": "",
+    "sections": [
+     {
+      "title": "Alterações",
+      "items": [
+       "A janela de fabrico mostra o nível necessário para equipar o que fabricas."
+      ]
+     },
+     {
+      "title": "Correções",
+      "items": [
+       "Corrigido um erro que fazia o combate acabar mais cedo para um dos membros do grupo que lutam na mesma sala.",
+       "Corrigido um erro que fazia deixar de seguir o líder do grupo ao recolher.",
+       "Corrigido um erro que escondia a cor de raridade do inventário até tocares num objeto."
+      ]
+     }
+    ]
+   }
+  }
+ },
+ {
   "version": "0.0.2.25",
   "date": "2026-10-20",
   "notes": {

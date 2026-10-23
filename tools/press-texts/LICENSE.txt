@@ -1,0 +1,21 @@
+Modern Mud press kit
+
+Press, content creators and streamers may freely use these images, logos and
+texts in coverage of Modern Mud (articles, reviews, videos and streams). They
+may not be resold or used to imply an endorsement. (c) 2024-2026 Jacobo
+Caraballo.
+
+La prensa, creadores de contenido y streamers pueden usar libremente estas
+imagenes, logos y textos para hablar de Modern Mud (articulos, analisis,
+videos y directos). No se pueden revender ni usar para sugerir un respaldo
+oficial. (c) 2024-2026 Jacobo Caraballo.
+
+Contents / Contenido
+  logo/         Wordmark on transparent PNG (light and dark) and square icon
+  screenshots/  4k/ and 1080p/ gameplay and cinematic captures
+  key_art/      cover art (412x237 native up to 8240x4740, pixel-perfect),
+                Steam capsules and room illustrations
+  fact_sheet.md Facts, descriptions and features (EN / ES)
+
+Pixel art is enlarged only by whole numbers with nearest neighbour. If you
+need another size, scale it the same way to keep the pixels sharp.

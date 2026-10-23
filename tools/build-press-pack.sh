@@ -42,8 +42,11 @@ for w in 1000 2000 4000; do
   inner=$(( w - 2 * pad ))
   for v in light dark; do
     if [ "$v" = light ]; then fill='#ffffff'; else fill='#141112'; fi
-    "${IM[@]}" -background none -fill "$fill" -font "$FONT_LOGO" -size "${inner}x" \
-      label:'MODERN MUD' -trim +repage -resize "${inner}x" -bordercolor none -border "$pad" \
+    # Each word is set apart and joined with an explicit gap: at this weight
+    # Cinzel's own space is so narrow that it reads «MODERNMUD».
+    "${IM[@]}" -background none -fill "$fill" -font "$FONT_LOGO" -pointsize 400 \
+      \( label:'MODERN' -trim +repage \) \( -size 130x1 xc:none +size \) \( label:'MUD' -trim +repage \) \
+      -gravity south +append -trim +repage -resize "${inner}x" -bordercolor none -border "$pad" \
       "PNG32:$PK/logo/modernmud_logo_${v}_${w}w.png"
   done
 done

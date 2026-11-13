@@ -1,10 +1,166 @@
 [
  {
+  "version": "0.0.2.27",
+  "date": "2026-11-13",
+  "notes": {
+   "es": {
+    "highlight": "La escolta de Nera ya se puede terminar",
+    "sections": [
+     {
+      "title": "Novedades",
+      "items": [
+       "Fausto, un guardia fuera de servicio, pasa las horas jugando a los dados en la casa de guardias."
+      ]
+     },
+     {
+      "title": "Cambios",
+      "items": [
+       "Dentro de un edificio, la brújula y el botón de salida señalan la puerta de la calle."
+      ]
+     },
+     {
+      "title": "Correcciones",
+      "items": [
+       "Arreglado un fallo que impedía llegar al final de la escolta de Nera.",
+       "Arreglado un fallo que dejaba el registro de combate tapado por los retratos y el aviso de fin de combate.",
+       "Arreglado un fallo que mostraba en español los objetos de la lista de venta."
+      ]
+     }
+    ]
+   },
+   "en": {
+    "highlight": "Nera's escort can be finished again",
+    "sections": [
+     {
+      "title": "New",
+      "items": [
+       "Fausto, an off-duty guard, spends his hours playing dice in the guard house."
+      ]
+     },
+     {
+      "title": "Changes",
+      "items": [
+       "Inside a building, the compass and the exit button point to the street door."
+      ]
+     },
+     {
+      "title": "Fixes",
+      "items": [
+       "Fixed a bug that kept Nera's escort from reaching its end.",
+       "Fixed a bug that left the combat log hidden behind the portraits and the end-of-combat notice.",
+       "Fixed a bug that showed the items in the sell list in Spanish."
+      ]
+     }
+    ]
+   },
+   "fr": {
+    "highlight": "L'escorte de Nera peut de nouveau être terminée",
+    "sections": [
+     {
+      "title": "Nouveautés",
+      "items": [
+       "Fausto, un garde qui n'est pas de service, passe ses heures à jouer aux dés dans la maison des gardes."
+      ]
+     },
+     {
+      "title": "Changements",
+      "items": [
+       "À l'intérieur d'un bâtiment, la boussole et le bouton de sortie indiquent la porte de la rue."
+      ]
+     },
+     {
+      "title": "Corrections",
+      "items": [
+       "Correction d'un bug qui empêchait d'aller au bout de l'escorte de Nera.",
+       "Correction d'un bug qui laissait le journal de combat caché derrière les portraits et l'avis de fin de combat.",
+       "Correction d'un bug qui affichait en espagnol les objets de la liste de vente."
+      ]
+     }
+    ]
+   },
+   "de": {
+    "highlight": "Neras Geleit lässt sich wieder abschließen",
+    "sections": [
+     {
+      "title": "Neu",
+      "items": [
+       "Fausto, ein Wächter außer Dienst, vertreibt sich die Zeit im Wachhaus mit Würfelspielen."
+      ]
+     },
+     {
+      "title": "Änderungen",
+      "items": [
+       "In Gebäuden zeigen der Kompass und der Ausgangsknopf auf die Tür zur Straße."
+      ]
+     },
+     {
+      "title": "Fehlerbehebungen",
+      "items": [
+       "Ein Fehler wurde behoben, durch den Neras Geleit nicht bis zum Ende kam.",
+       "Ein Fehler wurde behoben, durch den das Kampfprotokoll hinter den Porträts und dem Kampfende-Hinweis verschwand.",
+       "Ein Fehler wurde behoben, durch den die Gegenstände in der Verkaufsliste auf Spanisch angezeigt wurden."
+      ]
+     }
+    ]
+   },
+   "it": {
+    "highlight": "La scorta di Nera si può di nuovo completare",
+    "sections": [
+     {
+      "title": "Novità",
+      "items": [
+       "Fausto, una guardia fuori servizio, passa le ore a giocare a dadi nella casa delle guardie."
+      ]
+     },
+     {
+      "title": "Modifiche",
+      "items": [
+       "Dentro un edificio, la bussola e il pulsante di uscita indicano la porta sulla strada."
+      ]
+     },
+     {
+      "title": "Correzioni",
+      "items": [
+       "Corretto un errore che impediva di arrivare alla fine della scorta di Nera.",
+       "Corretto un errore che lasciava il registro di combattimento nascosto dietro i ritratti e l'avviso di fine combattimento.",
+       "Corretto un errore che mostrava in spagnolo gli oggetti della lista di vendita."
+      ]
+     }
+    ]
+   },
+   "pt": {
+    "highlight": "A escolta da Nera já se pode terminar",
+    "sections": [
+     {
+      "title": "Novidades",
+      "items": [
+       "Fausto, um guarda de folga, passa as horas a jogar aos dados na casa da guarda."
+      ]
+     },
+     {
+      "title": "Alterações",
+      "items": [
+       "Dentro de um edifício, a bússola e o botão de saída apontam para a porta da rua."
+      ]
+     },
+     {
+      "title": "Correções",
+      "items": [
+       "Corrigido um erro que impedia chegar ao fim da escolta da Nera.",
+       "Corrigido um erro que deixava o registo de combate tapado pelos retratos e pelo aviso de fim de combate.",
+       "Corrigido um erro que mostrava em espanhol os objetos da lista de venda."
+      ]
+     }
+    ]
+   }
+  }
+ },
+ {
   "version": "0.0.2.26",
   "date": "2026-10-21",
   "notes": {
    "es": {
-    "highlight": "",
+    "highlight": "Ajustes en el combate en grupo y en la fabricación",
     "sections": [
      {
       "title": "Cambios",
@@ -23,7 +179,7 @@
     ]
    },
    "en": {
-    "highlight": "",
+    "highlight": "Fixes for group combat and crafting",
     "sections": [
      {
       "title": "Changes",
@@ -42,7 +198,7 @@
     ]
    },
    "fr": {
-    "highlight": "",
+    "highlight": "Corrections du combat en groupe et de la fabrication",
     "sections": [
      {
       "title": "Changements",
@@ -61,7 +217,7 @@
     ]
    },
    "de": {
-    "highlight": "",
+    "highlight": "Korrekturen am Gruppenkampf und am Herstellen",
     "sections": [
      {
       "title": "Änderungen",
@@ -80,7 +236,7 @@
     ]
    },
    "it": {
-    "highlight": "",
+    "highlight": "Correzioni al combattimento di gruppo e alla creazione",
     "sections": [
      {
       "title": "Modifiche",
@@ -99,7 +255,7 @@
     ]
    },
    "pt": {
-    "highlight": "",
+    "highlight": "Correções no combate em grupo e no fabrico",
     "sections": [
      {
       "title": "Alterações",
